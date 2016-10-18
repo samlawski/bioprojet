@@ -4,10 +4,10 @@ Gem::Specification.new do |spec|
   spec.name          = "theme-sb-bioprojet"
   spec.version       = "0.1.0"
   spec.authors       = ["jimbroski"]
-  spec.email         = ["sam.bogu@gmail.com"]
+  spec.email         = ["mail@samuelboguslawski.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = %q{Official Bioprojet Website Jekyll Theme}
+  spec.homepage      = "https://github.com/jimbroski/bioprojet/tree/master/theme-sb-bioprojet"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r{^(_layouts|_includes|_sass|LICENSE|README)/i}) }
