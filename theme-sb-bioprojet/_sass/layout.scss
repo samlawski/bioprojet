@@ -46,17 +46,36 @@
     top: -29px;
     left: 40px;
   }
+  // Mobile dropdown
+  .icon-bar {
+    background-color: $grey-color;
+  }
 }
 #navbar {
   margin-left: 220px;
 }
-@media (max-width: 992px) {
+@media (max-width: 992px) { // Tablet view
   .website-wrapper>nav{
     .container {
       width: auto;
     }
     a, a:link, a:visited {
       padding: 10px 10px;
+    }
+  }
+}
+@media (max-width: 767px) { // Phone view
+  #navbar {
+    margin-left: 0;
+    text-align: right;
+    background-color: white;
+  }
+  .website-wrapper>nav {
+    li {
+      background-color: white;
+    }
+    .logo{
+      left: 13px;
     }
   }
 }
