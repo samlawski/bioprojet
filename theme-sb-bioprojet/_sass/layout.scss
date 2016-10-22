@@ -8,6 +8,12 @@
   background-color: $background-color;
 }
 
+.website-wrapper>footer {
+  border-top: 1px solid $grey-color-light;
+  margin-top: 10px;
+  padding: 5px;
+}
+
 // Links
 a, a:link, a:visited {
   color: $grey-color;

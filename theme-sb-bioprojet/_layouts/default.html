@@ -1,17 +1,17 @@
 <html>
-<head>
-  <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
-  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-  {% include head.html %}
-</head>
+  <head>
+    <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+    <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+    {% include head.html %}
+  </head>
+  
+  <body>
+    <div class="website-wrapper">
+      {% include navbar.html %}
 
-<body>
+      {{ content }}
 
-  <div class="website-wrapper">
-    {% include navbar.html %}
-    
-    {{ content }}
-  </div>
-
-</body>
+      {% include footer.html %}
+    </div>
+  </body>
 </html>
