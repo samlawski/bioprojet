@@ -50,3 +50,13 @@
 #navbar {
   margin-left: 220px;
 }
+@media (max-width: 992px) {
+  .website-wrapper>nav{
+    .container {
+      width: auto;
+    }
+    a, a:link, a:visited {
+      padding: 10px 10px;
+    }
+  }
+}
