@@ -1,7 +1,11 @@
+.website-wrapper {
+  padding-top: 150px;
+}
 .website-wrapper>nav{
   max-width: $max-width;
   margin: auto;
-  margin-top: 26px;
+  padding-top: 26px;
+  background-color: white;
 
   .container {
     border-bottom: 1px solid $grey-color-light;

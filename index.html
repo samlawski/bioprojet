@@ -4,7 +4,35 @@ layout: default
 
 <main>
 
-  <section id="#produkte">
+  <section class="container" id="#produkte">
+    <!-- Produkt Übersicht -->
+    <div class="row" role="tablist">
+      <div role="presentation" class="col-xs-4 active">
+        <a href="#medikament-wakix" aria-controls="medikament-wakix" role="tab" data-toggle="tab">
+          <img src="uploads/medizin-demo.png" class="img-responsive" alt="Wakix Verpackung" />
+          Wakix
+        </a>
+      </div>
+      <div role="presentation" class="col-xs-4">
+        <a href="#medikament-anapen" aria-controls="medikament-anapen" role="tab" data-toggle="tab">
+          <img src="uploads/medizin-demo.png" class="img-responsive" alt="Wakix Verpackung" />
+          Anapen
+        </a>
+      </div>
+      <div role="presentation" class="col-xs-4">
+        <a href="#medikament-tiorfan" aria-controls="medikament-tiorfan" role="tab" data-toggle="tab">
+          <img src="uploads/medizin-demo.png" class="img-responsive" alt="Wakix Verpackung" />
+          Tiorfan
+        </a>
+      </div>
+    </div>
+
+    <!-- Produkt Details -->
+    <div class="tab-content">
+      <div role="tabpanel" class="tab-pane active" id="medikament-wakix">Wakix</div>
+      <div role="tabpanel" class="tab-pane" id="medikament-anapen">Anapen</div>
+      <div role="tabpanel" class="tab-pane" id="medikament-tiorfan">Tiorfan</div>
+    </div>
   </section>
 
   <section id="#unternehmen">
