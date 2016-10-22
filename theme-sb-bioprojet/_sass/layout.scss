@@ -24,6 +24,9 @@
   a, a:link, a:visited {
     color: black;
   }
+  a:hover {
+    background-color: inherit;
+  }
 }
 #navbar {
   margin-left: 220px;
