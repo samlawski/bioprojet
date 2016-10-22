@@ -23,3 +23,22 @@ a, a:link, a:visited {
 a:hover, a:focus {
   color: $grey-color-dark;
 }
+
+// Frontpage
+
+.website-wrapper>header {
+  width: 100%;
+  height: 350px;
+  background-image: url('../uploads/hero-light.jpg');
+  background-size: cover;
+  background-position: center;
+  color: black;
+  display: flex;
+  .slogan {
+    align-self: center;
+    margin-left: 20px;
+    padding: 30px;
+    background-color: rgba(250,250,250,.8);
+    font-size: 2em;
+  }
+}
