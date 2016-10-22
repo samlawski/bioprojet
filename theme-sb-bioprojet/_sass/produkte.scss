@@ -1,12 +1,14 @@
-ul.product-select {
-  list-style: none;
-  a {
-    display: block;
-    padding: 20px;
-    transition: padding .4s;
-  }
+#produkte {
+  ul.product-select {
+    list-style: none;
+    a {
+      display: block;
+      padding: 20px;
+      transition: padding .4s;
+    }
 
-  li.active a{
-    padding: 0;
+    li.active a{
+      padding: 0;
+    }
   }
 }

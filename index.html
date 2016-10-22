@@ -8,7 +8,7 @@ layout: default
 
 <main>
 
-  <section class="container" id="produkte">
+  <section id="produkte" class="container">
     <!-- Produkt Übersicht -->
     <ul class="product-select row" role="tablist">
       <li role="presentation" class="col-xs-4 text-center">
@@ -83,13 +83,38 @@ layout: default
     </div><!-- / row -->
   </section>
 
-  <section id="unternehmen">
-  </section>
+  <!-- <section id="unternehmen">
+  </section> -->
 
-  <section id="patienten-service">
-  </section>
+  <!-- <section id="patienten-service">
+  </section> -->
 
-  <section id="kontakt">
+  <section id="kontakt" class="container">
+    <div class="row">
+      <div class="col-sm-6 col-md-offset-1 col-md-5">
+        <h2>Kontakt</h2>
+        <p>
+          Telefon: +49(30)7974040-0<br>
+          Fax: +49(30)7974040-17<br>
+          E-Mail: info@elpen-pharma.de
+        </p>
+        <form>
+          <input type="text" class="form-control" placeholder="Name" /><br>
+          <input type="text" class="form-control" placeholder="Email" /><br>
+          <textarea class="form-control" placeholder="Nachricht" rows="8"></textarea><br>
+          <input type="submit" class="btn btn-default" value="Abschicken" />
+        </form>
+      </div><!-- / col -->
+      <div class="col-sm-6 col-md-5">
+        <h2>Standort</h2>
+        <p>
+          ELPEN Pharma GmbH<br>
+          Bismarckstr. 63<br>
+          12169 Berlin<br>
+        </p>
+        <img src="uploads/maps-demo.png" class="img-responsive">
+      </div><!-- / col -->
+    </div><!-- / row -->
   </section>
 
 </main>
