@@ -7,3 +7,19 @@
   font-family: $base-font-family;
   background-color: $background-color;
 }
+
+// Links
+a, a:link, a:visited {
+  color: $grey-color;
+  font-weight: 600;
+  transition: all .4s;
+
+  &.thick {
+    text-transform: uppercase;
+    text-decoration: none;
+    letter-spacing: 0.8px;
+  }
+}
+a:hover, a:focus {
+  color: $grey-color-dark;
+}
