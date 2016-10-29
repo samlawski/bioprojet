@@ -3,12 +3,14 @@
     list-style: none;
     a {
       display: block;
-      padding: 20px;
+      padding: 20px 0;
       transition: padding .4s;
+      border-bottom: 2px solid transparent;
     }
 
     li.active a{
-      padding: 0;
+      border-bottom: 2px solid $brand-color;
+      // padding: 0;
     }
   }
 }
