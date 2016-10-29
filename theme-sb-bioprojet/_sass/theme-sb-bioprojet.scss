@@ -1,8 +1,9 @@
 // Define defaults for each variable.
 
-$base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !default;
-// $base-font-size:   16px !default;
-// $base-font-weight: 400 !default;
+$base-font-family: 'Slabo 27px', 'Helvetica Neue', Helvetica, Arial, sans-serif !default;
+$title-font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif !default;
+$base-font-size:   17px !default;
+$base-font-weight: 400 !default;
 // $small-font-size:  $base-font-size * 0.875 !default;
 // $base-line-height: 1.5 !default;
 //
@@ -38,6 +39,7 @@ $max-width:    1440px !default;
 
 // Import partials.
 @import
+  url('https://fonts.googleapis.com/css?family=Roboto:400,700|Slabo+27px'),
   "layout",
   "navbar",
   "produkte"
