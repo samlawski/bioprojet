@@ -13,6 +13,10 @@
   }
 
   .krankheitsbeschreibung {
+    a {
+      color: $brand-color;
+      text-decoration: underline;
+    }
     img {
       max-width: 100%;
       max-height: 400px;
