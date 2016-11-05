@@ -11,7 +11,7 @@ $base-font-weight: 400 !default;
 //
 // $text-color:       #111 !default;
 $background-color: #fdfdfd !default;
-$brand-color:      #B6274B !default;
+$brand-color:      #CD003B !default;
 
 $grey-color:       #828282 !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
@@ -44,5 +44,7 @@ $max-width:    1440px !default;
   "navbar",
   "infocenter",
   "produkte",
+  "patienten-service",
+  "unternehmen",
   "kontakt"
 ;
