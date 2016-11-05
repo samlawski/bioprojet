@@ -20,8 +20,8 @@ h1 {
 }
 
 .website-wrapper>footer {
-  border-top: 1px solid #ccc;
-  // margin-top: 10px;
+  // border-top: 1px solid #ccc;
+  margin-top: 10px;
   padding: 5px;
   background-color: #eee;
 }
@@ -68,9 +68,11 @@ a:hover, a:focus {
   }
 }
 
+// ----- HOME -----
 // Partner
 #partner {
   margin-top: 60px;
+  margin-bottom: 60px;
   border: 1px solid $grey-color-light;
 
   img {
@@ -84,12 +86,4 @@ a:hover, a:focus {
     -webkit-filter: grayscale(1%) opacity(100%);
     filter: grayscale(1%) opacity(100%);
   }
-}
-
-// Kontakt
-#kontakt {
-  background-color: #eee;
-  padding-top: 20px;
-  padding-bottom: 20px;
-  margin-top: 50px;
 }
