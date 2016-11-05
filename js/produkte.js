@@ -12,7 +12,7 @@ firebase.initializeApp(config);
 if(typeof getUrlParameter('key') != "undefined"){
   sessionStorage.doccheck_key = getUrlParameter("key");
   window.history.replaceState('produkte-login', 'Produkte', '/produkte');
-}
+};
 
 // Append DocCheck login form
 function appendLoginForm(){
@@ -22,7 +22,7 @@ function appendLoginForm(){
       '<iframe align="center" frameborder="0" scrolling="no" width="311" height="188" name="dc_login_iframe" id="dc_login_iframe" src="https://login.doccheck.com/code/de/2000000009691/m_red/" ><a href="https://login.doccheck.com/code/de/2000000009691/m_red/" target="_blank">LOGIN</a></iframe>' +
     '</div>'
   );
-}
+};
 
 // Check if doccheck_key already exists in session storage
 if(sessionStorage.doccheck_key && sessionStorage.doccheck_key.length > 0){
@@ -54,5 +54,15 @@ if(sessionStorage.doccheck_key && sessionStorage.doccheck_key.length > 0){
     }
   });
 }else{
-  appendLoginForm();
-}
+  // Display Admin options inside vidual editor
+  if (window.location.host === "app.cloudcannon.com") {
+    $('#produkte-login').html(
+      '<div class="text-center" style="border: 3px solid #5bc0de; padding: 20px;">' +
+        '<div class="lead">Die Produkte sind in einer separaten, geschützten Datenbank gesichert und können daher nur über den folgenden Button bearbeitet werden:</div>' +
+        '<a href="#" class="btn btn-info" style="color: white"><span class="glyphicon glyphicon-pencil" aria-hidden="true"></span> Produkte Bearbeiten</a>' +
+      '</div>'
+    )
+  }else{
+    appendLoginForm();
+  }
+};
