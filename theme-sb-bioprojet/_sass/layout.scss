@@ -15,7 +15,7 @@
   -webkit-box-direction: normal;
   -ms-flex-direction: column;
   flex-direction: column;
-  height: 100%;
+  min-height: 100%;
 }
 .website-wrapper>section {
   -webkit-box-flex: 1;
