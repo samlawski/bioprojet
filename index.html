@@ -1,15 +1,16 @@
 ---
 layout: default
+bild_path: '../uploads/hero-light.jpg'
 ---
 
-<header style="background-image: url('../uploads/hero-light.jpg');">
-  <div class="slogan lead">PASSION FOR RESEARCH & INNOVATION</div>
+<header style="background-image: url({{ page.bild_path }});">
+  <div class="slogan lead editable">PASSION FOR RESEARCH & INNOVATION</div>
 </header>
 
 <main>
 
   <section id="partner" class="container">
-    <h1>Ein Beispieltitel</h1>
+    <h1 class="editable">Ein Beispieltitel</h1>
     <div class="text-center">
       <img src="uploads/partner1.png" height="100px">
       <img src="uploads/partner2.png" height="100px">
