@@ -14,4 +14,14 @@
       padding: 0;
     }
   }
+  .produkt_beschreibung {
+    img {
+      max-width: 100%;
+      height: auto !important;
+    }
+    a {
+      color: $brand-color;
+      text-decoration: underline;
+    }
+  }
 }

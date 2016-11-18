@@ -43,9 +43,11 @@ if(sessionStorage.doccheck_key && sessionStorage.doccheck_key.length > 0){
         $('#produkte-login .tab-content').append(
           '<div role="tabpanel" class="tab-pane" id="medikament-' + child.val().name + '">' +
             '<h1>' + child.val().name + '®</h1>' +
-            '<p>' + child.val().beschreibung + '</p>' +
+            '<div class="produkt_beschreibung">' + child.val().beschreibung + '</div>' +
           '</div>'
         );
+        // dynamically adjust HTML in Beschreibung
+        $(".produkt_beschreibung a").attr('target', '_new');
       }); // / foreach
       $('#produkte-login li').first().addClass('active');
       $('#produkte-login .tab-pane').first().addClass('active');
