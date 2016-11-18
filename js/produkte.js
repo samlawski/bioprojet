@@ -27,7 +27,7 @@ function appendLoginForm(){
 // Check if doccheck_key already exists in session storage
 if(sessionStorage.doccheck_key && sessionStorage.doccheck_key.length > 0){
   // Get "Produkte" form Firebase using the doccheck_key as a path
-  firebase.database().ref(sessionStorage.doccheck_key + '/produkte').once('value', function(snapshot){
+  firebase.database().ref(sessionStorage.doccheck_key + '/product_list').once('value', function(snapshot){
     if(snapshot.val()){
       snapshot.forEach(function(child){
         // Append Tab select
