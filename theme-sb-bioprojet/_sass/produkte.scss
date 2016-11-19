@@ -1,17 +1,33 @@
 #produkte {
   margin-top: 60px;
-  ul.product-select {
+  .product-select {
     list-style: none;
+    overflow-x: scroll;
+    width: 100%;
+    white-space: nowrap;
+    padding: 0;
+    text-align: center;
+
+    .product {
+      display: inline-block;
+    }
+    .product-label {
+      margin-top: 10px;
+    }
     a {
       display: block;
-      padding: 20px;
+      padding: 15px;
       transition: padding .4s;
-      // border-bottom: 2px solid transparent;
     }
-
-    li.active a{
-      // border-bottom: 2px solid $brand-color;
-      padding: 0;
+    .active a{
+      border-top: 2px solid $brand-color;
+      border-bottom: 2px solid $brand-color;
+      box-shadow: 0 0 10px #ddd;
+    }
+    img {
+      max-height: 100px;
+      width: auto;
+      margin: auto;
     }
   }
   .produkt_beschreibung {

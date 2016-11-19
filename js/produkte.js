@@ -32,10 +32,10 @@ if(sessionStorage.doccheck_key && sessionStorage.doccheck_key.length > 0){
       snapshot.forEach(function(child){
         // Append Tab select
         $('#produkte-login .product-select').append(
-          '<li role="presentation" class="col-xs-4 text-center">' +
-            '<a class="thick" href="#medikament-' + child.val().name + '" aria-controls="medikament-' + child.val().name + '" role="tab" data-toggle="tab">' +
+          '<li class="product text-center">' +
+            '<a class="thick text-center" href="#medikament-' + child.val().name + '" aria-controls="medikament-' + child.val().name + '" role="tab" data-toggle="tab">' +
               '<img src="' + child.val().bild_url + '" class="img-responsive" alt="' + child.val().name + ' Verpackung" />' +
-              child.val().name +
+              '<div class="product-label">' + child.val().name + '</div>' +
             '</a>' +
           '</li>'
         );
@@ -46,15 +46,15 @@ if(sessionStorage.doccheck_key && sessionStorage.doccheck_key.length > 0){
             '<div class="produkt_beschreibung">' + child.val().beschreibung + '</div>' +
           '</div>'
         );
-        // dynamically adjust HTML in Beschreibung
-        $(".produkt_beschreibung a").attr('target', '_new');
       }); // / foreach
-      $('#produkte-login li').first().addClass('active');
+      // dynamically adjust HTML in Beschreibung
+      $(".produkt_beschreibung a").attr('target', '_new');
+      $('#produkte-login .product').first().addClass('active');
       $('#produkte-login .tab-pane').first().addClass('active');
     }else{
       appendLoginForm();
     }
-  });
+  }).then(function(success){});
 }else{
   // Display Admin options inside vidual editor
   if (window.location.host === "app.cloudcannon.com") {
