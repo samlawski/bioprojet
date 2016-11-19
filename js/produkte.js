@@ -8,6 +8,11 @@ var config = {
 };
 firebase.initializeApp(config);
 
+// Check admin access
+if(typeof getUrlParameter('admin') != "undefined"){
+  sessionStorage.admin_access = getUrlParameter("admin");
+};
+
 // Check if parameter from DocCheck exist
 if(typeof getUrlParameter('key') != "undefined"){
   sessionStorage.doccheck_key = getUrlParameter("key");
