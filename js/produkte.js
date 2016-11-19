@@ -61,7 +61,7 @@ if(sessionStorage.doccheck_key && sessionStorage.doccheck_key.length > 0){
     $('#produkte-login').html(
       '<div class="text-center" style="border: 3px solid #5bc0de; padding: 20px;">' +
         '<div class="lead">Die Produkte sind in einer separaten, geschützten Datenbank gesichert und können daher nur über den folgenden Button bearbeitet werden:</div>' +
-        '<a href="#" class="btn btn-info" style="color: white"><span class="glyphicon glyphicon-pencil" aria-hidden="true"></span> Produkte Bearbeiten</a>' +
+        '<a href="/produkte_admin" class="btn btn-info" style="color: white"><span class="glyphicon glyphicon-pencil" aria-hidden="true"></span> Produkte Bearbeiten</a>' +
       '</div>'
     )
   }else{
