@@ -80,9 +80,9 @@ window.onload = function(){
   tinymce.init({
     selector:'textarea',
     menubar: false,
-    toolbar: "undo redo | bold italic underline | removeformat | alignleft aligncenter alignright bullist numlist outdent indent | link image",
+    toolbar: "undo redo | bold italic underline | removeformat | alignleft aligncenter alignright bullist numlist outdent indent | link image media",
     height: 300,
-    plugins: "image link"
+    plugins: "image link media"
   });
   // Listen: Admin access
   document.getElementById('admin_access_submit').onclick = function(){
