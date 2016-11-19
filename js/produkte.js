@@ -11,7 +11,7 @@ firebase.initializeApp(config);
 // Check if parameter from DocCheck exist
 if(typeof getUrlParameter('key') != "undefined"){
   sessionStorage.doccheck_key = getUrlParameter("key");
-  window.history.replaceState('produkte-login', 'Produkte', '/produkte');
+//   window.history.replaceState('produkte-login', 'Produkte', '/produkte');
 };
 
 // Append DocCheck login form
