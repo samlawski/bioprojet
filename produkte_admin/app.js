@@ -48,7 +48,6 @@ function ListItem(item_data, id, parent_key){
   // Set onClick EventListener
   this.element.onclick = function() {
     document.getElementById('edit').classList.remove('hidden');
-    document.getElementById('edit_name').innerHTML = item_data.name;
     document.getElementById('input_name').value = item_data.name;
     document.getElementById('input_id').value = parent_key;
     document.getElementById('input_bild').value = item_data.bild_url;
