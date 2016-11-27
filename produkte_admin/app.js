@@ -22,6 +22,7 @@ function ObjectList(name, key){
   this.initializeWithKey(key);
   this.getOnceAndAppend();
   this.initializeSaveButton(key);
+  this.initializeDeleteButton(key);
 };
 ObjectList.prototype.initializeWithKey = function(key){
   this.database_parent = firebase.database().ref(key);
@@ -55,6 +56,17 @@ ObjectList.prototype.initializeSaveButton = function(key){
     setTimeout(function(){
       document.getElementById('input_submit_confirmation').classList.add('hidden');
     }, 5000);
+  }
+};
+ObjectList.prototype.initializeDeleteButton = function(key){
+  document.getElementById('input_delete').onclick = function(){
+    var are_you_sure = confirm("Der Löschvorgang ist permanent und kann nicht rückgängig gemacht werden! Bist du sicher, du willst dieses Produkt löschen?");
+    if (are_you_sure) {
+      firebase.database().ref(key + '/product_list').child(document.getElementById('input_id').value).remove();
+      document.getElementById('edit').classList.add('hidden');
+      initializeObjectList();
+      alert("Produkt erfolgreich entfernt.");
+    }
   }
 };
 

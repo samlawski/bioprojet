@@ -90,6 +90,11 @@ body>header>h1 {
   background-color: lightgreen;
   border-color: green;
 }
+.btn-delete {
+  background-color: tomato;
+  border-color: red;
+  color: white;
+}
 .btn:hover, .btn:focus {
   box-shadow: 0 0 10px #ddd;
 }
