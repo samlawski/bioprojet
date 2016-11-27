@@ -5,6 +5,66 @@ main {
   flex-wrap: wrap-reverse;;
   justify-content: center;
 }
+
+/* General Form styles */
+input[type="text"] {
+  border: 1px solid #ddd;
+  outline: none;
+  padding: 8px;
+  margin: 2px;
+  transition: all .4s;
+}
+input[type="text"]:focus {
+  border-color: #888;
+}
+small {
+  color: #aaa;
+}
+
+/* Header */
+body>header>h1 {
+  padding: 10px;
+}
+
+/* Sidebar item select */
+#list {
+  margin-top: 10px;
+  min-width: 300px;
+  background-color: #ededed;
+}
+#list>div {
+  padding: 20px;
+  transition: all .4s;
+  cursor: pointer;
+}
+#list>div:hover {
+  background-color: #ccc;
+}
+
+/* Edit area */
+#edit {
+  min-width: 300px;
+  flex-grow: 1;
+}
+.area {
+  padding: 10px;
+  padding: 10px;
+  margin: 10px;
+  border-left: 4px solid #ededed;
+  border-bottom: 1px solid #ededed;
+  transition: all .4s;
+}
+.area:hover, .area:focus {
+  background-color: #fafafa;
+}
+.area>label {
+  font-weight: 600;
+  margin-right: 10px;
+  display: inline-block;
+  margin-bottom: 10px;
+}
+
+/* Helper classes */
 .btn, .btn:link, .btn:visited {
   display: inline-block;
   padding: 10px;
@@ -21,37 +81,6 @@ main {
 .btn:hover, .btn:focus {
   box-shadow: 0 0 10px #ddd;
 }
-/* Sidebar item select */
-#list {
-  min-width: 300px;
-  background-color: #ededed;
-}
-#list>div {
-  padding: 20px;
-  transition: all .4s;
-  cursor: pointer;
-}
-#list>div:hover {
-  background-color: #ccc;
-}
-/* Edit area */
-#edit {
-  min-width: 300px;
-  flex-grow: 1;
-}
-.area {
-  padding: 10px;
-}
-.area>input[type="text"] {
-
-}
-.area>label {
-  font-weight: 600;
-  margin-right: 10px;
-  display: inline-block;
-  margin-bottom: 10px;
-}
-/* Helper classes */
 .hidden {
   display: none;
 }
