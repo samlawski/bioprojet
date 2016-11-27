@@ -8,6 +8,7 @@ function randomString(){
 
 // Object List
 function initializeObjectList(){
+  document.getElementById("list").innerHTML = "";
   firebase.database().ref().once("value", function(snap){
     var key = Object.keys(snap.val())[0];
     list = new ObjectList("list", key);
@@ -39,7 +40,7 @@ ObjectList.prototype.getOnceAndAppend = function(){
       name: "",
       bild_url: "",
       beschreibung: ""
-    }, "list", randomString()));
+    }, object_name, randomString()));
   });
 };
 ObjectList.prototype.initializeSaveButton = function(key){
@@ -49,6 +50,7 @@ ObjectList.prototype.initializeSaveButton = function(key){
       bild_url: document.getElementById('input_bild').value,
       beschreibung: tinymce.activeEditor.getContent()
     });
+    initializeObjectList();
     document.getElementById('input_submit_confirmation').classList.remove('hidden');
     setTimeout(function(){
       document.getElementById('input_submit_confirmation').classList.add('hidden');
