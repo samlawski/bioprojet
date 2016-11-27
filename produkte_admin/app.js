@@ -59,11 +59,26 @@ function ListItem(item_data, id, parent_key){
     document.getElementById('input_id').value = parent_key;
     document.getElementById('input_bild').value = item_data.bild_url;
     document.getElementById('input_bild_current').src = item_data.bild_url;
+    prependServerURL(document.getElementById('input_bild_current'));
     tinymce.activeEditor.setContent(item_data.beschreibung);
+    prependServerURLtoEditorImages();
   };
 
   return this.element;
 }
+
+// Prepend URL to images in textarea and titelimage
+function prependServerURL(img_element){
+  var server_url = "http://gentle-raven.cloudvent.net/";
+  img_element.src = img_element.src.replace(/.*(?=uploads\/)/, server_url);
+};
+
+function prependServerURLtoEditorImages(){
+  console.log(tinymce.activeEditor.selection.getNode());
+  for (image_element of tinymce.activeEditor.selection.getNode().querySelectorAll('img')) {
+    prependServerURL(image_element);
+  }
+};
 
 var list;
 window.onload = function(){
@@ -85,6 +100,7 @@ window.onload = function(){
   // Update Image on input_bild change
   document.getElementById('input_bild').addEventListener("focusout", function(){
     document.getElementById('input_bild_current').src = document.getElementById('input_bild').value;
+    prependServerURL(document.getElementById('input_bild_current'));
   });
   // Textarea initialize
   tinymce.init({
@@ -92,8 +108,10 @@ window.onload = function(){
     menubar: false,
     toolbar: "undo redo | bold italic underline | removeformat | alignleft aligncenter alignright bullist numlist outdent indent | link image media",
     height: 300,
-    plugins: "image link media"
+    plugins: "image link media",
+    image_prepend_url: "http://gentle-raven.cloudvent.net/"
   });
+
   // Listen: Admin access
   document.getElementById('admin_access_submit').onclick = function(){
     var password = document.getElementById('admin_access_pw').value;
