@@ -3,6 +3,13 @@
 // ********************* //
 
 // Object List
+function initializeObjectList(){
+  firebase.database().ref().once("value", function(snap){
+    var key = Object.keys(snap.val())[0];
+    list = new ObjectList("list", key);
+  });
+};
+
 function ObjectList(name, key){
   this.name = name;
   this.html_parent = document.getElementById(name);
@@ -68,11 +75,7 @@ window.onload = function(){
         document.querySelector('main').classList.remove('hidden');
         document.getElementById('require_login').classList.add('hidden');
         // Get content from firebase
-        firebase.database().ref().once("value", function(snap){
-          var key = Object.keys(snap.val())[0];
-
-          list = new ObjectList("list", key);
-        });
+        initializeObjectList();
       }
     } else {
       document.getElementById('require_login').classList.remove('hidden');
