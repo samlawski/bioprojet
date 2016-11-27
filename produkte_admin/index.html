@@ -37,7 +37,7 @@
   <section id="require_login" class="hidden">
     Bitte das Admin-Passwort eingeben:
     <input id="admin_access_pw" type="password" />
-    <input id="admin_access_submit" type="submit" value="Anmelden" />
+    <input id="admin_access_submit" type="submit" value="Anmelden" class="btn" />
   </section>
   <main class="hidden">
     <aside id="list">
@@ -49,12 +49,13 @@
         <input id="input_name" type="text" placeholder="Name" />
       </div>
       <div class="area">
-        <label for="input_bild">Bild auswählen:</label>
+        <label for="input_bild">Pfad zum Bild:</label>
         <input id="input_bild" type="text" placeholder="Bild" />
-        <br><br>
-        <a class="btn" href="cloudcannon:collections/_data/images.yml" target="_blank">Bilder verwalten</a><br>
-        <small>Bild ggf. hochladen, Link kopieren und hier unterhalb einfügen. Der Pfad muss mit einem Slash / beginnen.</small><br>
         <img id="input_bild_current" src="" />
+      </div>
+      <div class="area">
+        <a class="btn" href="cloudcannon:collections/_data/images.yml" target="_blank">Bilder verwalten</a><br>
+        <small>Über diesen Link kannst du Bilder hochladen. Wenn du dort auf das Link-Symbol klickst, kannst du den Pfad zum Bild sehen, kopieren und dann wiederum auf dieser Seite hier einfügen. Dies ist als Titelbild möglich, aber auch über das Bild-Symbol unten im Text-Bereich.</small>
       </div>
       <div class="area">
         <label for="input_content">Beschreibung:</label>

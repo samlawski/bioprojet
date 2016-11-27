@@ -7,14 +7,14 @@ main {
 }
 
 /* General Form styles */
-input[type="text"] {
+input[type="text"], input[type="password"] {
   border: 1px solid #ddd;
   outline: none;
   padding: 8px;
   margin: 2px;
   transition: all .4s;
 }
-input[type="text"]:focus {
+input[type="text"]:focus, input[type="password"]:focus {
   border-color: #888;
 }
 small {
