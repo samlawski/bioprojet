@@ -2,6 +2,10 @@
 // ****** CLASSES ****** //
 // ********************* //
 
+function randomString(){
+  return Math.random().toString(36).substring(7);
+}
+
 // Object List
 function initializeObjectList(){
   firebase.database().ref().once("value", function(snap){
@@ -28,9 +32,14 @@ ObjectList.prototype.getOnceAndAppend = function(){
   this.database_parent.child('product_list').once('value', function(snapshot){
     snapshot.forEach(function(child_s){
       var element = new ListItem(child_s.val(), object_name, child_s.key);
-
+      // console.log(object_name);
       html_parent.appendChild(element);
     });
+    html_parent.appendChild(new ListItem({
+      name: "",
+      bild_url: "",
+      beschreibung: ""
+    }, "list", randomString()));
   });
 };
 ObjectList.prototype.initializeSaveButton = function(key){
@@ -51,7 +60,7 @@ ObjectList.prototype.initializeSaveButton = function(key){
 function ListItem(item_data, id, parent_key){
   this.element = document.createElement('div');
   // Include content
-  this.html_content = document.createTextNode(item_data.name);
+  this.html_content = (item_data.name.length < 1) ? document.createTextNode("+ Neues Produkt") : document.createTextNode(item_data.name);
   this.element.appendChild(this.html_content);
   // Set ID
   this.element_id = id + "_" + item_data.name.toLowerCase();
