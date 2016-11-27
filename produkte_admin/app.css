@@ -2,7 +2,7 @@
 
 main {
   display: flex;
-  flex-wrap: wrap-reverse;;
+  flex-wrap: wrap;
   justify-content: center;
 }
 
@@ -29,7 +29,7 @@ body>header>h1 {
 /* Sidebar item select */
 #list {
   margin-top: 10px;
-  min-width: 300px;
+  width: 300px;
   background-color: #ededed;
 }
 #list>div {
@@ -44,6 +44,7 @@ body>header>h1 {
 /* Edit area */
 #edit {
   min-width: 300px;
+  max-width: 800px;
   flex-grow: 1;
 }
 .area {
