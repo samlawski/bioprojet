@@ -58,6 +58,7 @@ function ListItem(item_data, id, parent_key){
     document.getElementById('input_name').value = item_data.name;
     document.getElementById('input_id').value = parent_key;
     document.getElementById('input_bild').value = item_data.bild_url;
+    document.getElementById('input_bild_current').src = item_data.bild_url;
     tinymce.activeEditor.setContent(item_data.beschreibung);
   };
 
@@ -65,7 +66,6 @@ function ListItem(item_data, id, parent_key){
 }
 
 var list;
-
 window.onload = function(){
   // Firebase authantication
   firebase.auth().onAuthStateChanged(function(user) {
@@ -81,6 +81,10 @@ window.onload = function(){
       document.getElementById('require_login').classList.remove('hidden');
       document.querySelector('main').classList.add('hidden');
     }
+  });
+  // Update Image on input_bild change
+  document.getElementById('input_bild').addEventListener("focusout", function(){
+    document.getElementById('input_bild_current').src = document.getElementById('input_bild').value;
   });
   // Textarea initialize
   tinymce.init({

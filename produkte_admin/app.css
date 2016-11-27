@@ -64,6 +64,13 @@ body>header>h1 {
   display: inline-block;
   margin-bottom: 10px;
 }
+#input_bild_current {
+  max-height: 150px;
+  width: auto;
+  max-width: 100%;
+  display: block;
+  margin-top: 10px;
+}
 
 /* Helper classes */
 .btn, .btn:link, .btn:visited {
