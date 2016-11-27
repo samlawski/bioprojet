@@ -57,19 +57,23 @@ function ListItem(item_data, id, parent_key){
   return this.element;
 }
 
+var list;
+
 window.onload = function(){
   // Firebase authantication
   firebase.auth().onAuthStateChanged(function(user) {
     if (user) {
-      // Toggle views
-      document.querySelector('main').classList.remove('hidden');
-      document.getElementById('require_login').classList.add('hidden');
-      // Get content from firebase
-      firebase.database().ref().once("value", function(snap){
-        var key = Object.keys(snap.val())[0];
+      if(typeof list == "undefined"){
+        // Toggle views
+        document.querySelector('main').classList.remove('hidden');
+        document.getElementById('require_login').classList.add('hidden');
+        // Get content from firebase
+        firebase.database().ref().once("value", function(snap){
+          var key = Object.keys(snap.val())[0];
 
-        var list = new ObjectList("list", key);
-      });
+          list = new ObjectList("list", key);
+        });
+      }
     } else {
       document.getElementById('require_login').classList.remove('hidden');
       document.querySelector('main').classList.add('hidden');
