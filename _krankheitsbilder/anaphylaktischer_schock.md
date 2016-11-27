@@ -1,7 +1,7 @@
 ---
 layout: krankheitsbild
 titel: Anaphylaktischer Schock
-bild_path: /uploads/anaph.jpg
+bild_path: /uploads/anaph2-min.jpg
 kurzbeschreibung: "Ut vel ante aliquet, luctus sem ac, hendrerit velit. Nunc lectus ligula, hendrerit vel nisi nec, dictum lobortis massa. Morbi posuere ante sapien, ac venenatis arcu lacinia et. Donec mattis imperdiet rhoncus. Vivamus facilisis et urna ut ornare. Integer placerat eu turpis non luctus. Ut et magna eu nibh mollis cursus. Sed consectetur nec lacus et bibendum. Etiam bibendum dolor et neque mattis, non pellentesque velit venenatis. In hac habitasse platea dictumst. Nunc vitae ante nisi. Sed facilisis odio nec ante ultrices mattis. Integer eget blandit tortor, in rutrum orci. In ac egestas velit. Duis mattis velit finibus tincidunt sagittis."
 ---
 

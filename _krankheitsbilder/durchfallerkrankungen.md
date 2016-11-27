@@ -1,7 +1,7 @@
 ---
 layout: krankheitsbild
 titel: Durchfallerkrankungen
-bild_path: /uploads/durchfall.jpg
+bild_path: /uploads/durchfallerkrankung-min.jpg
 kurzbeschreibung: "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam at posuere eros. Sed auctor gravida sem sed suscipit. Curabitur et nisi sit amet justo imperdiet sollicitudin. Maecenas eros orci, rutrum et lacinia eu, varius ut velit. Vestibulum convallis dapibus blandit. Duis ultricies vel nulla id sollicitudin. Vestibulum vitae ligula lorem. Cras at neque blandit, imperdiet purus a, aliquam est."
 ---
 
