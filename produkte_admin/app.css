@@ -71,6 +71,10 @@ body>header>h1 {
   display: block;
   margin-top: 10px;
 }
+#input_submit_confirmation {
+  color: green;
+  padding-left: 16px;
+}
 
 /* Helper classes */
 .btn, .btn:link, .btn:visited {
@@ -90,5 +94,5 @@ body>header>h1 {
   box-shadow: 0 0 10px #ddd;
 }
 .hidden {
-  display: none;
+  display: none !important;
 }

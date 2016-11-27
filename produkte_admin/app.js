@@ -39,7 +39,11 @@ ObjectList.prototype.initializeSaveButton = function(key){
       name: document.getElementById('input_name').value,
       bild_url: document.getElementById('input_bild').value,
       beschreibung: tinymce.activeEditor.getContent()
-    })
+    });
+    document.getElementById('input_submit_confirmation').classList.remove('hidden');
+    setTimeout(function(){
+      document.getElementById('input_submit_confirmation').classList.add('hidden');
+    }, 5000);
   }
 };
 
@@ -74,7 +78,6 @@ function prependServerURL(img_element){
 };
 
 function prependServerURLtoEditorImages(){
-  console.log(tinymce.activeEditor.selection.getNode());
   for (image_element of tinymce.activeEditor.selection.getNode().querySelectorAll('img')) {
     prependServerURL(image_element);
   }
