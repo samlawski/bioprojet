@@ -5,6 +5,16 @@ permalink: /kontakt/
 ---
 
 <section id="kontakt" class="container">
+  <script>
+    function enableSubmit(){
+      $(".send-form").removeClass("hidden");
+    };
+
+    function disableSubmit(){
+      $(".send-form").addClass("hidden");
+    };
+  </script>
+
   <div class="row">
     <div class="col-sm-6 col-md-offset-1 col-md-5">
       <h2 class="editable">Kontakt</h2>
@@ -13,12 +23,16 @@ permalink: /kontakt/
         Fax: +49(30)1231234-17<br>
         E-Mail: info@muster-pharma.de
       </p>
-      <form>
-        <input type="text" class="form-control" placeholder="Name" /><br>
-        <input type="text" class="form-control" placeholder="Email" /><br>
-        <textarea class="form-control" placeholder="Nachricht" rows="8"></textarea><br>
-        <div class="g-recaptcha" data-sitekey="6LfWMQsUAAAAAMf4mJ5sGl3iyGbIODPZ8WZOoCeU"></div>
-        <input type="submit" class="btn btn-default" value="Abschicken" />
+      <form method="post" action="/danke">
+        <input name="name" type="text" class="form-control" placeholder="Name" /><br>
+        <input name="email" type="text" class="form-control" placeholder="Email" /><br>
+        <textarea name="message" class="form-control" placeholder="Nachricht" rows="8"></textarea><br>
+
+        <input type="hidden" name="_to" value="likukitepr@throwam.com">
+        <input type="text" name="_gotcha" style="display: none;">
+        <div class="g-recaptcha" data-sitekey="6LfWMQsUAAAAAMf4mJ5sGl3iyGbIODPZ8WZOoCeU" data-callback="enableSubmit" data-expired-callback="disableSubmit"></div>
+
+        <input type="submit" class="send-form btn btn-default hidden" value="Abschicken" />
       </form>
     </div><!-- / col -->
     <div class="col-sm-6 col-md-5">
