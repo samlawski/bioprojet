@@ -36,18 +36,22 @@ Die allergische Reaktion manifestiert sich innerhalb von Sekunden bis 20 Minuten
 
 Man kann den anaphylaktischen Schock in **zwei Schweregrade** unterteilen:
 
-**4.1 Schweregrad 1**
+**4.1) Schweregrad I**
 
-In diesem Zustand findet sich noch keine akute Lebensbedrohung, die allergische Reaktion beschr&auml;nkt sich zumeist auf die Haut, was sich in Erythemen und &Ouml;demen (Quaddeln) &auml;u&szlig;ert.
+In diesem Zustand findet sich noch **keine akute Lebensbedrohung**, die allergische Reaktion beschr&auml;nkt sich zumeist auf die Haut, was sich in **Erythemen und &Ouml;demen (Quaddeln)**&auml;u&szlig;ert.
 
-5.2 Schweregrad 2
+**4.2) Schweregrad II**
 
-Dieser Zustand zeigt den lebensbedrohlichen anaphylaktischen Schock, welcher ohne sofortige Therapie t&ouml;dlich enden kann.
+Dieser Zustand zeigt den **lebensbedrohlichen anaphylaktischen Schock**, welcher ohne sofortige Therapie t&ouml;dlich enden kann.
 
-Zu Beginn zeigen sich kurz dauernde Alarmsymptome, wie Jucken, Brennen, sowie Hitzegef&uuml;hl im Rachen und an den Extremit&auml;ten. Fast gleichzeitig k&ouml;nnen Schluckbeschwerden, Hypersekretion (vermehrte Absonderung von Speichel), ein Pharynx&ouml;dem (&ouml;demat&ouml;se Schwellung des Rachenraums)&nbsp; und/oder ein Bronchospasmus (Verkrampfung der Atemnmuskulatur) auftreten. Letzterer kann zu einer akuten respiratorischen Insuffizienz (St&ouml;rung der Atmung, die zu einer Minderbel&uuml;ftung der Lungenbl&auml;schen f&uuml;hrt) und damit zur Zyanose (Unterversorgung des Blutes mit Sauerstoff) f&uuml;hren.
+Zu Beginn zeigen sich kurz dauernde Alarmsymptome, wie **Jucken, Brennen,** sowie **Hitzegef&uuml;hl im Rachen und an den Extremit&auml;ten**. Fast gleichzeitig k&ouml;nnen **Schluckbeschwerden**, **vermehrte Absonderung von Speichel (Hypersekretion)**, ein **&ouml;demat&ouml;se Schwellung des Rachenraums (Pharyngs&ouml;dem)** und/oder eine **Verkrampfung der Atmungsmuskulatur (Bronchospasmus)** auftreten. Letzteres kann zu einer **akuten St&ouml;rung der Atmung**, die zu einer Unf&auml;higkeit der Lunge Sauerstoff aus der Luft aufzunehmen **(respiratorische Insuffizienz)**und damit zur **Unterversorgung des Blutes mit Sauerstoff (Zyanose)** f&uuml;hren.
 
-In der Folge tritt akut ein Kreislaufschock ein, ausgel&ouml;st durch eine massive Vasodilatation. Der Puls ist kaum tastbar, niederfrequent und der Blutdruck sinkt auf extrem niedrige Werte. Kompensatorisch kommt es zu einer Tachykardie, die den Versuch des K&ouml;rpers darstellt, den Blutdruck zu erh&ouml;hen. Allerdings verlieren die Kapillaren durch die erh&ouml;hte Gef&auml;&szlig;permeabilit&auml;t Fl&uuml;ssigkeit ins Interstitium, woraus dann klinisch das Bild eines hypovol&auml;mischen Schocks resultiert.
+In der Folge tritt akut ein **Kreislaufschock** ein, ausgel&ouml;st durch eine **massive Gef&auml;&szlig;erweiterung (Vasodilatation)**. Der Puls ist kaum tastbar, niederfrequent und der **Blutdruck sinkt auf extrem niedrige Werte**. Kompensatorisch kommt es zu **Herzrasen (Tachykardie)**, die den Versuch des K&ouml;rpers darstellt, den Blutdruck zu erh&ouml;hen. Allerdings verlieren die Kapillaren durch die erh&ouml;hte Gef&auml;&szlig;durchl&auml;&szlig;igkeit Fl&uuml;ssigkeit ins Zwischengewebe (Interstitium), woraus dann ein **hypovol&auml;mischer Schock** resultiert.
 
-6 Sofortma&szlig;nahmen[bearbeiten]
+**5) Sofortma&szlig;nahmen**
 
-Da der anaphylaktische Schock lebensbedrohlich ist, ist eine sofortige Therapie unerl&auml;&szlig;lich. Der Patient sollte in Schocklage gebracht werden und prim&auml;r eine Volumenersatztherapie erhalten, um das stagnierende Blutvolumen wieder in Umlauf zu bringen (wie beim hypovol&auml;mischen Schock). Dar&uuml;ber hinaus sollte versucht werden, das Allergen zu entfernen. Eine medikament&ouml;se Intervention, insbesondere mit i.m. oder wenn m&ouml;glich i.v. appliziertem Adrenalin und Dimetinden sowie eine Intubation (bei drohendem Glottis&ouml;dem) ist ebenfalls in Betracht zu ziehen.
+Da der **anaphylaktische Schock lebensbedrohlich**ist, ist eine sofortige Therapie unerl&auml;&szlig;lich. Der Patient sollte in **Schocklage** gebracht werden und **prim&auml;r** eine **Volumenersatztherapie** erhalten, um das stagnierende Blutvolumen wieder in Umlauf zu bringen (wie beim hypovol&auml;mischen Schock). Dar&uuml;ber hinaus sollte versucht werden, das **Allergen** zu **entfernen**.
+
+Die **medikament&ouml;se Behandlung** erfolgt insbesondere mit **i******.**m. oder wenn m&ouml;glich i.v. appliziertem Adrenalin**.
+
+In manchen F&auml;llen ist eine **Intubation** ebenfalls in Betracht zu ziehen.
