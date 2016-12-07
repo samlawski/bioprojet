@@ -10,7 +10,7 @@ kurzbeschreibung: 'Ut vel ante aliquet, luctus sem ac, hendrerit velit. Nunc lec
 
 Ein anaphylaktischer Schock ist die Maximalreaktion einer &Uuml;berempfindlich- keitsreaktion des Immunsystems auf eine bestimmte Substanz und akut lebensbedrohlich.
 
-![](/uploads/anaph.jpg)
+![](/uploads/versions/anaph2-min---x----800-535x---.jpg)
 
 **2) Ausl&ouml;ser**
 
