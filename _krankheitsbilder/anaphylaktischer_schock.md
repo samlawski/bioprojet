@@ -2,23 +2,52 @@
 layout: krankheitsbild
 titel: Anaphylaktischer Schock
 bild_path: /uploads/anaph2-min.jpg
-kurzbeschreibung: "Ut vel ante aliquet, luctus sem ac, hendrerit velit. Nunc lectus ligula, hendrerit vel nisi nec, dictum lobortis massa. Morbi posuere ante sapien, ac venenatis arcu lacinia et. Donec mattis imperdiet rhoncus. Vivamus facilisis et urna ut ornare. Integer placerat eu turpis non luctus. Ut et magna eu nibh mollis cursus. Sed consectetur nec lacus et bibendum. Etiam bibendum dolor et neque mattis, non pellentesque velit venenatis. In hac habitasse platea dictumst. Nunc vitae ante nisi. Sed facilisis odio nec ante ultrices mattis. Integer eget blandit tortor, in rutrum orci. In ac egestas velit. Duis mattis velit finibus tincidunt sagittis."
+kurzbeschreibung: 'Ut vel ante aliquet, luctus sem ac, hendrerit velit. Nunc lectus ligula, hendrerit vel nisi nec, dictum lobortis massa. Morbi posuere ante sapien, ac venenatis arcu lacinia et. Donec mattis imperdiet rhoncus. Vivamus facilisis et urna ut ornare. Integer placerat eu turpis non luctus. Ut et magna eu nibh mollis cursus. Sed consectetur nec lacus et bibendum. Etiam bibendum dolor et neque mattis, non pellentesque velit venenatis. In hac habitasse platea dictumst. Nunc vitae ante nisi. Sed facilisis odio nec ante ultrices mattis. Integer eget blandit tortor, in rutrum orci. In ac egestas velit. Duis mattis velit finibus tincidunt sagittis.'
 ---
 
-## Ein Untertitel
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla at lacinia arcu. Integer ac faucibus sem. Morbi faucibus ligula id ipsum posuere, a pellentesque enim [rutrum](http://google.com). Fusce scelerisque mi justo, quis tincidunt eros dapibus vitae. Curabitur eu mi vel elit mattis venenatis pulvinar vel augue. Donec ante ipsum, feugiat ac tempor at, ullamcorper ac turpis. Vivamus malesuada et sapien in [consequat](http://google.com).
+**1) Definition**
+
+Ein anaphylaktischer Schock ist die Maximalreaktion einer &Uuml;berempfindlich- keitsreaktion des Immunsystems auf eine bestimmte Substanz und akut lebensbedrohlich.
 
 ![](/uploads/anaph.jpg)
 
-## Noch ein Untertitel
+**2) Ausl&ouml;ser**
 
-Aliquam at posuere eros. Sed auctor gravida sem sed suscipit. Curabitur et nisi sit amet justo imperdiet sollicitudin. Maecenas eros orci, rutrum et lacinia eu, varius ut velit. Vestibulum convallis dapibus blandit. Duis ultricies vel nulla id sollicitudin. Vestibulum vitae ligula lorem. Cras at neque blandit, imperdiet purus a, aliquam est.
+Zu den **h&auml;ufigsten Ausl&ouml;sern eines anaphylaktischen Schocks** geh&ouml;ren **Medikamente** u.a. Penicillin, Insulin, jodhaltige Kontrastmittel und Acetylsalicyls&auml;ure.
 
-* Cum sociis natoque penatibus
-* et magnis dis parturient montes,
-* [nascetur ridiculus mus](http://google.com).
+Dar&uuml;ber hinaus k&ouml;nnen auch noch andere Allergene zu dieser Reaktion f&uuml;hren:
 
-## Ein letzter Untertitel
+- **Insektengiftallergene:** Bienengift, Wespengift, Hornissengift
 
-Ut vel ante aliquet, luctus sem ac, hendrerit velit. Nunc lectus ligula, hendrerit vel nisi nec, dictum lobortis massa. Morbi posuere ante sapien, ac venenatis arcu lacinia et. Donec mattis imperdiet rhoncus. Vivamus facilisis et urna ut ornare. Integer placerat eu turpis non luctus. Ut et magna eu nibh mollis cursus. Sed consectetur nec lacus et bibendum. Etiam bibendum dolor et neque mattis, non pellentesque velit venenatis. In hac habitasse platea dictumst. Nunc vitae ante nisi. Sed facilisis odio nec ante ultrices mattis. Integer eget blandit tortor, in rutrum orci. In ac egestas velit. Duis mattis velit finibus tincidunt sagittis.
+- **Inhalationsallergene:** Pollen, Hausstaub, Schimmelpilze, Tierhaare, u.a.
+
+- **Nahrungsmittelallergene:** Eier, Meeresfr&uuml;chte, N&uuml;sse
+
+**3) Immunreaktion**
+
+Die Sofortreaktion, welche zum anaphylaktischen Schock f&uuml;hrt, findet ihren Urprung in einer **Antigen-Antik&ouml;rper-Reaktion**. In den K&ouml;rper eingedrungene Antigene werden bei erstem Kontakt als Fremdstoffe erkannt und daraufhin werden Antik&ouml;rper gebildet. Dieser Vorgang wird auch als Sensibilisierung bezeichnet.
+
+Dringt erneut ein Antigen ein, werden die gebildeten Antik&ouml;rper sofort freigesetzt. Durch die folgende Antigen-Antik&ouml;rper-Reaktion werden Mediatoren freigesetzt (z.B. Histamin, Serotonin, Bradykinin, Prostaglandin), welche die typische Reaktion hervorrufen.
+
+**4) Einteilung und Symptome**
+
+Die allergische Reaktion manifestiert sich innerhalb von Sekunden bis 20 Minuten (selten auch noch nach Stunden) nach Allergenkontakt.
+
+Man kann den anaphylaktischen Schock in **zwei Schweregrade** unterteilen:
+
+**4.1 Schweregrad 1**
+
+In diesem Zustand findet sich noch keine akute Lebensbedrohung, die allergische Reaktion beschr&auml;nkt sich zumeist auf die Haut, was sich in Erythemen und &Ouml;demen (Quaddeln) &auml;u&szlig;ert.
+
+5.2 Schweregrad 2
+
+Dieser Zustand zeigt den lebensbedrohlichen anaphylaktischen Schock, welcher ohne sofortige Therapie t&ouml;dlich enden kann.
+
+Zu Beginn zeigen sich kurz dauernde Alarmsymptome, wie Jucken, Brennen, sowie Hitzegef&uuml;hl im Rachen und an den Extremit&auml;ten. Fast gleichzeitig k&ouml;nnen Schluckbeschwerden, Hypersekretion (vermehrte Absonderung von Speichel), ein Pharynx&ouml;dem (&ouml;demat&ouml;se Schwellung des Rachenraums)&nbsp; und/oder ein Bronchospasmus (Verkrampfung der Atemnmuskulatur) auftreten. Letzterer kann zu einer akuten respiratorischen Insuffizienz (St&ouml;rung der Atmung, die zu einer Minderbel&uuml;ftung der Lungenbl&auml;schen f&uuml;hrt) und damit zur Zyanose (Unterversorgung des Blutes mit Sauerstoff) f&uuml;hren.
+
+In der Folge tritt akut ein Kreislaufschock ein, ausgel&ouml;st durch eine massive Vasodilatation. Der Puls ist kaum tastbar, niederfrequent und der Blutdruck sinkt auf extrem niedrige Werte. Kompensatorisch kommt es zu einer Tachykardie, die den Versuch des K&ouml;rpers darstellt, den Blutdruck zu erh&ouml;hen. Allerdings verlieren die Kapillaren durch die erh&ouml;hte Gef&auml;&szlig;permeabilit&auml;t Fl&uuml;ssigkeit ins Interstitium, woraus dann klinisch das Bild eines hypovol&auml;mischen Schocks resultiert.
+
+6 Sofortma&szlig;nahmen[bearbeiten]
+
+Da der anaphylaktische Schock lebensbedrohlich ist, ist eine sofortige Therapie unerl&auml;&szlig;lich. Der Patient sollte in Schocklage gebracht werden und prim&auml;r eine Volumenersatztherapie erhalten, um das stagnierende Blutvolumen wieder in Umlauf zu bringen (wie beim hypovol&auml;mischen Schock). Dar&uuml;ber hinaus sollte versucht werden, das Allergen zu entfernen. Eine medikament&ouml;se Intervention, insbesondere mit i.m. oder wenn m&ouml;glich i.v. appliziertem Adrenalin und Dimetinden sowie eine Intubation (bei drohendem Glottis&ouml;dem) ist ebenfalls in Betracht zu ziehen.
