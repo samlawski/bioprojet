@@ -18,11 +18,11 @@ Zu den **h&auml;ufigsten Ausl&ouml;sern eines anaphylaktischen Schocks** geh&oum
 
 Dar&uuml;ber hinaus k&ouml;nnen auch noch andere Allergene zu dieser Reaktion f&uuml;hren:
 
-- **Insektengiftallergene:** Bienengift, Wespengift, Hornissengift
+* **Insektengiftallergene:** Bienengift, Wespengift, Hornissengift
 
-- **Inhalationsallergene:** Pollen, Hausstaub, Schimmelpilze, Tierhaare, u.a.
+* **Inhalationsallergene:** Pollen, Hausstaub, Schimmelpilze, Tierhaare, u.a.
 
-- **Nahrungsmittelallergene:** Eier, Meeresfr&uuml;chte, N&uuml;sse
+* **Nahrungsmittelallergene:** Eier, Meeresfr&uuml;chte, N&uuml;sse
 
 **3) Immunreaktion**
 
@@ -52,6 +52,6 @@ In der Folge tritt akut ein **Kreislaufschock** ein, ausgel&ouml;st durch eine *
 
 Da der **anaphylaktische Schock lebensbedrohlich**ist, ist eine sofortige Therapie unerl&auml;&szlig;lich. Der Patient sollte in **Schocklage** gebracht werden und **prim&auml;r** eine **Volumenersatztherapie** erhalten, um das stagnierende Blutvolumen wieder in Umlauf zu bringen (wie beim hypovol&auml;mischen Schock). Dar&uuml;ber hinaus sollte versucht werden, das **Allergen** zu **entfernen**.
 
-Die **medikament&ouml;se Behandlung** erfolgt insbesondere mit **i******.**m. oder wenn m&ouml;glich i.v. appliziertem Adrenalin**.
+Die **medikament&ouml;se Behandlung** erfolgt insbesondere mit **i.m. oder wenn m&ouml;glich i.v. appliziertem Adrenalin**.
 
 In manchen F&auml;llen ist eine **Intubation** ebenfalls in Betracht zu ziehen.
