@@ -9,8 +9,6 @@ kurzbeschreibung: Ein anaphylaktischer Schock ist die schwerste Form einer Über
 
 Ein anaphylaktischer Schock ist die schwerste Form einer &Uuml;berempfindlichkeitsreaktion des Immunsystems auf eine bestimmte allergene Substanz. Dieses Schocksituation kann akut lebensbedrohlich sein.
 
-![](/uploads/versions/anaph2-min---x----800-535x---.jpg)
-
 **2) Ausl&ouml;ser**
 
 Zu den **h&auml;ufigsten Ausl&ouml;sern eines anaphylaktischen Schocks** geh&ouml;ren **Medikamente** u.a. Penicillin, Insulin, jodhaltige Kontrastmittel und Acetylsalicyls&auml;ure.
