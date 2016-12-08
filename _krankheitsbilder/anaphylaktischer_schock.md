@@ -8,7 +8,7 @@ kurzbeschreibung: 'Ein anaphylaktischer Schock ist die maximale Überempfindlich
 
 **1) Definition**
 
-Ein anaphylaktischer Schock ist die maximale &Uuml;berempfindlichkeits- reaktion des Immunsystems auf eine bestimmte Substanz, welche akut lebensbedrohlich sein kann.
+Ein anaphylaktischer Schock ist die maximale &Uuml;berempfindlichkeitsreaktion des Immunsystems auf eine bestimmte Substanz, welche akut lebensbedrohlich sein kann.
 
 ![](/uploads/versions/anaph2-min---x----800-535x---.jpg)
 
