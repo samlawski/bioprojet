@@ -30,6 +30,6 @@ Narkolepsie, im Volksmund auch „Schlafkrankheit“ oder „Schlummersucht“ g
 <br>- Narkolepsie ohne Kataplexie (auch monosymptomatische Narkolepsie genannt) und
 <br>- sekund&auml;re Narkolepsie (u. a. bei strukturellen L&auml;sionen des Hypothalamus oder oberen Hirnstamms bei Isch&auml;mie, Tumor oder Neurosarkoidose).
 
-![](/uploads/narkolepsie-min.jpeg)
+&nbsp;
 
 &nbsp;
