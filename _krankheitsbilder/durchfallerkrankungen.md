@@ -8,9 +8,14 @@ kurzbeschreibung: 'Als Durchfall (Diarrhoe) wird die je nach Schwere kürzer ode
 
 **1) Definition**
 
-Eine **Durchfallerkrankung (Diarrhoe)** besteht bei mehr als 3 Entleerungen eines zu flüssigen Stuhls pro Tag. Das Stuhlgewicht muss hierbei über 250 Gramm liegen. **Durchfall ist ein Symptom** und keine eigenständige Krankheit.
+Als **Durchfall (Diarrhoe)** wird die je nach Schwere k&uuml;rzer oder auch lang anhaltende Abgabe von zu fl&uuml;ssigem Stuhl bezeichnet. Durchfall kann ein Symptom vieler Erkrankungen (z. B. Infektionen, Nahrungsmittelvergiftungen, Tumoren) sein.
+<br>Weltweit erkranken pro Jahr sch&auml;tzungsweise rund 4 Milliarden Menschen an Durchfall, 7,5 Millionen Menschen (vor allem Kinder) sterben an den Folgen.
+<br>Eine Diarrhoebesteht bei mehr als 3 Entleerungen eines zu fl&uuml;ssigen Stuhls pro Tag. Das Stuhlgewicht muss hierbei &uuml;ber 250 Gramm liegen.
+<br>**Durchfall ist ein Symptom** und keine eigenst&auml;ndige Krankheit.
 
 **2) Einteilung**
+
+&nbsp;
 
 Das Symptom der Diarrhoe kann nach verschiedenen Kriterien klassifiziert werden.
 
@@ -24,17 +29,17 @@ Das Symptom der Diarrhoe kann nach verschiedenen Kriterien klassifiziert werden.
 
 **2.2.1) Sekretorische Diarrhoe**
 
-Durch fehlende Resorption von Elektrolyten oder fehlerhafte Sekretion von Elektrolyten kommt es aus osmotischen Gründen zur Bindung einer den im Darmlumen verbleibenden Menge an Elektrolyten angemessenen Menge Wasser. Dieses Wasser wird mit ausgeschieden. Sekretorischer Durchfall kann durch Bakterien und deren Toxine, Viren und Protozoen ausgelöst werden. Auch Medikamente können zu sekretorischen Durchfällen führen.
+Durch fehlende Aufnahme (Resorption) von Elektrolyten oder fehlerhafte Ausscheidung (Sekretion) von Elektrolyten kommt es aus osmotischen Gr&uuml;nden zur Bindung einer den im Darm verbleibenden Menge an Elektrolyten angemessenen Menge Wasser. Dieses Wasser wird mit ausgeschieden. Sekretorischer Durchfall kann durch Bakterien und deren Toxine, Viren und Protozoen ausgel&ouml;st werden. Auch Medikamente k&ouml;nnen zu sekretorischen Durchf&auml;llen f&uuml;hren.
 
-**2.2.2) Malassimilatorische Diarrhoe**
+**2.2.2) Osmotische Diarrhoe**
 
-Bei Malabsorption und Maldigestion (beispielsweise im Rahmen von Gallensäuremangel, Zöliakie, tropischer Sprue, Pankreasinsuffizienz, Fructoseintoleranz und Kurzdarm) wirken die unverdauten Nahrungsbetandteile osmotisch und bewirken eine Verflüssigung des Stuhls. Charakteristisch für die malassimilatorische Diarrhoe ist die geringe Menge an Elektrolyten bei hoher Osmolarität des Stuhls.
+Bei Malabsorption (mangelhafte Aufnahme von Nahrungssubstraten) und Maldigestion (schlechte Verdauung der Nahrung) beispielsweise im Rahmen von Gallens&auml;uremangel, Z&ouml;liakie (eine Form der Glutenunvertr&auml;glichkeit), Pankreasinsuffizienz (Funktionsverlust der Bauchspeicheldr&uuml;se), Fructoseintoleranz (Fruchtzuckerunvertr&auml;glichkeit) und Kurzdarm wirken die unverdauten Nahrungsbetandteile osmotisch und bewirken eine Verfl&uuml;ssigung des Stuhls. Charakteristisch f&uuml;r die osmotische Diarrhoe ist die geringe Menge an Elektrolyten im Stuhl.
 
 **2.2.3) Funktionelle Diarrhoe**
 
-Eine meist durch psychische Auslöser hervorgerufene Fehlsteuerung und Fehlfunktion des vegetativen Nervensystems führt zu einer überschnellen Entleerung des Darmes. Durch Störungen der Motorik des Darmes kommt es nicht zur ausreichenden Eindickung des Stuhls im Darm. Es resultiert eine Diarrhoe. Auch im Rahmen einer Thyreotoxikose werden Diarrhöen gehäuft beobachtet.
+Eine meist durch psychische Ausl&ouml;ser hervorgerufene Fehlsteuerung und Fehlfunktion des vegetativen Nervensystems f&uuml;hrt zu einer &uuml;berschnellen Entleerung des Darmes. Durch St&ouml;rungen der Motorik des Darmes kommt es nicht zur ausreichenden Eindickung des Stuhls im Darm. Es resultiert eine Diarrhoe. Auch im Rahmen einer Thyreotoxikose (Schilddr&uuml;sen&uuml;berfunktion) werden Diarrh&ouml;en geh&auml;uft beobachtet.
 
-**2.3) Einteilung nach auslösendem Erreger**
+**2.3) Einteilung nach ausl&ouml;sendem Erreger**
 
 * Clostridium-difficile-assoziierte Diarrhoe (CDAD)
 
@@ -54,8 +59,10 @@ Eine meist durch psychische Auslöser hervorgerufene Fehlsteuerung und Fehlfunkt
 
 **3) Therapie**
 
-Die Therapie ist abhängig von der auslösenden Ursache. Eine unkomplizierte Diarrhoe muss nicht unbedingt medikamentös therapiert werden. Wichtiger ist vor allem bei stärkeren Formen des Durchfalls der Ausgleich des Wasser- und Elektrolytverlustes.
+Die Therapie ist abh&auml;ngig von der ausl&ouml;senden Ursache. Eine unkomplizierte Diarrhoe muss nicht unbedingt medikament&ouml;s therapiert werden. Wichtiger ist vor allem bei st&auml;rkeren Formen des Durchfalls der Ausgleich des Wasser- und Elektrolytverlustes.
 
-Dies erfolgt bestenfalls durch Rehydratationslösungen. Es werden zu diesem Zweck fertig angemischte Präparate in der Apotheke angeboten, die nur noch in Wasser aufgelöst werden müssen. Unterstützend wirkt die Aufnahme von Quellstoffen.
+Dies erfolgt in der Regel durch Rehydratationsl&ouml;sungen. Es werden zu diesem Zweck fertige Elektrolytmischungen in Apotheken angeboten, die nur noch in Wasser aufgel&ouml;st werden m&uuml;ssen.
 
-Als wirksames Medikament kommt u.a. Racecadotril (Vaprino) oder Loperamid (Imodium oder Generika) in Frage.
+Unterst&uuml;tzend wirkt die Aufnahme von Quellstoffen.
+
+Als wirksame Medikamente kommen Racecadotril (Vaprino) oder Loperamid (Imodium oder Generika) in Frage.
