@@ -2,13 +2,13 @@
 layout:
 titel: Durchfallerkrankungen
 bild_path: /uploads/durchfallerkrankung-min.jpg
-kurzbeschreibung: 'Als Durchfall (Diarrhoe) wird die je nach Schwere kürzer oder auch lang anhaltende Abgabe von zu flüssigem Stuhl bezeichnet. Durchfall kann ein Symptom vieler Erkrankungen (z. B. Infektionen, Nahrungsmittelvergiftungen, Tumoren) sein. Weltweit erkranken pro Jahr schätzungsweise rund vier Milliarden Menschen an Durchfall, 7,5 Millionen Menschen (vor allem Kinder) sterben an den Folgen.'
+kurzbeschreibung: 'Als Durchfall (Diarrhoe) wird die je nach Schwere kürzer oder auch lang anhaltende Abgabe von zu flüssigem Stuhl bezeichnet. Durchfall kann ein Symptom vieler Erkrankungen (z. B. Infektionen, Nahrungsmittel- vergiftungen, Tumoren) sein.'
 ---
 
 
 **1) Definition**
 
-Als **Durchfall (Diarrhoe)** wird die je nach Schwere k&uuml;rzer oder auch lang anhaltende Abgabe von zu fl&uuml;ssigem Stuhl bezeichnet. Durchfall kann ein Symptom vieler Erkrankungen (z. B. Infektionen, Nahrungsmittelvergiftungen, Tumoren) sein.
+Als **Durchfall (Diarrhoe)** wird die je nach Schwere k&uuml;rzer oder auch lang anhaltende Abgabe von zu fl&uuml;ssigem Stuhl bezeichnet. Durchfall kann ein Symptom vieler Erkrankungen (z. B. Infektionen, Nahrungsmittel-vergiftungen, Tumoren) sein.
 <br>Weltweit erkranken pro Jahr sch&auml;tzungsweise rund 4 Milliarden Menschen an Durchfall, 7,5 Millionen Menschen (vor allem Kinder) sterben an den Folgen.
 <br>Eine Diarrhoebesteht bei mehr als 3 Entleerungen eines zu fl&uuml;ssigen Stuhls pro Tag. Das Stuhlgewicht muss hierbei &uuml;ber 250 Gramm liegen.
 <br>**Durchfall ist ein Symptom** und keine eigenst&auml;ndige Krankheit.
