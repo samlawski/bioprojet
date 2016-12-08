@@ -1,5 +1,4 @@
 ---
-layout:
 titel: Durchfallerkrankungen
 bild_path: /uploads/durchfallerkrankung-min.jpg
 kurzbeschreibung: 'Als Durchfall (Diarrhoe) wird die je nach Schwere kürzer oder auch lang anhaltende Abgabe von zu flüssigem Stuhl bezeichnet. Durchfall kann ein Symptom vieler Erkrankungen (z. B. Infektionen, Nahrungsmittel- vergiftungen, Tumoren) sein.'

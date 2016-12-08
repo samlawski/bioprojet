@@ -28,3 +28,8 @@ collections:
   krankheitsbilder:
     output: true
     permalink: /infocenter/:path/
+defaults:
+  - scope:
+      type: krankheitsbilder
+    values:
+      layout: krankheitsbild
