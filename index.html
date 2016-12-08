@@ -12,7 +12,7 @@ bild_path: ./uploads/hero-light-min.jpg
     <h1 class="editable"></h1>
     <div class="text-center">
       {% for company in site.data.companies %}
-        <a href="{{ company.link }}" target="_new">
+        <a href="{{ company.link }}" target="_blank">
           <img src="{{ company.logo_path }}" height="100px" alt="{{ company.name }}"/>
         </a>
       {% endfor %}
