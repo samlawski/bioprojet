@@ -12,9 +12,11 @@ bild_path: ./uploads/hero-light-min.jpg
   <section id="partner" class="container">
     <h1 class="editable"></h1>
     <div class="text-center">
-      <img src="uploads/partner1.png" height="100px" />
-      <img src="uploads/partner2.png" height="100px" />
-      <img src="uploads/partner3.png" height="100px" />
+      {% for company in site.data.companies %}
+        <a href="{{ company.link }}" target="_new">
+          <img src="{{ company.logo_path }}" height="100px" alt="{{ company.name }}"/>
+        </a>
+      {% endfor %}
     </div>
   </section>
 
