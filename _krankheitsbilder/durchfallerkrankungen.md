@@ -6,17 +6,16 @@ kurzbeschreibung: 'Als Durchfall (Diarrhoe) wird die je nach Schwere kürzer ode
 
 
 **1) Definition**
-
-Als **Durchfall (Diarrhoe)** wird die je nach Schwere k&uuml;rzer oder auch lang anhaltende Abgabe von zu fl&uuml;ssigem Stuhl bezeichnet. Durchfall kann ein Symptom vieler Erkrankungen (z. B. Infektionen, Nahrungsmittel-vergiftungen, Tumoren) sein.
+<br>
+<br>Als **Durchfall (Diarrhoe)** wird die je nach Schwere k&uuml;rzer oder auch lang anhaltende Abgabe von zu fl&uuml;ssigem Stuhl bezeichnet. Durchfall kann ein Symptom vieler Erkrankungen (z. B. Infektionen, Nahrungsmittel-vergiftungen, Tumoren) sein.
 <br>Weltweit erkranken pro Jahr sch&auml;tzungsweise rund 4 Milliarden Menschen an Durchfall, 7,5 Millionen Menschen (vor allem Kinder) sterben an den Folgen.
 <br>Eine Diarrhoebesteht bei mehr als 3 Entleerungen eines zu fl&uuml;ssigen Stuhls pro Tag. Das Stuhlgewicht muss hierbei &uuml;ber 250 Gramm liegen.
 <br>**Durchfall ist ein Symptom** und keine eigenst&auml;ndige Krankheit.
+<br>&nbsp;
 
 **2) Einteilung**
-
-&nbsp;
-
-Das Symptom der Diarrhoe kann nach verschiedenen Kriterien klassifiziert werden.
+<br>
+<br>Das Symptom der Diarrhoe kann nach verschiedenen Kriterien klassifiziert werden.
 
 **2.1) Einteilung nach Verlauf**
 
@@ -55,6 +54,7 @@ Eine meist durch psychische Ausl&ouml;ser hervorgerufene Fehlsteuerung und Fehlf
 * Paradoxe Diarrhoe
 
 * Antibiotika-assoziierte Diarrhoe
+  <br>&nbsp;
 
 **3) Therapie**
 
@@ -62,6 +62,4 @@ Die Therapie ist abh&auml;ngig von der ausl&ouml;senden Ursache. Eine unkomplizi
 
 Dies erfolgt in der Regel durch Rehydratationsl&ouml;sungen. Es werden zu diesem Zweck fertige Elektrolytmischungen in Apotheken angeboten, die nur noch in Wasser aufgel&ouml;st werden m&uuml;ssen.
 
-Unterst&uuml;tzend wirkt die Aufnahme von Quellstoffen.
-
-Als wirksame Medikamente kommen Racecadotril (Vaprino) oder Loperamid (Imodium oder Generika) in Frage.
+Als wirksame Medikamente kommen **Racecadotril** (Vaprino) oder **Loperamid** (Imodium oder Generika) in Frage.
