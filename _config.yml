@@ -24,6 +24,7 @@ url: "" # the base hostname & protocol for your site
 markdown: kramdown
 theme: theme-sb-bioprojet
 
+# Collections
 collections:
   krankheitsbilder:
     output: true
@@ -33,3 +34,39 @@ defaults:
       type: krankheitsbilder
     values:
       layout: krankheitsbild
+  - scope:
+      path: index.html
+    values:
+      layout: default
+  - scope:
+      path: infocenter.html
+    values:
+      layout: page
+  - scope:
+      path: produkte.html
+    values:
+      layout: page
+  - scope:
+      path: patienten-service.html
+    values:
+      layout: page
+  - scope:
+      path: unternehmen.html
+    values:
+      layout: page
+  - scope:
+      path: kontakt.html
+    values:
+      layout: page
+  - scope:
+      path: impressum.html
+    values:
+      layout: page
+  - scope:
+      path: danke.html
+    values:
+      layout: page
+  - scope:
+      path: datenschutz.html
+    values:
+      layout: page
