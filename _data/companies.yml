@@ -1,9 +1,9 @@
-- name: 'DGSM'
-  logo_path: /uploads/partner1.png
-  link: 'http://www.dgsm.de'
-- name: 'DNG'
-  logo_path: /uploads/partner2.png
-  link: 'http://www.dng-ev.de'
-- name: 'Bioprojet'
+- name: Bioprojet
   logo_path: /uploads/partner3.png
   link: 'http://www.bioprojet.fr'
+- name: DGSM
+  logo_path: /uploads/partner1.png
+  link: 'http://www.dgsm.de'
+- name: DNG
+  logo_path: /uploads/partner2.png
+  link: 'http://www.dng-ev.de'
