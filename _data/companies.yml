@@ -1,9 +1,9 @@
 - name: Bioprojet
-  logo_path: /uploads/partner3.png
+  logo_path: /uploads/Bioprojet Pharma.png
   link: 'http://www.bioprojet.fr'
 - name: DGSM
-  logo_path: /uploads/partner1.png
+  logo_path: /uploads/DGSM.png
   link: 'http://www.dgsm.de'
 - name: DNG
-  logo_path: /uploads/partner2.png
+  logo_path: /uploads/DNG.png
   link: 'http://www.dng-ev.de'
