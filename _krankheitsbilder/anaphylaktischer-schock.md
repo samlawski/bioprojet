@@ -1,5 +1,6 @@
 ---
 titel: Anaphylaktischer Schock
+position: 2
 bild_path: /uploads/anaphylaxie.png
 kurzbeschreibung: Ein anaphylaktischer Schock ist die schwerste Form einer Überempfindlichkeitsreaktion des Immunsystems auf eine bestimmte allergene Substanz. Diese Schocksituation kann akut lebensbedrohlich sein.
 ---
