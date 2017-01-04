@@ -19,8 +19,6 @@ kurzbeschreibung: 'Als Durchfall (Diarrhoe) wird die je nach Schwere kürzer ode
 <br>
 <br>Das Symptom der Diarrhoe kann nach verschiedenen Kriterien klassifiziert werden.
 
-&nbsp;
-
 **2.1) Einteilung nach Verlauf**
 
 * akute Diarrhoe
@@ -29,25 +27,18 @@ kurzbeschreibung: 'Als Durchfall (Diarrhoe) wird die je nach Schwere kürzer ode
 
 **2.2) Einteilung nach Pathogenese**
 
-&nbsp;
-
 **2.2.1) Sekretorische Diarrhoe**
 
 Durch fehlende Aufnahme (Resorption) von Elektrolyten oder fehlerhafte Ausscheidung (Sekretion) von Elektrolyten kommt es aus osmotischen Gr&uuml;nden zur Bindung einer den im Darm verbleibenden Menge an Elektrolyten angemessenen Menge Wasser. Dieses Wasser wird mit ausgeschieden. Sekretorischer Durchfall kann durch Bakterien und deren Toxine, Viren und Protozoen ausgel&ouml;st werden. Auch Medikamente k&ouml;nnen zu sekretorischen Durchf&auml;llen f&uuml;hren.
 
-&nbsp;
-
 **2.2.2) Osmotische Diarrhoe**
 
-Bei Malabsorption (mangelhafte Aufnahme von Nahrungssubstraten) und Maldigestion (schlechte Verdauung der Nahrung) beispielsweise im Rahmen von Gallens&auml;uremangel, Z&ouml;liakie (eine Form der Glutenunvertr&auml;glichkeit), Pankreasinsuffizienz (Funktionsverlust der Bauchspeicheldr&uuml;se), Fructoseintoleranz (Fruchtzuckerunvertr&auml;glichkeit) und Kurzdarm wirken die unverdauten Nahrungsbetandteile osmotisch und bewirken eine Verfl&uuml;ssigung des Stuhls. Charakteristisch f&uuml;r die osmotische Diarrhoe ist die geringe Menge an Elektrolyten im Stuhl.
-
-&nbsp;
+Bei Malabsorption (mangelhafte Aufnahme von Nahrungssubstraten) und Maldigestion (schlechte Verdauung der Nahrung) beispielsweise im Rahmen von Gallens&auml;uremangel, Z&ouml;liakie (eine Form der Glutenunvertr&auml;glichkeit), Pankreasinsuffizienz (Funktionsverlust der Bauchspeicheldr&uuml;se), Fructoseintoleranz (Fruchtzuckerunvertr&auml;glichkeit) und Kurzdarm wirken die unverdauten Nahrungsbetandteile osmotisch und bewirken eine Verfl&uuml;ssigung des Stuhls.
+<br>Charakteristisch f&uuml;r die osmotische Diarrhoe ist die geringe Menge an Elektrolyten im Stuhl.
 
 **2.2.3) Funktionelle Diarrhoe**
 
 Eine meist durch psychische Ausl&ouml;ser hervorgerufene Fehlsteuerung und Fehlfunktion des vegetativen Nervensystems f&uuml;hrt zu einer &uuml;berschnellen Entleerung des Darmes. Durch St&ouml;rungen der Motorik des Darmes kommt es nicht zur ausreichenden Eindickung des Stuhls im Darm. Es resultiert eine Diarrhoe. Auch im Rahmen einer Thyreotoxikose (Schilddr&uuml;sen&uuml;berfunktion) werden Diarrh&ouml;en geh&auml;uft beobachtet.
-
-&nbsp;
 
 **2.3) Einteilung nach ausl&ouml;sendem Erreger**
 
@@ -60,8 +51,6 @@ Eine meist durch psychische Ausl&ouml;ser hervorgerufene Fehlsteuerung und Fehlf
 * Norovirus-Gastroenteritis
 
 * Rotavirus-Gastroenteritis
-
-&nbsp;
 
 **2.4) Sonderformen**
 
