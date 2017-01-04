@@ -39,8 +39,7 @@ Bei Malabsorption (mangelhafte Aufnahme von Nahrungssubstraten) und Maldigestion
 **2.2.3) Funktionelle Diarrhoe**
 
 Eine meist durch psychische Ausl&ouml;ser hervorgerufene Fehlsteuerung und Fehlfunktion des vegetativen Nervensystems f&uuml;hrt zu einer &uuml;berschnellen Entleerung des Darmes. Durch St&ouml;rungen der Motorik des Darmes kommt es nicht zur ausreichenden Eindickung des Stuhls im Darm. Es resultiert eine Diarrhoe.
-
-Auch im Rahmen einer Thyreotoxikose (Schilddr&uuml;sen&uuml;berfunktion) werden Diarrh&ouml;en geh&auml;uft beobachtet.
+<br>Auch im Rahmen einer Thyreotoxikose (Schilddr&uuml;sen&uuml;berfunktion) werden Diarrh&ouml;en geh&auml;uft beobachtet.
 
 **2.3) Einteilung nach ausl&ouml;sendem Erreger**
 
