@@ -13,6 +13,8 @@ kurzbeschreibung: 'Als Durchfall (Diarrhoe) wird die je nach Schwere kürzer ode
 <br>Eine Diarrhoe besteht bei mehr als 3 Entleerungen eines zu fl&uuml;ssigen Stuhls pro Tag. Das Stuhlgewicht muss hierbei &uuml;ber 250 Gramm liegen.
 <br>**Durchfall ist ein Symptom** und keine eigenst&auml;ndige Krankheit.
 
+&nbsp;
+
 **2) Einteilung**
 <br>
 <br>Das Symptom der Diarrhoe kann nach verschiedenen Kriterien klassifiziert werden.
@@ -55,7 +57,8 @@ Eine meist durch psychische Ausl&ouml;ser hervorgerufene Fehlsteuerung und Fehlf
 
 * Antibiotika-assoziierte Diarrhoe
 
-**3) Therapie**
+**
+<br>3) Therapie**
 
 Die Therapie ist abh&auml;ngig von der ausl&ouml;senden Ursache. Eine unkomplizierte Diarrhoe muss nicht unbedingt medikament&ouml;s therapiert werden. Wichtiger ist vor allem bei st&auml;rkeren Formen des Durchfalls der Ausgleich des Wasser- und Elektrolytverlustes.
 
