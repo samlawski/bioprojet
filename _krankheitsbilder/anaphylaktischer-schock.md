@@ -58,8 +58,7 @@ In der Folge tritt akut ein **Kreislaufschock** ein, ausgel&ouml;st durch eine *
 
 **5) Sofortma&szlig;nahmen**
 
-Da der **anaphylaktische Schock lebensbedrohlich**ist, ist eine sofortige Therapie unerl&auml;&szlig;lich. Der Patient sollte in **Schocklage** gebracht werden und **prim&auml;r** eine **Volumenersatztherapie** erhalten, um das stagnierende Blutvolumen wieder in Umlauf zu bringen (wie beim hypovol&auml;mischen Schock).
-<br>Dar&uuml;ber hinaus sollte versucht werden, das **Allergen** zu **entfernen**.
+Da der **anaphylaktische Schock lebensbedrohlich**ist, ist eine sofortige Therapie unerl&auml;&szlig;lich. Der Patient sollte in **Schocklage** gebracht werden und **prim&auml;r** eine **Volumenersatztherapie** erhalten, um das stagnierende Blutvolumen wieder in Umlauf zu bringen (wie beim hypovol&auml;mischen Schock). Dar&uuml;ber hinaus sollte versucht werden, das **Allergen** zu **entfernen**.
 
 Die **medikament&ouml;se Behandlung** erfolgt insbesondere mit **i.m. oder wenn m&ouml;glich i.v. appliziertem Adrenalin**.
 
