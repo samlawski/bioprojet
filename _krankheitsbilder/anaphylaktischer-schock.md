@@ -44,7 +44,7 @@ Man kann den anaphylaktischen Schock in **zwei Schweregrade** unterteilen:
 
 **4.1) Schweregrad I**
 
-In diesem Zustand findet sich noch **keine akute Lebensbedrohung**, die allergische Reaktion beschr&auml;nkt sich zumeist auf die Haut, was sich in **Erythemen und &Ouml;demen (Quaddeln)**&auml;u&szlig;ert.
+In diesem Zustand findet sich noch **keine akute Lebensbedrohung**, die allergische Reaktion beschr&auml;nkt sich zumeist auf die Haut, was sich in **Erythemen und &Ouml;demen (Quaddeln)** &auml;u&szlig;ert.
 
 **4.2) Schweregrad II**
 
@@ -59,6 +59,8 @@ In der Folge tritt akut ein **Kreislaufschock** ein, ausgel&ouml;st durch eine *
 **5) Sofortma&szlig;nahmen**
 
 Da der **anaphylaktische Schock lebensbedrohlich**ist, ist eine sofortige Therapie unerl&auml;&szlig;lich. Der Patient sollte in **Schocklage** gebracht werden und **prim&auml;r** eine **Volumenersatztherapie** erhalten, um das stagnierende Blutvolumen wieder in Umlauf zu bringen (wie beim hypovol&auml;mischen Schock).
+
+&nbsp;
 
 Dar&uuml;ber hinaus sollte versucht werden, das **Allergen** zu **entfernen**.
 
