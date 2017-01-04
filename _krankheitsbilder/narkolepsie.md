@@ -14,7 +14,7 @@ kurzbeschreibung: >-
 
 
 **1) Definition:**
-<br>Narkolepsie**,**im Volksmund auch„**Schlafkrankheit**“ oder„**Schlummersucht**“ genannt, geh&ouml;rt zur Gruppe der Schlafs&uuml;chte (Hypersomnien).
+<br>Narkolepsie**,**im Volksmund auch "Schlafkrankheit" oder "Schlummersucht" genannt, geh&ouml;rt zur Gruppe der Schlafs&uuml;chte (Hypersomnien).
 <br>Sie ist eine Hypersomnie zentraler Ursache ohne Bezug zu schlafbezogenen Atmungsst&ouml;rungen. Ihr liegt eine **St&ouml;rung der Schlaf-Wach-Regulation** zu Grunde.
 
 Es wird unterschieden in:
@@ -26,6 +26,8 @@ Die klassische Narkolepsie ist eine neurologische Erkrankung und durch die Haupt
 <br>Betroffen sind der Wachzustand, NREM- und REM-Schlaf und deren &Uuml;berg&auml;nge mit entsprechend vielschichtigen Symptomen.
 <br>Auff&auml;llig sind die f&uuml;r die Erkrankten imperativen Einschlafattacken, zu denen es im Rahmen der **exzessiven Tagesschl&auml;frigkeit** w&auml;hrend des Tages kommen kann, und **Kataplexien**, bei denen der teilweise oder auch vollst&auml;ndige Verlust der Muskelspannung (Tonusverlust) – ausgel&ouml;st durch starke Emotionen und bei vollem Bewusstsein – St&uuml;rze verursachen kann.
 <br>Oft ist zudem der Nachtschlaf durch hartn&auml;ckige Durchschlafst&ouml;rungen nicht erholsam und zur Schl&auml;frigkeit im Sinne von Einschlafneigung kommt Schlafmangel.
+
+&nbsp;
 
 **2) Verbreitung und H&auml;ufigkeit**
 <br>In Deutschland leiden Sch&auml;tzungen der Deutschen Gesellschaft f&uuml;r Schlafmedizin (DGSM) zufolge ca. 30.000 Menschen unter dieser Erkrankung (Pr&auml;valenz: ca. 26-50/100.000 bei einer hohen Dunkelziffer). Diagnostiziert und therapiert sind davon ca. 4.000 Menschen.
