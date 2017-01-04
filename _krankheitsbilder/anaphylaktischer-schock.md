@@ -42,9 +42,13 @@ Die allergische Reaktion manifestiert sich innerhalb von Sekunden bis 20 Minuten
 
 Man kann den anaphylaktischen Schock in **zwei Schweregrade** unterteilen:
 
+&nbsp;
+
 **4.1) Schweregrad I**
 
 In diesem Zustand findet sich noch **keine akute Lebensbedrohung**, die allergische Reaktion beschr&auml;nkt sich zumeist auf die Haut, was sich in **Erythemen und &Ouml;demen (Quaddeln)** &auml;u&szlig;ert.
+
+&nbsp;
 
 **4.2) Schweregrad II**
 
