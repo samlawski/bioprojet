@@ -14,7 +14,7 @@ kurzbeschreibung: >-
 
 
 **1) Definition:**
-<br>Narkolepsie**,**im Volksmund auch **"Schlafkrankheit"** oder **"Schlummersucht"** genannt, geh&ouml;rt zur Gruppe der Schlafs&uuml;chte (Hypersomnien).
+<br>Narkolepsie**,&nbsp;**im Volksmund auch **"Schlafkrankheit"** oder **"Schlummersucht"** genannt, geh&ouml;rt zur Gruppe der Schlafs&uuml;chte (Hypersomnien).
 <br>Sie ist eine Hypersomnie zentraler Ursache ohne Bezug zu schlafbezogenen Atmungsst&ouml;rungen. Ihr liegt eine **St&ouml;rung der Schlaf-Wach-Regulation** zu Grunde.
 
 Es wird unterschieden in:
