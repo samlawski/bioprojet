@@ -31,7 +31,8 @@ Dar&uuml;ber hinaus k&ouml;nnen auch noch andere Allergene zu dieser Reaktion f&
 
 Die Sofortreaktion, welche zum anaphylaktischen Schock f&uuml;hrt, findet ihren Urprung in einer **Antigen-Antik&ouml;rper-Reaktion**. In den K&ouml;rper eingedrungene Antigene werden bei erstem Kontakt als Fremdstoffe erkannt und daraufhin werden Antik&ouml;rper gebildet. Dieser Vorgang wird auch als Sensibilisierung bezeichnet.
 
-Dringt erneut ein Antigen ein, werden die gebildeten Antik&ouml;rper sofort freigesetzt. Durch die folgende Antigen-Antik&ouml;rper-Reaktion werden Mediatoren freigesetzt (z.B. Histamin, Serotonin, Bradykinin, Prostaglandin), welche die typische Reaktion hervorrufen.
+Dringt erneut ein Antigen ein, werden die gebildeten Antik&ouml;rper sofort freigesetzt. Durch die folgende Antigen-Antik&ouml;rper-Reaktion werden Mediatoren freigesetzt
+<br>(z.B. Histamin, Serotonin, Bradykinin, Prostaglandin), welche die typische Reaktion hervorrufen.
 
 &nbsp;
 
@@ -57,7 +58,8 @@ In der Folge tritt akut ein **Kreislaufschock** ein, ausgel&ouml;st durch eine *
 
 **5) Sofortma&szlig;nahmen**
 
-Da der **anaphylaktische Schock lebensbedrohlich**ist, ist eine sofortige Therapie unerl&auml;&szlig;lich. Der Patient sollte in **Schocklage** gebracht werden und **prim&auml;r** eine **Volumenersatztherapie** erhalten, um das stagnierende Blutvolumen wieder in Umlauf zu bringen (wie beim hypovol&auml;mischen Schock). Dar&uuml;ber hinaus sollte versucht werden, das **Allergen** zu **entfernen**.
+Da der **anaphylaktische Schock lebensbedrohlich**ist, ist eine sofortige Therapie unerl&auml;&szlig;lich. Der Patient sollte in **Schocklage** gebracht werden und **prim&auml;r** eine **Volumenersatztherapie** erhalten, um das stagnierende Blutvolumen wieder in Umlauf zu bringen (wie beim hypovol&auml;mischen Schock).
+<br>Dar&uuml;ber hinaus sollte versucht werden, das **Allergen** zu **entfernen**.
 
 Die **medikament&ouml;se Behandlung** erfolgt insbesondere mit **i.m. oder wenn m&ouml;glich i.v. appliziertem Adrenalin**.
 
