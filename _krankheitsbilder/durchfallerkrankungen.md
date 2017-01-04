@@ -10,7 +10,7 @@ kurzbeschreibung: 'Als Durchfall (Diarrhoe) wird die je nach Schwere kürzer ode
 <br>
 <br>Als **Durchfall (Diarrhoe)** wird die je nach Schwere k&uuml;rzer oder auch lang anhaltende Abgabe von zu fl&uuml;ssigem Stuhl bezeichnet. Durchfall kann ein Symptom vieler Erkrankungen (z. B. Infektionen, Nahrungsmittelvergiftungen, Tumoren) sein.
 <br>Weltweit erkranken pro Jahr sch&auml;tzungsweise rund 4 Milliarden Menschen an Durchfall, 7,5 Millionen Menschen (vor allem Kinder) sterben an den Folgen.
-<br>Eine Diarrhoebesteht bei mehr als 3 Entleerungen eines zu fl&uuml;ssigen Stuhls pro Tag. Das Stuhlgewicht muss hierbei &uuml;ber 250 Gramm liegen.
+<br>Eine Diarrhoe besteht bei mehr als 3 Entleerungen eines zu fl&uuml;ssigen Stuhls pro Tag. Das Stuhlgewicht muss hierbei &uuml;ber 250 Gramm liegen.
 <br>**Durchfall ist ein Symptom** und keine eigenst&auml;ndige Krankheit.
 
 **2) Einteilung**
