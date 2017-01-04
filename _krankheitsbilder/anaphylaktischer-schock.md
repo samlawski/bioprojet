@@ -10,6 +10,8 @@ kurzbeschreibung: Ein anaphylaktischer Schock ist die schwerste Form einer Über
 
 Ein anaphylaktischer Schock ist die schwerste Form einer &Uuml;berempfindlichkeitsreaktion des Immunsystems auf eine bestimmte allergene Substanz. Dieses Schocksituation kann akut lebensbedrohlich sein.
 
+&nbsp;
+
 **2) Ausl&ouml;ser**
 
 Zu den **h&auml;ufigsten Ausl&ouml;sern eines anaphylaktischen Schocks** geh&ouml;ren **Medikamente** u.a. Penicillin, Insulin, jodhaltige Kontrastmittel und Acetylsalicyls&auml;ure.
@@ -22,11 +24,15 @@ Dar&uuml;ber hinaus k&ouml;nnen auch noch andere Allergene zu dieser Reaktion f&
 
 * **Nahrungsmittelallergene:** Eier, Meeresfr&uuml;chte, N&uuml;sse
 
+&nbsp;
+
 **3) Immunreaktion**
 
 Die Sofortreaktion, welche zum anaphylaktischen Schock f&uuml;hrt, findet ihren Urprung in einer **Antigen-Antik&ouml;rper-Reaktion**. In den K&ouml;rper eingedrungene Antigene werden bei erstem Kontakt als Fremdstoffe erkannt und daraufhin werden Antik&ouml;rper gebildet. Dieser Vorgang wird auch als Sensibilisierung bezeichnet.
 
 Dringt erneut ein Antigen ein, werden die gebildeten Antik&ouml;rper sofort freigesetzt. Durch die folgende Antigen-Antik&ouml;rper-Reaktion werden Mediatoren freigesetzt (z.B. Histamin, Serotonin, Bradykinin, Prostaglandin), welche die typische Reaktion hervorrufen.
+
+&nbsp;
 
 **4) Einteilung und Symptome**
 
@@ -45,6 +51,8 @@ Dieser Zustand zeigt den **lebensbedrohlichen anaphylaktischen Schock**, welcher
 Zu Beginn zeigen sich kurz dauernde Alarmsymptome, wie **Jucken, Brennen,** sowie **Hitzegef&uuml;hl im Rachen und an den Extremit&auml;ten**. Fast gleichzeitig k&ouml;nnen **Schluckbeschwerden**, **vermehrte Absonderung von Speichel (Hypersekretion)**, ein **&ouml;demat&ouml;se Schwellung des Rachenraums (Pharyngs&ouml;dem)** und/oder eine **Verkrampfung der Atmungsmuskulatur (Bronchospasmus)** auftreten. Letzteres kann zu einer **akuten St&ouml;rung der Atmung**, die zu einer Unf&auml;higkeit der Lunge Sauerstoff aus der Luft aufzunehmen **(respiratorische Insuffizienz)**und damit zur **Unterversorgung des Blutes mit Sauerstoff (Zyanose)** f&uuml;hren.
 
 In der Folge tritt akut ein **Kreislaufschock** ein, ausgel&ouml;st durch eine **massive Gef&auml;&szlig;erweiterung (Vasodilatation)**. Der Puls ist kaum tastbar, niederfrequent und der **Blutdruck sinkt auf extrem niedrige Werte**. Kompensatorisch kommt es zu **Herzrasen (Tachykardie)**, die den Versuch des K&ouml;rpers darstellt, den Blutdruck zu erh&ouml;hen. Allerdings verlieren die Kapillaren durch die erh&ouml;hte Gef&auml;&szlig;durchl&auml;&szlig;igkeit Fl&uuml;ssigkeit ins Zwischengewebe (Interstitium), woraus dann ein **hypovol&auml;mischer Schock** resultiert.
+
+&nbsp;
 
 **5) Sofortma&szlig;nahmen**
 
