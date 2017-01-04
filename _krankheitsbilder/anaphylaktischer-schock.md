@@ -8,7 +8,8 @@ kurzbeschreibung: Ein anaphylaktischer Schock ist die schwerste Form einer Über
 
 **1) Definition**
 
-Ein anaphylaktischer Schock ist die schwerste Form einer &Uuml;berempfindlichkeitsreaktion des Immunsystems auf eine bestimmte allergene Substanz. Dieses Schocksituation kann akut lebensbedrohlich sein.
+Ein anaphylaktischer Schock ist die schwerste Form einer &Uuml;berempfindlichkeitsreaktion des Immunsystems auf eine bestimmte allergene Substanz.
+<br>Diese Schocksituation kann akut lebensbedrohlich sein.
 
 &nbsp;
 
