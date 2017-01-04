@@ -57,8 +57,9 @@ Eine meist durch psychische Ausl&ouml;ser hervorgerufene Fehlsteuerung und Fehlf
 
 * Antibiotika-assoziierte Diarrhoe
 
-**
-<br>3) Therapie**
+&nbsp;
+
+**3) Therapie**
 
 Die Therapie ist abh&auml;ngig von der ausl&ouml;senden Ursache. Eine unkomplizierte Diarrhoe muss nicht unbedingt medikament&ouml;s therapiert werden. Wichtiger ist vor allem bei st&auml;rkeren Formen des Durchfalls der Ausgleich des Wasser- und Elektrolytverlustes.
 
