@@ -31,7 +31,7 @@ ObjectList.prototype.getOnceAndAppend = function(){
   var object_name = this.name,
       html_parent = this.html_parent;
 
-  this.database_parent.child('product_list').once('value', function(snapshot){
+  this.database_parent.child('product_list').orderByChild('position').once('value', function(snapshot){
     snapshot.forEach(function(child_s){
       var element = new ListItem(child_s.val(), object_name, child_s.key);
       // console.log(object_name);
