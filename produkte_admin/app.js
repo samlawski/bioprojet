@@ -48,6 +48,7 @@ ObjectList.prototype.initializeSaveButton = function(key){
   document.getElementById('input_submit').onclick = function(){
     firebase.database().ref(key + '/product_list').child(document.getElementById('input_id').value).update({
       name: document.getElementById('input_name').value,
+      position: document.getElementById('input_position').value,
       bild_url: document.getElementById('input_bild').value,
       beschreibung: tinymce.activeEditor.getContent()
     });
@@ -83,6 +84,7 @@ function ListItem(item_data, id, parent_key){
   this.element.onclick = function() {
     document.getElementById('edit').classList.remove('hidden');
     document.getElementById('input_name').value = item_data.name;
+    document.getElementById('input_position').value = item_data.position;
     document.getElementById('input_id').value = parent_key;
     document.getElementById('input_bild').value = item_data.bild_url;
     document.getElementById('input_bild_current').src = item_data.bild_url;
