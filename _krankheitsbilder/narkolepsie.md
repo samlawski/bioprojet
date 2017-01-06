@@ -126,7 +126,7 @@ Schlafbezogene Halluzinationen sind kein f&uuml;r die Narkolepsie spezifisches S
 
 &nbsp;
 
-**4.5) Beeintr&auml;chtigter Nachtschlaf**** durch abnormen Schlafrhythmus**
+**4.5) Beeintr&auml;chtigter Nachtschlaf durch abnormen Schlafrhythmus**
 <br>Ein weiterer Symptomkreis besteht in einem abnormen Schlafrhythmus (beispielsweise vier Stunden wach, vier Stunden Schlaf und so weiter tags und nachts), sowie in verschobenen REM-Phasen (Traumschlaf-Phasen), die untypisch dem traumlosen Schlaf vorausgehen. Dadurch k&ouml;nnen beim Einschlafen Wach- und Traumvorstellungen vermischt werden und zu sogenannten hypnagogenen (dem Schlaf vorausgehenden) Halluzinationen f&uuml;hren.
 
 Der n&auml;chtliche Schlaf ist auch dann gest&ouml;rt, wenn der Betroffene den &uuml;blichen Bettrhythmus einh&auml;lt. N&auml;chtliche Schlafprofile zeigen einen zerrissenen, fragmentierten Schlaf, der die beim Gesunden &uuml;blichen etwa 90-min&uuml;tigen Schlafzyklen nur ansatzweise erkennen l&auml;sst. Auffallend ist, dass sich &uuml;ber mehrere N&auml;chte kein einheitliches Muster erkennen l&auml;sst und dass die REM-Phasen untypisch der traumlosen Schlaf-Phase (NO-REM) vorausgehen. Die Betroffenen empfinden den Schlaf oft als wenig erholsam.
