@@ -53,13 +53,13 @@ Einige F&auml;lle von Narkolepsie wurden offenbar durch die **Schweinegrippe-Imp
 <br>Entsprechend der klinischen Symptome wurde durch die Arbeiten von Yoss und Daily der Begriff der narkoleptischen Tetrade gepr&auml;gt.
 <br>Dieser steht f&uuml;r die Kombination aus
 
-**4.1)** **exzessiver Tagesschl&auml;frigkeit**,
+**4.1)&nbsp; exzessiver Tagesschl&auml;frigkeit**,
 
-**4.2)****Kataplexien**,
+**4.2)&nbsp;****Kataplexien**,
 
-**4.3)****Schlafl&auml;hmungen** und
+**4.3)&nbsp;****Schlafl&auml;hmungen** und
 
-**4.4)****hypnagogen Halluzinationen**.
+**4.4)&nbsp;****hypnagogen Halluzinationen**.
 
 Exzessive Tagesschl&auml;frigkeit liegen bei etwa 95 % der Patienten vor, Kataplexien bei etwa 90 % der Patienten, Schlafl&auml;hmungen bei etwa 40–50 % der Patienten und hypnagoge sowie hypnopompe Halluzinationen bei etwa 40–50 % der Patienten. Alle vier Symptome der vollst&auml;ndigen Tetrade betreffen jedoch nur 15-30 % der Patienten.
 
