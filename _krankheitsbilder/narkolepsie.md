@@ -116,7 +116,7 @@ Schlafparalyse ist kein f&uuml;r die Narkolepsie spezifisches Symptom. Isolierte
 &nbsp;
 
 **4.4) Hypnagoge**und hypnopompe **Halluzinationen**
-<br>Wie auch die Schlafparalyse kann das Symptom sowohl **beim Einschlafen**(**hypnagoge Form** und so in der narkoleptischen Tetrade enthalten) als auch **beim Aufwachen** (**hypnopompe Form**) auftreten. Die Halluzinationen sind &uuml;berwiegend visuell, kommen aber auch taktil oder auditive vor und &auml;u&szlig;ern sich als oft komplexe und &auml;u&szlig;erst realistische Trug- und Traumwahrnehmungen (Personen in film&auml;hnlichen Szenen, K&ouml;rperschema-St&ouml;rungen). Nach der Episode gelingt es den Betroffenen, den Inhalt als irreal einzuordnen.
+<br>Wie auch die Schlafparalyse kann das Symptom sowohl **beim Einschlafen&nbsp;****(hypnagoge Form und so in der narkoleptischen Tetrade enthalten)** als auch **beim Aufwachen** **(hypnopompe Form)** auftreten. Die Halluzinationen sind &uuml;berwiegend visuell, kommen aber auch taktil oder auditive vor und &auml;u&szlig;ern sich als oft komplexe und &auml;u&szlig;erst realistische Trug- und Traumwahrnehmungen (Personen in film&auml;hnlichen Szenen, K&ouml;rperschema-St&ouml;rungen). Nach der Episode gelingt es den Betroffenen, den Inhalt als irreal einzuordnen.
 
 Diese Sinnest&auml;uschungen sind nicht an den Nachtschlaf gebunden, sondern k&ouml;nnen auch vor oder nach zus&auml;tzlichen Schlafepisoden des Symptoms exzessive Tagesschl&auml;frigkeit oder im Zusammenhang mit Kataplexien auftreten. Hinsichtlich der Wirkung dieser Halluzinationen auf die Betroffenen, die das als sehr wirklichkeitsnah erleben und ihrer &Auml;ngste und Bef&uuml;rchtungen gelten die Ausf&uuml;hrung unter Schlafparalyse.
 
