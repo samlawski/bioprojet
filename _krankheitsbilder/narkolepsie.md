@@ -99,7 +99,7 @@ F&uuml;r die Schl&auml;frigkeit werden entsprechend der ICSD (International Clas
 &nbsp;
 
 **4.3) Schlafl&auml;hmungen**
-<br>Bei der Schlafparalyse, auch Schlafl&auml;hmung genannt, handelt es sich zun&auml;chst um einen nat&uuml;rlichen Vorgang der Schlafphase REM-Schlaf, dessen Aufgabe darin besteht, die Umsetzung von Trauminhalten in reale Muskelbewegungen zu verhindern. Die Schlafparalyse wird in der Regel nicht bewusst erlebt, da sie beim Aufwachen ohne Verz&ouml;gerung beendet ist.
+<br>Bei der **Schlafparalyse**, auch Schlafl&auml;hmung genannt, handelt es sich zun&auml;chst um einen nat&uuml;rlichen Vorgang der Schlafphase REM-Schlaf, dessen Aufgabe darin besteht, die Umsetzung von Trauminhalten in reale Muskelbewegungen zu verhindern. Die Schlafparalyse wird in der Regel nicht bewusst erlebt, da sie beim Aufwachen ohne Verz&ouml;gerung beendet ist.
 
 Wenn die Schlaf-Wach-Regulation gest&ouml;rt ist, verwischen die Grenzen zwischen Schlaf- und Wachheit. Es kommt zur Dissoziation der Zust&auml;nde Schlaf und Wach, die ansonsten exakt getrennt sind. Dadurch kann die eigentlich an eine Schlafphase gebundene Schlafl&auml;hmung am &Uuml;bergang vom Wachsein zum Schlafen (hypnagoge Form, also zu fr&uuml;h eingeschaltet) oder am &Uuml;bergang vom Schlafen zum Wachsein (hypnopompe Form, also zu sp&auml;t ausgeschaltet) auftreten und zur vor&uuml;bergehenden Unf&auml;higkeit, Bewegungen auszuf&uuml;hren, zu sprechen oder gar willentlich aufzustehen, f&uuml;hren. Der Zustand tritt bevorzugt in R&uuml;ckenlage auf.
 
@@ -115,8 +115,8 @@ Schlafparalyse ist kein f&uuml;r die Narkolepsie spezifisches Symptom. Isolierte
 
 &nbsp;
 
-**4.4) Hypnagoge Halluzinationen**
-<br>Wie auch die Schlafparalyse kann das Symptom sowohl beim Einschlafen (hypnagoge Form und so in der narkoleptischen Tetrade enthalten) als auch beim Aufwachen (hypnopompe Form) auftreten. Die Halluzinationen sind &uuml;berwiegend visuell, kommen aber auch taktil oder auditive vor und &auml;u&szlig;ern sich als oft komplexe und &auml;u&szlig;erst realistische Trug- und Traumwahrnehmungen (Personen in film&auml;hnlichen Szenen, K&ouml;rperschema-St&ouml;rungen). Nach der Episode gelingt es den Betroffenen, den Inhalt als irreal einzuordnen.
+**4.4) Hypnagoge**und hypnopompe **Halluzinationen**
+<br>Wie auch die Schlafparalyse kann das Symptom sowohl **beim Einschlafen**(**hypnagoge Form** und so in der narkoleptischen Tetrade enthalten) als auch **beim Aufwachen** (**hypnopompe Form**) auftreten. Die Halluzinationen sind &uuml;berwiegend visuell, kommen aber auch taktil oder auditive vor und &auml;u&szlig;ern sich als oft komplexe und &auml;u&szlig;erst realistische Trug- und Traumwahrnehmungen (Personen in film&auml;hnlichen Szenen, K&ouml;rperschema-St&ouml;rungen). Nach der Episode gelingt es den Betroffenen, den Inhalt als irreal einzuordnen.
 
 Diese Sinnest&auml;uschungen sind nicht an den Nachtschlaf gebunden, sondern k&ouml;nnen auch vor oder nach zus&auml;tzlichen Schlafepisoden des Symptoms exzessive Tagesschl&auml;frigkeit oder im Zusammenhang mit Kataplexien auftreten. Hinsichtlich der Wirkung dieser Halluzinationen auf die Betroffenen, die das als sehr wirklichkeitsnah erleben und ihrer &Auml;ngste und Bef&uuml;rchtungen gelten die Ausf&uuml;hrung unter Schlafparalyse.
 
@@ -126,8 +126,8 @@ Schlafbezogene Halluzinationen sind kein f&uuml;r die Narkolepsie spezifisches S
 
 &nbsp;
 
-**4.5) Gest&ouml;rter Schlafrhythmus**
-<br>Der dritte Symptomkreis besteht in einem abnormen Schlafrhythmus (beispielsweise vier Stunden wach, vier Stunden Schlaf und so weiter tags und nachts), sowie in verschobenen REM-Phasen (Traumschlaf-Phasen), die untypisch dem traumlosen Schlaf vorausgehen. Dadurch k&ouml;nnen beim Einschlafen Wach- und Traumvorstellungen vermischt werden und zu sogenannten hypnagogenen (dem Schlaf vorausgehenden) Halluzinationen f&uuml;hren.
+**4.5) Beeintr&auml;chtigter Nachtschlaf**** durch abnormen Schlafrhythmus**
+<br>Ein weiterer Symptomkreis besteht in einem abnormen Schlafrhythmus (beispielsweise vier Stunden wach, vier Stunden Schlaf und so weiter tags und nachts), sowie in verschobenen REM-Phasen (Traumschlaf-Phasen), die untypisch dem traumlosen Schlaf vorausgehen. Dadurch k&ouml;nnen beim Einschlafen Wach- und Traumvorstellungen vermischt werden und zu sogenannten hypnagogenen (dem Schlaf vorausgehenden) Halluzinationen f&uuml;hren.
 
 Der n&auml;chtliche Schlaf ist auch dann gest&ouml;rt, wenn der Betroffene den &uuml;blichen Bettrhythmus einh&auml;lt. N&auml;chtliche Schlafprofile zeigen einen zerrissenen, fragmentierten Schlaf, der die beim Gesunden &uuml;blichen etwa 90-min&uuml;tigen Schlafzyklen nur ansatzweise erkennen l&auml;sst. Auffallend ist, dass sich &uuml;ber mehrere N&auml;chte kein einheitliches Muster erkennen l&auml;sst und dass die REM-Phasen untypisch der traumlosen Schlaf-Phase (NO-REM) vorausgehen. Die Betroffenen empfinden den Schlaf oft als wenig erholsam.
 
