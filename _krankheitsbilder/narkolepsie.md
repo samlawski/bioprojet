@@ -27,12 +27,16 @@ Die klassische Narkolepsie ist eine neurologische Erkrankung und durch die Haupt
 <br>Auff&auml;llig sind die f&uuml;r die Erkrankten imperativen Einschlafattacken, zu denen es im Rahmen der **exzessiven Tagesschl&auml;frigkeit** w&auml;hrend des Tages kommen kann, und **Kataplexien**, bei denen der teilweise oder auch vollst&auml;ndige Verlust der Muskelspannung (Tonusverlust) – ausgel&ouml;st durch starke Emotionen und bei vollem Bewusstsein – St&uuml;rze verursachen kann.
 <br>Oft ist zudem der Nachtschlaf durch hartn&auml;ckige Durchschlafst&ouml;rungen nicht erholsam und zur Schl&auml;frigkeit im Sinne von Einschlafneigung kommt Schlafmangel.
 
+&nbsp;
+
 **2) Verbreitung und H&auml;ufigkeit**
 <br>In Deutschland leiden Sch&auml;tzungen der Deutschen Gesellschaft f&uuml;r Schlafmedizin (DGSM) zufolge **ca. 30.000 Menschen** unter dieser Erkrankung (Pr&auml;valenz: ca. 26-50/100.000 bei einer hohen Dunkelziffer). Nach Expertenmeinungen sind davon **nur ca. 4.000 Menschen diagnostiziert und therapiert**.
 
 Hinsichtlich des ersten Auftretens der Symptome gibt es einen Mittelwert um das 25. Lebensjahr bei einer H&auml;ufung um das 15. und um das 35. Lebensjahr, wobei die Erkrankung in jedem Lebensalter auftreten kann. Auch Kinder sind davon betroffen. Erste klinische Symptome treten jedoch selten vor der Pubert&auml;t auf.
 
 Dabei verschiebt sich die Symptomatik mit zunehmendem Alter meist von bevorzugt kataplektischen Erscheinungen in der Jugend zu vermehrtem Schlafdrang im fortgeschrittenen Alter. M&auml;nner sind geringf&uuml;gig h&auml;ufiger betroffen als Frauen. Exakte epidemiologische Daten fehlen dazu allerdings.
+
+&nbsp;
 
 **3) Ursachen der Narkolepsie**
 <br>Die Ursachen (&Auml;tiologie) der idiopathischen Narkolepsie sind unbekannt. Untersuchungen lassen die Hypothese immer wahrscheinlicher werden, dass Zentren im Gehirn beteiligt sind, die f&uuml;r die Steuerung des Wach-Schlaf-Rhythmus zust&auml;ndig sind (Hypothalamus, Nucleus suprachiasmaticus). Neuere Ergebnisse weisen auf einen **Verlust der sogenannten Hypocretin/Orexin-Zellen im Hypothalamus** hin, sowie auf einen **Verlust an grauer Substanz im Nucleus accumbens**.
@@ -49,6 +53,8 @@ Patienten mit Narkolepsie/Kataplexie haben h&auml;ufig Ver&auml;nderungen in dem
 
 Einige F&auml;lle von Narkolepsie wurden offenbar durch die **Schweinegrippe-Impfung** ausgel&ouml;st. Weltweit sind bei 31 Millionen verabreichten Dosen des Impfstoffes (Stand: Januar/Februar 2011) hunderte F&auml;lle von Narkolepsie in Verbindung mit der Pandemrix-Impfung aufgetreten, vor allem bei Kindern und Jugendlichen im Alter von vier bis 19 Jahren. In Deutschland gibt es ca. 80 Verdachtsf&auml;lle. Ursache hierf&uuml;r ist wahrscheinlich die molekulare Mimikry, da bei entsprechender genetischer Veranlagung der Impfstoff mit dem Neurotransmitter Hypocretin (Orexin) verwechselt werden kann. Dies bringt dann den Schlafrhythmus im Gehirn durcheinander und l&ouml;st die Narkolepsie aus.
 
+&nbsp;
+
 **4) Symptome**
 <br>Entsprechend der klinischen Symptome wurde durch die Arbeiten der Wissenschaftler Yoss und Daily der Begriff der narkoleptischen Tetrade gepr&auml;gt.
 <br>Dieser steht f&uuml;r die Kombination aus
@@ -60,6 +66,8 @@ Einige F&auml;lle von Narkolepsie wurden offenbar durch die **Schweinegrippe-Imp
 **4.3)&nbsp;****Schlafl&auml;hmungen** und
 
 **4.4)&nbsp;****hypnagogen Halluzinationen**.
+
+&nbsp;
 
 Exzessive Tagesschl&auml;frigkeit liegen bei etwa 95 % der Patienten vor, Kataplexien bei etwa 90 % der Patienten, Schlafl&auml;hmungen bei etwa 40–50 % der Patienten und hypnagoge sowie hypnopompe Halluzinationen bei etwa 40–50 % der Patienten. Alle vier Symptome der vollst&auml;ndigen Tetrade betreffen jedoch nur 15-30 % der Patienten.
 
@@ -118,7 +126,7 @@ Schlafbezogene Halluzinationen sind kein f&uuml;r die Narkolepsie spezifisches S
 
 &nbsp;
 
-**Gest&ouml;rter Schlafrhythmus**
+**4.5) Gest&ouml;rter Schlafrhythmus**
 <br>Der dritte Symptomkreis besteht in einem abnormen Schlafrhythmus (beispielsweise vier Stunden wach, vier Stunden Schlaf und so weiter tags und nachts), sowie in verschobenen REM-Phasen (Traumschlaf-Phasen), die untypisch dem traumlosen Schlaf vorausgehen. Dadurch k&ouml;nnen beim Einschlafen Wach- und Traumvorstellungen vermischt werden und zu sogenannten hypnagogenen (dem Schlaf vorausgehenden) Halluzinationen f&uuml;hren.
 
 Der n&auml;chtliche Schlaf ist auch dann gest&ouml;rt, wenn der Betroffene den &uuml;blichen Bettrhythmus einh&auml;lt. N&auml;chtliche Schlafprofile zeigen einen zerrissenen, fragmentierten Schlaf, der die beim Gesunden &uuml;blichen etwa 90-min&uuml;tigen Schlafzyklen nur ansatzweise erkennen l&auml;sst. Auffallend ist, dass sich &uuml;ber mehrere N&auml;chte kein einheitliches Muster erkennen l&auml;sst und dass die REM-Phasen untypisch der traumlosen Schlaf-Phase (NO-REM) vorausgehen. Die Betroffenen empfinden den Schlaf oft als wenig erholsam.
@@ -127,5 +135,5 @@ Beim gesunden Menschen persistiert der ca. 90-min&uuml;tige Aktivit&auml;tsrhyth
 
 &nbsp;
 
-**Automatisches Verhalten**
+**4.6) Automatisches Verhalten**
 <br>Das automatische Verhalten geh&ouml;rt zu den NREM-assoziierten und unspezifischen Symptomen, wird jedoch bei den Diagnose-Kriterien der ICSD mit aufgef&uuml;hrt. Beim automatischen Verhalten wird eine Handlung (wie Schreiben, Autofahren, Kochen) in schlaf&auml;hnlichem Zustand stereotyp fortgef&uuml;hrt. Die Reaktion auf &auml;u&szlig;ere Reize ist verz&ouml;gert, Wahrnehmung, Erinnerung und Dauerleistung sind beeintr&auml;chtigt und das Ergebnis ist oft fehlerhaft. W&auml;hrend dieser Zeit besteht ein stark erh&ouml;htes Unfallrisiko. Starke Schl&auml;frigkeit und fehlende Gelegenheit zum Schlaf f&ouml;rdern das Auftreten des automatischen Verhaltens. Automatisches Verhalten wird bei etwa 20 % der Narkolepsie-Patienten beobachtet.
