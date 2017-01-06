@@ -30,7 +30,7 @@ Die klassische Narkolepsie ist eine neurologische Erkrankung und durch die Haupt
 &nbsp;
 
 **2) Verbreitung und H&auml;ufigkeit**
-<br>In Deutschland leiden Sch&auml;tzungen der Deutschen Gesellschaft f&uuml;r Schlafmedizin (DGSM) zufolge **ca. 30.000 Menschen** unter dieser Erkrankung (Pr&auml;valenz: ca. 26-50/100.000 bei einer hohen Dunkelziffer). Nach Expertenmeinungen sind davon nur ca. 4.000 Menschen diagnostiziert und therapiert.
+<br>In Deutschland leiden Sch&auml;tzungen der Deutschen Gesellschaft f&uuml;r Schlafmedizin (DGSM) zufolge **ca. 30.000 Menschen** unter dieser Erkrankung (Pr&auml;valenz: ca. 26-50/100.000 bei einer hohen Dunkelziffer). Nach Expertenmeinungen sind davon **nur ca. 4.000 Menschen diagnostiziert und therapiert**.
 
 Hinsichtlich des ersten Auftretens der Symptome gibt es einen Mittelwert um das 25. Lebensjahr bei einer H&auml;ufung um das 15. und um das 35. Lebensjahr, wobei die Erkrankung in jedem Lebensalter auftreten kann. Auch Kinder sind davon betroffen. Erste klinische Symptome treten jedoch selten vor der Pubert&auml;t auf.
 
