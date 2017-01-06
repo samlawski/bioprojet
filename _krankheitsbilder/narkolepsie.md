@@ -34,6 +34,21 @@ Die klassische Narkolepsie ist eine neurologische Erkrankung und durch die Haupt
 
 Hinsichtlich des ersten Auftretens der Symptome gibt es einen Mittelwert um das 25. Lebensjahr bei einer H&auml;ufung um das 15. und um das 35. Lebensjahr, wobei die Erkrankung in jedem Lebensalter auftreten kann. Auch Kinder sind davon betroffen. Erste klinische Symptome treten jedoch selten vor der Pubert&auml;t auf.
 
-Dabei verschiebt sich die Symptomatik mit zunehmendem Alter meist von bevorzugt kataplektischen Erscheinungen in der Jugend zu vermehrtem Schlafdrang im fortgeschrittenen Alter. M&auml;nner sind geringf&uuml;gig h&auml;ufiger betroffen als Frauen. Exakte epidemiologische Studien fehlen allerdings.
+Dabei verschiebt sich die Symptomatik mit zunehmendem Alter meist von bevorzugt kataplektischen Erscheinungen in der Jugend zu vermehrtem Schlafdrang im fortgeschrittenen Alter. M&auml;nner sind geringf&uuml;gig h&auml;ufiger betroffen als Frauen. Exakte epidemiologische Daten fehlen dazu allerdings.
+
+&nbsp;
+
+**3) Ursachen der Narkolepsie**
+<br>Die Ursachen (&Auml;tiologie) der idiopathischen Narkolepsie sind unbekannt. Untersuchungen lassen die Hypothese immer wahrscheinlicher werden, dass Zentren im Gehirn beteiligt sind, die f&uuml;r die Steuerung des Wach-Schlaf-Rhythmus zust&auml;ndig sind (Hypothalamus, Nucleus suprachiasmaticus). Neuere Ergebnisse weisen auf einen **Verlust der sogenannten Hypocretin/Orexin-Zellen im Hypothalamus** hin, sowie auf einen **Verlust an grauer Substanz im Nucleus accumbens**.
+
+Menschen mit Narkolepsie zeigen entweder gar keine oder nur eine sehr **geringe Konzentration von Hypocretin im Gehirn**. Inzwischen werden die Namen der Neuropeptide Hypocretin-1 und Hypocretin-2 nicht mehr so h&auml;ufig verwendet, statt dessen die Namen Orexin-1 bzw. Orexin-2.
+
+Die Narkolepsie weist sehr **hohe Assoziationen zu einigen HLA-Allelen** auf. Eine erbliche Komponente wird deshalb in der Forschung diskutiert, da etwa 88-98 % der Erkrankten mit Kataplexien das Allel HLA-DQB1\*0602 tragen (d. h. einen bestimmten Blutfaktor auf den Leukozyten aufweisen, der in der Gesamtbev&ouml;lkerung nur bei etwa 25 % aller Menschen zu finden ist).
+
+Weitere HLA-Allele korrespondieren ebenfalls mit der Narkolepsie (DRB1\*1501, DRB5\*0101,DQA1\*0102), jedoch mit einer geringeren H&auml;ufigkeit. Nicht der Blutfaktor selbst scheint urs&auml;chlich zu sein. Vielmehr ist sein Genlocus dem des Gens der hypothetischen Narkolepsieursache wahrscheinlich nahe benachbart. Bei HLA-DQB1\*0602-negativen Patienten findet sich geh&auml;uft HLA-DQB1\*0301. Dies korreliert mit einer H&auml;ufung von Teilsymptomen der Narkolepsie bei Familienmitgliedern der Erkrankten.
+
+Nach einer im Jahr 2009 ver&ouml;ffentlichten genomweiten Assoziationsstudie handelt es sich bei der Narkolepsie m&ouml;glicherweise um eine **Autoimmunerkrankung**. Patienten mit Narkolepsie/Kataplexie haben h&auml;ufig Ver&auml;nderungen in dem Rezeptor, mit dessen Hilfe T-Zellen potenzielle Angreifer erkennen.
+
+Einige F&auml;lle von Narkolepsie wurden offenbar durch die Schweinegrippe-Impfung ausgel&ouml;st. Weltweit sind bei 31 Millionen verabreichten Dosen des Impfstoffes(Stand Januar/Februar 2011) hunderte F&auml;lle von Narkolepsie in Verbindung mit der Pandemrix-Impfung aufgetreten, vor allem bei Kindern und Jugendlichen im Alter von vier bis 19 Jahren. In Deutschland gibt es ca. 80 Verdachtsf&auml;lle. Ursache hierf&uuml;r ist wahrscheinlich die molekulare Mimikry, da bei entsprechender genetischer Veranlagung der Impfstoff mit dem Neurotransmitter Hypocretin (Orexin) verwechselt werden kann. Dies bringt dann den Schlafrhythmus im Gehirn durcheinander und l&ouml;st die Narkolepsie aus.
 
 &nbsp;
