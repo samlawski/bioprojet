@@ -70,4 +70,4 @@ Die Therapie ist abh&auml;ngig von der ausl&ouml;senden Ursache. Eine unkomplizi
 Dies erfolgt in der Regel durch Rehydratationsl&ouml;sungen. Es werden zu diesem Zweck fertige Elektrolytmischungen in Apotheken angeboten,
 <br>die nur noch in Wasser aufgel&ouml;st werden m&uuml;ssen.
 
-Als wirksame Medikamente kommen **Racecadotril** (Vaprino) oder **Loperamid** (Imodium oder Generika) in Frage.
+Als wirksame Medikamente kommen **Racecadotril** oder **Loperamid** in Frage.
