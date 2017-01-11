@@ -39,7 +39,7 @@ Dabei verschiebt sich die Symptomatik mit zunehmendem Alter meist von bevorzugt 
 
 Menschen mit Narkolepsie zeigen entweder gar keine oder nur eine sehr **geringe Konzentration von Hypocretin im Gehirn**. Inzwischen werden die Namen der Neuropeptide Hypocretin-1 und Hypocretin-2 nicht mehr so h&auml;ufig verwendet, statt dessen die Namen Orexin-1 bzw. Orexin-2.
 
-Die Narkolepsie weist sehr **hohe Assoziationen zu einigen HLA-Allelen** auf. Eine erbliche Komponente wird deshalb in der Forschung diskutiert, da etwa 88-98 % der Erkrankten mit Kataplexien das Allel HLA-DQB1\*0602 tragen (d. h. einen bestimmten Blutfaktor auf den Leukozyten aufweisen, der in der Gesamtbev&ouml;lkerung nur bei etwa 25 % aller Menschen zu finden ist).
+Die Narkolepsie weist sehr **hohe Assoziationen zu einigen HLA-Allelen** auf. Eine erbliche Komponente wird deshalb in der Forschung diskutiert, da etwa 88-98 % der Erkrankten mit Kataplexien das Allel** HLA-DQB1\*0602** tragen (d. h. einen bestimmten Blutfaktor auf den Leukozyten aufweisen, der in der Gesamtbev&ouml;lkerung nur bei etwa 25 % aller Menschen zu finden ist).
 
 Weitere HLA-Allele korrespondieren ebenfalls mit der Narkolepsie (DRB1\*1501, DRB5\*0101,DQA1\*0102), jedoch mit einer geringeren H&auml;ufigkeit. Nicht der Blutfaktor selbst scheint urs&auml;chlich zu sein. Vielmehr ist sein Genlocus dem des Gens der hypothetischen Narkolepsieursache wahrscheinlich nahe benachbart. Bei HLA-DQB1\*0602-negativen Patienten findet sich geh&auml;uft HLA-DQB1\*0301. Dies korreliert mit einer H&auml;ufung von Teilsymptomen der Narkolepsie bei Familienmitgliedern der Erkrankten.
 
@@ -47,7 +47,7 @@ Nach einer im Jahr 2009 ver&ouml;ffentlichten genomweiten Assoziationsstudie han
 
 Patienten mit Narkolepsie/Kataplexie haben h&auml;ufig Ver&auml;nderungen in dem Rezeptor, mit dessen Hilfe T-Zellen potenzielle Angreifer erkennen.
 
-Einige F&auml;lle von Narkolepsie wurden offenbar durch die **Schweinegrippe-Impfung** ausgel&ouml;st. Weltweit sind bei 31 Millionen verabreichten Dosen des Impfstoffes (Stand: Januar/Februar 2011) hunderte F&auml;lle von Narkolepsie in Verbindung mit der Pandemrix-Impfung aufgetreten, vor allem bei Kindern und Jugendlichen im Alter von vier bis 19 Jahren. In Deutschland gibt es ca. 80 Verdachtsf&auml;lle. Ursache hierf&uuml;r ist wahrscheinlich die molekulare Mimikry, da bei entsprechender genetischer Veranlagung der Impfstoff mit dem Neurotransmitter Hypocretin (Orexin) verwechselt werden kann. Dies bringt dann den Schlafrhythmus im Gehirn durcheinander und l&ouml;st die Narkolepsie aus.
+Einige F&auml;lle von Narkolepsie wurden offenbar durch die **Schweinegrippe-Impfung** ausgel&ouml;st. Weltweit sind bei 31 Millionen verabreichten Dosen des Impfstoffes (Stand: Januar/Februar 2011) hunderte F&auml;lle von Narkolepsie in Verbindung mit der **Pandemrix**-Impfung aufgetreten, vor allem bei Kindern und Jugendlichen im Alter von vier bis 19 Jahren. In Deutschland gibt es ca. 80 Verdachtsf&auml;lle. Ursache hierf&uuml;r ist wahrscheinlich die molekulare Mimikry, da bei entsprechender genetischer Veranlagung der Impfstoff mit dem Neurotransmitter Hypocretin (Orexin) verwechselt werden kann. Dies bringt dann den Schlafrhythmus im Gehirn durcheinander und l&ouml;st die Narkolepsie aus.
 
 **4) Symptome**
 <br>Entsprechend der klinischen Symptome wurde durch die Arbeiten der Forscher **Yoss und Daily** der Begriff der **"n****arkoleptischen Tetrade"**gepr&auml;gt.
@@ -69,7 +69,7 @@ Die Symptomatik ist individuell sehr verschieden. Kaum ein Narkoleptiker weist a
 
 &Uuml;berdies kommen bei Narkoleptikern vermehrt weitere Schlaferkrankungen wie Non-REM ("Rapid Eye Movement") und REM Parasomnien, Restless-Legs-Syndrom und schlafbezogene Atemst&ouml;rungen vor.
 
-Etwa 70 % der Betroffenen geben an, nachts regelm&auml;&szlig;ig nicht durchschlafen zu k&ouml;nnen und etwa 30 % stehen auf, um etwas zu essen oder anderen Aktivit&auml;ten nachzugehen. Bewegungen im Schlaf und die damit verbundenen Arousals tragen zur Fragmentierung des Schlafes bei Patienten mit Narkolepsie mit Kataplexie bei. Es kommt sowohl im REM-Schlaf als auch im NREM-Schlaf zu mehr und l&auml;nger andauernden Bewegungen, an denen auch mehr Regionen des K&ouml;rpers beteiligt sind.
+Etwa 70 % der Betroffenen geben an, nachts regelm&auml;&szlig;ig nicht durchschlafen zu k&ouml;nnen und etwa 30 % stehen auf, um etwas zu essen oder anderen Aktivit&auml;ten nachzugehen. Bewegungen im Schlaf und die damit verbundene Aktivierung des ZNS (Arousal) tragen zur Fragmentierung des Schlafes bei Patienten mit Narkolepsie mit Kataplexie bei. Es kommt sowohl im REM-Schlaf als auch im NREM-Schlaf zu mehr und l&auml;nger andauernden Bewegungen, an denen auch mehr Regionen des K&ouml;rpers beteiligt sind.
 
 **4.1) Exzessive Tagesschl&auml;frigkeit**
 <br>Das Symptom Schl&auml;frigkeit, wegen seiner Auspr&auml;gung oft auch exzessive Tagesschl&auml;frigkeit genannt, ist von M&uuml;digkeit im Sinne von zu wenig Schlaf abzugrenzen. Trotz ausreichenden Schlafs besteht ganzt&auml;gig eine Einschlafneigung. Die Tagesschl&auml;frigkeit ver&auml;ndert sich dabei zirkadian-rhythmisch und in Abh&auml;ngigkeit von Monotonie.
