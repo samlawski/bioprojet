@@ -27,16 +27,12 @@ Die klassische Narkolepsie ist eine neurologische Erkrankung und durch die Haupt
 <br>Auff&auml;llig sind die f&uuml;r die Erkrankten imperativen Einschlafattacken, zu denen es im Rahmen der **exzessiven Tagesschl&auml;frigkeit** w&auml;hrend des Tages kommen kann, und **Kataplexien**, bei denen der teilweise oder auch vollst&auml;ndige Verlust der Muskelspannung (Tonusverlust) – ausgel&ouml;st durch starke Emotionen und bei vollem Bewusstsein – St&uuml;rze verursachen kann.
 <br>Oft ist zudem der Nachtschlaf durch hartn&auml;ckige Durchschlafst&ouml;rungen nicht erholsam und zur Schl&auml;frigkeit im Sinne von Einschlafneigung kommt Schlafmangel.
 
-&nbsp;
-
 **2) Verbreitung und H&auml;ufigkeit**
 <br>In Deutschland leiden Sch&auml;tzungen der Deutschen Gesellschaft f&uuml;r Schlafmedizin (DGSM) zufolge **ca. 30.000 Menschen** unter dieser Erkrankung (Pr&auml;valenz: ca. 26-50/100.000 bei einer hohen Dunkelziffer). Nach Expertenmeinungen sind davon **nur ca. 4.000 Menschen diagnostiziert und therapiert**.
 
 Hinsichtlich des ersten Auftretens der Symptome gibt es einen Mittelwert um das 25. Lebensjahr bei einer H&auml;ufung um das 15. und um das 35. Lebensjahr, wobei die Erkrankung in jedem Lebensalter auftreten kann. Auch Kinder sind davon betroffen. Erste klinische Symptome treten jedoch selten vor der Pubert&auml;t auf.
 
 Dabei verschiebt sich die Symptomatik mit zunehmendem Alter meist von bevorzugt kataplektischen Erscheinungen in der Jugend zu vermehrtem Schlafdrang im fortgeschrittenen Alter. M&auml;nner sind geringf&uuml;gig h&auml;ufiger betroffen als Frauen. Exakte epidemiologische Daten fehlen dazu allerdings.
-
-&nbsp;
 
 **3) Ursachen der Narkolepsie**
 <br>Die Ursachen (&Auml;tiologie) der idiopathischen Narkolepsie sind unbekannt. Untersuchungen lassen die Hypothese immer wahrscheinlicher werden, dass Zentren im Gehirn beteiligt sind, die f&uuml;r die Steuerung des Wach-Schlaf-Rhythmus zust&auml;ndig sind (Hypothalamus, Nucleus suprachiasmaticus). Neuere Ergebnisse weisen auf einen **Verlust der sogenannten Hypocretin/Orexin-Zellen im Hypothalamus** hin, sowie auf einen **Verlust an grauer Substanz im Nucleus accumbens**.
@@ -53,8 +49,6 @@ Patienten mit Narkolepsie/Kataplexie haben h&auml;ufig Ver&auml;nderungen in dem
 
 Einige F&auml;lle von Narkolepsie wurden offenbar durch die **Schweinegrippe-Impfung** ausgel&ouml;st. Weltweit sind bei 31 Millionen verabreichten Dosen des Impfstoffes (Stand: Januar/Februar 2011) hunderte F&auml;lle von Narkolepsie in Verbindung mit der Pandemrix-Impfung aufgetreten, vor allem bei Kindern und Jugendlichen im Alter von vier bis 19 Jahren. In Deutschland gibt es ca. 80 Verdachtsf&auml;lle. Ursache hierf&uuml;r ist wahrscheinlich die molekulare Mimikry, da bei entsprechender genetischer Veranlagung der Impfstoff mit dem Neurotransmitter Hypocretin (Orexin) verwechselt werden kann. Dies bringt dann den Schlafrhythmus im Gehirn durcheinander und l&ouml;st die Narkolepsie aus.
 
-&nbsp;
-
 **4) Symptome**
 <br>Entsprechend der klinischen Symptome wurde durch die Arbeiten der Forscher **Yoss und Daily** der Begriff der **"n****arkoleptischen Tetrade"**gepr&auml;gt.
 <br>Dieser steht f&uuml;r die Kombination aus
@@ -67,8 +61,6 @@ Einige F&auml;lle von Narkolepsie wurden offenbar durch die **Schweinegrippe-Imp
 
 **4.4)&nbsp;****hypnagogen Halluzinationen**.
 
-&nbsp;
-
 Exzessive Tagesschl&auml;frigkeit liegen bei etwa 95 % der Patienten vor, Kataplexien bei etwa 90 % der Patienten, Schlafl&auml;hmungen bei etwa 40–50 % der Patienten und hypnagoge sowie hypnopompe Halluzinationen bei etwa 40–50 % der Patienten. Alle vier Symptome der vollst&auml;ndigen Tetrade betreffen jedoch nur 15-30 % der Patienten.
 
 Daneben k&ouml;nnen weitere Symptome wie gest&ouml;rter Nachtschlaf mit vielen Unterbrechungen und langen Wachliegezeiten und automatische Handlungen und Begleiterscheinungen wie ein erh&ouml;hter BMI ("Body Mass Index") und als Folge der Tagesschl&auml;frigkeit Ged&auml;chtnis- und Konzentrationsst&ouml;rungen auftreten.
@@ -78,8 +70,6 @@ Die Symptomatik ist individuell sehr verschieden. Kaum ein Narkoleptiker weist a
 &Uuml;berdies kommen bei Narkoleptikern vermehrt weitere Schlaferkrankungen wie Non-REM ("Rapid Eye Movement") und REM Parasomnien, Restless-Legs-Syndrom und schlafbezogene Atemst&ouml;rungen vor.
 
 Etwa 70 % der Betroffenen geben an, nachts regelm&auml;&szlig;ig nicht durchschlafen zu k&ouml;nnen und etwa 30 % stehen auf, um etwas zu essen oder anderen Aktivit&auml;ten nachzugehen. Bewegungen im Schlaf und die damit verbundenen Arousals tragen zur Fragmentierung des Schlafes bei Patienten mit Narkolepsie mit Kataplexie bei. Es kommt sowohl im REM-Schlaf als auch im NREM-Schlaf zu mehr und l&auml;nger andauernden Bewegungen, an denen auch mehr Regionen des K&ouml;rpers beteiligt sind.
-
-&nbsp;
 
 **4.1) Exzessive Tagesschl&auml;frigkeit**
 <br>Das Symptom Schl&auml;frigkeit, wegen seiner Auspr&auml;gung oft auch exzessive Tagesschl&auml;frigkeit genannt, ist von M&uuml;digkeit im Sinne von zu wenig Schlaf abzugrenzen. Trotz ausreichenden Schlafs besteht ganzt&auml;gig eine Einschlafneigung. Die Tagesschl&auml;frigkeit ver&auml;ndert sich dabei zirkadian-rhythmisch und in Abh&auml;ngigkeit von Monotonie.
@@ -91,12 +81,8 @@ Daneben triggern bestimmte monotone Situationen (wie Zugfahrten, Vortr&auml;ge) 
 F&uuml;r die Schl&auml;frigkeit werden entsprechend der ICSD (International Classification of Sleep Disorders) drei Schweregrade unterschieden. Kriterien sind die H&auml;ufigkeit der unbeabsichtigten Einschlafepisoden, der Grad der Aktivit&auml;t beim Eintritt und die der Situation angemessene Aufmerksamkeit sowie die Auswirkungen. Erg&auml;nzend werden zu erwartende Ergebnisse im Multiplen Schlaflatenztest aufgef&uuml;hrt. Der Grad milde Schl&auml;frigkeit steht f&uuml;r Einschlafepisoden in Ruhephasen und in passiven Situationen (wie Fernsehen, als Beifahrer im Auto), die nicht unbedingt t&auml;glich auftreten und den Betroffenen kaum einschr&auml;nken. Mittelschwere Schl&auml;frigkeit wird bei t&auml;glichem Einschlafen bei geringer k&ouml;rperlicher Aktivit&auml;t in Situationen, die ein Mindestma&szlig; an Aufmerksamkeit erfordern auch in der &Ouml;ffentlichkeit (wie bei Konzertbesuchen, als Zuh&ouml;rer bei Vortr&auml;gen oder in Arbeitssitzungen) angenommen. Es kommt zur Beeintr&auml;chtigung der sozialen oder beruflichen Funktion. Von schwerer Schl&auml;frigkeit ist bei t&auml;glichen Einschlafattacken auch in aktiven Situationen (wie w&auml;hrend des Essens, als Autofahrer, beim Gehen, im direkten Gespr&auml;ch mit einem Gegen&uuml;ber) auszugehen. Die sozialen oder beruflichen Beeintr&auml;chtigungen sind erheblich. Bei schwerer Schl&auml;frigkeit besteht ein stark erh&ouml;htes Unfall- und Verletzungsrisiko.
 <br>Die Tagesschl&auml;frigkeit tritt oft isoliert als erstes Symptom in Erscheinung.
 
-&nbsp;
-
 **4.2) Kataplexie**
 <br>Unter Kataplexien versteht man den affektiv ausgel&ouml;sten, pl&ouml;tzlichen und vor&uuml;bergehenden Kontrollverlust (Tonusverlust) &uuml;ber die Haltemuskulatur ohne Bewusstseinstr&uuml;bung. Am h&auml;ufigsten betroffen ist die mimische und bilateral die Nacken- und Kniemuskulatur. Glatte Muskulatur, respiratorische Muskulatur und Zungen-Schlund-Muskulatur sind jedoch nie beteiligt. Zu beobachten sind Auspr&auml;gungen vom kurzen Erschlaffen der Mimik &uuml;ber eine verwaschene Sprache, dem Fallenlassen von Gegenst&auml;nden, dem Einknicken in den Knien bis hin zu kompletten St&uuml;rzen. Der Zustand dauert wenige Sekunden an und endet schlagartig. Eine Dauer von bis zu einer halben Stunde kommt vor, eine Dauer von Stunden und l&auml;nger wird beim pl&ouml;tzlichen Absetzen antikataplektischer Medikamente beobachtet und Status cataplecticus genannt. Die Frequenz variiert erheblich und in Abh&auml;ngigkeit von den affektiven Ausl&ouml;sern. Zu diesen affektiven Ausl&ouml;sern geh&ouml;ren Freude, Lachen, Scham, Begeisterung, &Auml;rger, Erregung oder Schreck, allgemeiner ausgedr&uuml;ckt starke Emotionen. Wenn Lachen der Ausl&ouml;ser ist, wird auch von Lachschlag gesprochen.
-
-&nbsp;
 
 **4.3) Schlafl&auml;hmungen**
 <br>Bei der **Schlafparalyse**, auch Schlafl&auml;hmung genannt, handelt es sich zun&auml;chst um einen nat&uuml;rlichen Vorgang der Schlafphase REM-Schlaf, dessen Aufgabe darin besteht, die Umsetzung von Trauminhalten in reale Muskelbewegungen zu verhindern. Die Schlafparalyse wird in der Regel nicht bewusst erlebt, da sie beim Aufwachen ohne Verz&ouml;gerung beendet ist.
@@ -113,8 +99,6 @@ Als Bew&auml;ltigungsstrategien kommen das Vermeiden der R&uuml;ckenlage und das
 
 Schlafparalyse ist kein f&uuml;r die Narkolepsie spezifisches Symptom. Isolierte Schlafl&auml;hmungen k&ouml;nnen sporadisch (bei ca. 6 % der Bev&ouml;lkerung mindestens einmal im Leben) oder mit famili&auml;rer H&auml;ufung auch ohne Narkolepsie auftreten.
 
-&nbsp;
-
 **4.4) Hypnagoge&nbsp;****und hypnopompe&nbsp;****Halluzinationen**
 <br>Wie auch die Schlafparalyse kann das Symptom sowohl **beim Einschlafen&nbsp;****(hypnagoge Form und so in der narkoleptischen Tetrade enthalten)** als auch **beim Aufwachen** **(hypnopompe Form)** auftreten. Die Halluzinationen sind &uuml;berwiegend visuell, kommen aber auch taktil oder auditive vor und &auml;u&szlig;ern sich als oft komplexe und &auml;u&szlig;erst realistische Trug- und Traumwahrnehmungen (Personen in film&auml;hnlichen Szenen, K&ouml;rperschema-St&ouml;rungen). Nach der Episode gelingt es den Betroffenen, den Inhalt als irreal einzuordnen.
 
@@ -124,8 +108,6 @@ Eine spezifische medikament&ouml;se Behandlung dieses REM-Schlaf assoziierten Sy
 
 Schlafbezogene Halluzinationen sind kein f&uuml;r die Narkolepsie spezifisches Symptom.
 
-&nbsp;
-
 **4.5) Beeintr&auml;chtigter Nachtschlaf durch abnormen Schlafrhythmus**
 <br>Ein weiterer Symptomkreis besteht in einem abnormen Schlafrhythmus (beispielsweise vier Stunden wach, vier Stunden Schlaf und so weiter tags und nachts), sowie in verschobenen REM-Phasen (Traumschlaf-Phasen), die untypisch dem traumlosen Schlaf vorausgehen. Dadurch k&ouml;nnen beim Einschlafen Wach- und Traumvorstellungen vermischt werden und zu sogenannten hypnagogenen (dem Schlaf vorausgehenden) Halluzinationen f&uuml;hren.
 
@@ -133,7 +115,13 @@ Der n&auml;chtliche Schlaf ist auch dann gest&ouml;rt, wenn der Betroffene den &
 
 Beim gesunden Menschen persistiert der ca. 90-min&uuml;tige Aktivit&auml;tsrhythmus der Schlafphasen auch w&auml;hrend der Wachzeit als Rhythmus wechselnder geistiger und k&ouml;rperlicher Leistungsf&auml;higkeit. Entsprechend zerf&auml;llt diese Regelm&auml;&szlig;igkeit beim Narkoleptiker w&auml;hrend der Wachphase. Darin liegt m&ouml;glicherweise die Verbindung zur erh&ouml;hten Tagschl&auml;frigkeit der meisten Narkolepsiepatienten.
 
-&nbsp;
-
 **4.6) Automatisches Verhalten**
 <br>Das automatische Verhalten geh&ouml;rt zu den NREM-assoziierten und unspezifischen Symptomen, wird jedoch bei den Diagnose-Kriterien der ICSD mit aufgef&uuml;hrt. Beim automatischen Verhalten wird eine Handlung (wie Schreiben, Autofahren, Kochen) in schlaf&auml;hnlichem Zustand stereotyp fortgef&uuml;hrt. Die Reaktion auf &auml;u&szlig;ere Reize ist verz&ouml;gert, Wahrnehmung, Erinnerung und Dauerleistung sind beeintr&auml;chtigt und das Ergebnis ist oft fehlerhaft. W&auml;hrend dieser Zeit besteht ein stark erh&ouml;htes Unfallrisiko. Starke Schl&auml;frigkeit und fehlende Gelegenheit zum Schlaf f&ouml;rdern das Auftreten des automatischen Verhaltens. Automatisches Verhalten wird bei etwa 20 % der Narkolepsie-Patienten beobachtet.
+
+**5.) Diagnostik**
+<br>Als diagnostische Ma&szlig;nahmen werden eine gezielte Erfassung der Krankengeschichte (Anamnese) durch den Arzt, die Dokumentation durch verschiedene Schlaffrageb&ouml;gen wie der Epworth Sleepiness Scale (ESS) und -tageb&uuml;cher sowie Untersuchungen mittels Polysomnographie und Multiplem Schlaflatenztest (MSLT) durchgef&uuml;hrt.
+<br>Im Einzelfall kann eine Bestimmung des Orexin-Spiegels im Hirnwasser oder eine HLA-Typisierung erfolgen, was insbesondere bei differenzialdiagnostischen Unklarheiten empfohlen wird.
+
+Beim MSLT wird eine verk&uuml;rzte Einschlaflatenz unter 8 Minuten und verfr&uuml;htes, mindestens in 2 F&auml;llen zu beobachtendes Auftreten von REM-Schlaf (Sleep-Onset-REM, SOREMP) bei 5 Durchg&auml;ngen erwartet. Allerdings zeigen etwa 20 % der Patienten keinen zweimaligen SOREM, werden also „falsch negativ“ erkannt. Daneben wird SOREM auch bei Gesunden festgestellt.
+
+Bei der Auswertung des MSLT hinsichtlich Einschlaflatenz und SOREMP zeigen ungef&auml;hr 15 % der Narkoleptiker mit Kataplexie ein normales oder grenzwertiges Ergebnis, bei &auml;lteren Patienten (ab 36 Jahre) sind es sogar etwa 25 %.
