@@ -27,12 +27,16 @@ Die klassische Narkolepsie ist eine neurologische Erkrankung und durch die Haupt
 <br>Auff&auml;llig sind die f&uuml;r die Erkrankten imperativen Einschlafattacken, zu denen es im Rahmen der **exzessiven Tagesschl&auml;frigkeit** w&auml;hrend des Tages kommen kann, und **Kataplexien**, bei denen der teilweise oder auch vollst&auml;ndige Verlust der Muskelspannung (Tonusverlust) – ausgel&ouml;st durch starke Emotionen und bei vollem Bewusstsein – St&uuml;rze verursachen kann.
 <br>Oft ist zudem der Nachtschlaf durch hartn&auml;ckige Durchschlafst&ouml;rungen nicht erholsam und zur Schl&auml;frigkeit im Sinne von Einschlafneigung kommt Schlafmangel.
 
+&nbsp;
+
 **2) Verbreitung und H&auml;ufigkeit**
 <br>In Deutschland leiden Sch&auml;tzungen der Deutschen Gesellschaft f&uuml;r Schlafmedizin (DGSM) zufolge **ca. 30.000 Menschen** unter dieser Erkrankung (Pr&auml;valenz: ca. 26-50/100.000 bei einer hohen Dunkelziffer). Nach Expertenmeinungen sind davon **nur ca. 4.000 Menschen diagnostiziert und therapiert**.
 
 Hinsichtlich des ersten Auftretens der Symptome gibt es einen Mittelwert um das 25. Lebensjahr bei einer H&auml;ufung um das 15. und um das 35. Lebensjahr, wobei die Erkrankung in jedem Lebensalter auftreten kann. Auch Kinder sind davon betroffen. Erste klinische Symptome treten jedoch selten vor der Pubert&auml;t auf.
 
 Dabei verschiebt sich die Symptomatik mit zunehmendem Alter meist von bevorzugt kataplektischen Erscheinungen in der Jugend zu vermehrtem Schlafdrang im fortgeschrittenen Alter. M&auml;nner sind geringf&uuml;gig h&auml;ufiger betroffen als Frauen. Exakte epidemiologische Daten fehlen dazu allerdings.
+
+&nbsp;
 
 **3) Ursachen der Narkolepsie**
 <br>Die Ursachen (&Auml;tiologie) der idiopathischen Narkolepsie sind unbekannt. Untersuchungen lassen die Hypothese immer wahrscheinlicher werden, dass Zentren im Gehirn beteiligt sind, die f&uuml;r die Steuerung des Wach-Schlaf-Rhythmus zust&auml;ndig sind (Hypothalamus, Nucleus suprachiasmaticus). Neuere Ergebnisse weisen auf einen **Verlust der sogenannten Hypocretin/Orexin-Zellen im Hypothalamus** hin, sowie auf einen **Verlust an grauer Substanz im Nucleus accumbens**.
@@ -48,6 +52,8 @@ Nach einer im Jahr 2009 ver&ouml;ffentlichten genomweiten Assoziationsstudie han
 Patienten mit Narkolepsie/Kataplexie haben h&auml;ufig Ver&auml;nderungen in dem Rezeptor, mit dessen Hilfe T-Zellen potenzielle Angreifer erkennen.
 
 Einige F&auml;lle von Narkolepsie wurden offenbar durch die **Schweinegrippe-Impfung** ausgel&ouml;st. Weltweit sind bei 31 Millionen verabreichten Dosen des Impfstoffes (Stand: Januar/Februar 2011) hunderte F&auml;lle von Narkolepsie in Verbindung mit der **Pandemrix**-Impfung aufgetreten, vor allem bei Kindern und Jugendlichen im Alter von vier bis 19 Jahren. In Deutschland gibt es ca. 80 Verdachtsf&auml;lle. Ursache hierf&uuml;r ist wahrscheinlich die molekulare Mimikry, da bei entsprechender genetischer Veranlagung der Impfstoff mit dem Neurotransmitter Hypocretin (Orexin) verwechselt werden kann. Dies bringt dann den Schlafrhythmus im Gehirn durcheinander und l&ouml;st die Narkolepsie aus.
+
+&nbsp;
 
 **4) Symptome**
 <br>Entsprechend der klinischen Symptome wurde durch die Arbeiten der Forscher **Yoss und Daily** der Begriff der **"n****arkoleptischen Tetrade"**gepr&auml;gt.
@@ -138,8 +144,7 @@ Die einzelnen Symptome treten pro Patient und im Verlauf mit variabler Intensit&
 Nach der „Leitlinie S 2 – Nicht erholsamer Schlaf“ der Deutschen Gesellschaft f&uuml;r Schlafforschung und Schlafmedizin (DGSM) reichen nichtmedikament&ouml;se Copingstrategien zur angemessenen Unterdr&uuml;ckung der Symptome in den wenigsten F&auml;llen aus. Zus&auml;tzlich muss eine medikament&ouml;se Behandlung erfolgen. Mit Stimulanzien wird die Schl&auml;frigkeit, mit Antidepressiva werden die Kataplexien, Halluzinationen und Schlafl&auml;hmungen behandelt.
 <br>
 <br>**6.1) Nichtmedikament&ouml;se Ma&szlig;nahmen**
-
-Nach den Leitlinien der deutschen Gesellschaft f&uuml;r Neurologie (DGN) kommen als nichtmedikament&ouml;se Ma&szlig;nahmen folgende verhaltensmodifizierende Ma&szlig;nahmen in Betracht:
+<br>Nach den Leitlinien der deutschen Gesellschaft f&uuml;r Neurologie (DGN) kommen als nichtmedikament&ouml;se Ma&szlig;nahmen folgende verhaltensmodifizierende Ma&szlig;nahmen in Betracht:
 
 - Bew&auml;ltigungsstrategien, also Einrichtung von Lebensabl&auml;ufen entsprechend den spezifischen Symptomauspr&auml;gungen (z. B. Vermeidung von Triggersituationen f&uuml;r Kataplexien oder Zwangsschlaf)
 
@@ -148,8 +153,7 @@ Nach den Leitlinien der deutschen Gesellschaft f&uuml;r Neurologie (DGN) kommen 
 - Individuell angepasste Tagschlafepisoden
 
 **6.2) Medikament&ouml;se Ma&szlig;nahmen**
-
-Die Tagesm&uuml;digkeit kann durch Wirkstoffe wie **Modafinil** und **Methylphenidat** teilweise gemildert werden. Kataplexien/Schlafl&auml;hmungen k&ouml;nnen je nach Patienten mit trizyklischen Antidepressiva (**Clomipramin**) oder neueren Produkten wie **Fluoxetin, Reboxetin, Venlafaxin** oder anderen Serotonin-Wiederaufnahmehemmern behandelt werden.
+<br>Die Tagesm&uuml;digkeit kann durch Wirkstoffe wie **Modafinil** und **Methylphenidat** teilweise gemildert werden. Kataplexien/Schlafl&auml;hmungen k&ouml;nnen je nach Patienten mit trizyklischen Antidepressiva (**Clomipramin**) oder neueren Produkten wie **Fluoxetin, Reboxetin, Venlafaxin** oder anderen Serotonin-Wiederaufnahmehemmern behandelt werden.
 
 Im Jahre 2005 wurde der Wirkstoff **Natriumoxybat** f&uuml;r die Behandlung der Kataplexie bei erwachsenen Patienten mit Narkolepsie in der gesamten Europ&auml;ischen Union zugelassen. Natriumoxybat ist ein Schlafmittel, das nach mindestens zweiw&ouml;chiger Anwendung im Symptombereich der Narkolepsie, insbesondere bei den Kataplexien, nachweisbare Wirkungen zu zeigen beginnt.
 
