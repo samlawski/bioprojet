@@ -126,8 +126,6 @@ Beim MSLT wird eine verk&uuml;rzte Einschlaflatenz unter 8 Minuten und verfr&uum
 
 Bei der Auswertung des MSLT hinsichtlich Einschlaflatenz und SOREMP zeigen ungef&auml;hr 15 % der Narkoleptiker mit Kataplexie ein normales oder grenzwertiges Ergebnis, bei &auml;lteren Patienten (ab 36 Jahre) sind es sogar etwa 25 %.
 
-&nbsp;
-
 **6.) Therapie der Narkolepsie**
 <br>Die Narkolepsie ist nach dem heutigen Kenntnisstand eine lebenslang andauernde Erkrankung ohne erh&ouml;hte Mortalit&auml;t.
 
@@ -147,8 +145,6 @@ Bew&auml;ltigungsstrategien, also Einrichtung von Lebensabl&auml;ufen entspreche
 
 - Individuell angepasste Tagschlafepisoden
 
-&nbsp;
-
 **6.2) Medikament&ouml;se Ma&szlig;nahmen**
 
 Die Tagesm&uuml;digkeit kann durch Wirkstoffe wie **Modafinil** und **Methylphenidat** teilweise gemildert werden. Kataplexien/Schlafl&auml;hmungen k&ouml;nnen je nach Patienten mit trizyklischen Antidepressiva (**Clomipramin**) oder neueren Produkten wie **Fluoxetin, Reboxetin, Venlafaxin** oder anderen Serotonin-Wiederaufnahmehemmern behandelt werden.
@@ -157,4 +153,9 @@ Im Jahre 2005 wurde der Wirkstoff **Natriumoxybat** f&uuml;r die Behandlung der 
 
 Seit Marz 2016 ist der Wirkstoff **Pitolisant** f&uuml;r die Narkolepsie mit oder ohne Kataplexie bei Erwachsenen zugelassen.
 
-&nbsp;
+Pitolisant blockiert Histamin-H3-Rezeptoren im Gehirn und verst&auml;rkt die Aktivit&auml;t der Histamin-Neuronen, die eines&nbsp; der wesentlichen Systeme zur Erhaltung des Wachzustands sind.
+<br>Pitolisant bewirkt eine Abnahme der Tagesschl&auml;frigkeit und verringert signifikant die Kataplexiefrequenz.
+<br>Klinische Studien bei &uuml;ber 1.000 Patienten haben gezeigt, dass es besser vertr&auml;glich ist als fr&uuml;here Behandlungsoptionen.
+<br>Pitolisant wirkt auch auf andere Narkolepsiesymptome wie etwa die H&auml;ufigkeit von Halluzinationen und&nbsp; verbessert die gef&uuml;hlte Lebensqualit&auml;t der Patienten.
+
+Im Gegensatz zu Psychostimulanzien wirkt es nicht zentral erregend und hat keinen Einfluss auf das bei Abh&auml;ngigkeitsph&auml;nomenen beteiligte Belohnungssystem (Nucleus Accumbens).
