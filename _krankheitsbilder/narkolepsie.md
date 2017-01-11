@@ -151,8 +151,10 @@ Bew&auml;ltigungsstrategien, also Einrichtung von Lebensabl&auml;ufen entspreche
 
 **6.2) Medikament&ouml;se Ma&szlig;nahmen**
 
-Die Tagesm&uuml;digkeit kann durch Wirkstoffe wie Modafinil und Methylphenidat teilweise gemildert werden. Kataplexien/Schlafl&auml;hmungen k&ouml;nnen je nach Patienten mit trizyklischen Antidepressiva (Clomipramin) oder neueren Produkten wie Fluoxetin, Reboxetin, Venlafaxin oder anderen Serotonin-Wiederaufnahmehemmern behandelt werden.
+Die Tagesm&uuml;digkeit kann durch Wirkstoffe wie **Modafinil** und **Methylphenidat** teilweise gemildert werden. Kataplexien/Schlafl&auml;hmungen k&ouml;nnen je nach Patienten mit trizyklischen Antidepressiva (**Clomipramin**) oder neueren Produkten wie **Fluoxetin, Reboxetin, Venlafaxin** oder anderen Serotonin-Wiederaufnahmehemmern behandelt werden.
 
-Im Jahre 2005 wurde der Wirkstoff Natriumoxybat f&uuml;r die Behandlung der Kataplexie bei erwachsenen Patienten mit Narkolepsie in der gesamten Europ&auml;ischen Union zugelassen. Natriumoxybat ist ein Schlafmittel, das nach mindestens zweiw&ouml;chiger Anwendung im Symptombereich der Narkolepsie, insbesondere bei den Kataplexien, nachweisbare Wirkungen zu zeigen beginnt.
+Im Jahre 2005 wurde der Wirkstoff **Natriumoxybat** f&uuml;r die Behandlung der Kataplexie bei erwachsenen Patienten mit Narkolepsie in der gesamten Europ&auml;ischen Union zugelassen. Natriumoxybat ist ein Schlafmittel, das nach mindestens zweiw&ouml;chiger Anwendung im Symptombereich der Narkolepsie, insbesondere bei den Kataplexien, nachweisbare Wirkungen zu zeigen beginnt.
+
+Seit Marz 2016 ist der Wirkstoff **Pitolisant** f&uuml;r die Narkolepsie mit oder ohne Kataplexie bei Erwachsenen zugelassen.
 
 &nbsp;
