@@ -118,6 +118,8 @@ Beim gesunden Menschen persistiert der ca. 90-min&uuml;tige Aktivit&auml;tsrhyth
 **4.6) Automatisches Verhalten**
 <br>Das automatische Verhalten geh&ouml;rt zu den NREM-assoziierten und unspezifischen Symptomen, wird jedoch bei den Diagnose-Kriterien der ICSD mit aufgef&uuml;hrt. Beim automatischen Verhalten wird eine Handlung (wie Schreiben, Autofahren, Kochen) in schlaf&auml;hnlichem Zustand stereotyp fortgef&uuml;hrt. Die Reaktion auf &auml;u&szlig;ere Reize ist verz&ouml;gert, Wahrnehmung, Erinnerung und Dauerleistung sind beeintr&auml;chtigt und das Ergebnis ist oft fehlerhaft. W&auml;hrend dieser Zeit besteht ein stark erh&ouml;htes Unfallrisiko. Starke Schl&auml;frigkeit und fehlende Gelegenheit zum Schlaf f&ouml;rdern das Auftreten des automatischen Verhaltens. Automatisches Verhalten wird bei etwa 20 % der Narkolepsie-Patienten beobachtet.
 
+&nbsp;
+
 **5.) Diagnostik**
 <br>Als diagnostische Ma&szlig;nahmen werden eine gezielte Erfassung der Krankengeschichte (Anamnese) durch den Arzt, die Dokumentation durch verschiedene Schlaffrageb&ouml;gen wie der Epworth Sleepiness Scale (ESS) und -tageb&uuml;cher sowie Untersuchungen mittels Polysomnographie und Multiplem Schlaflatenztest (MSLT) durchgef&uuml;hrt.
 <br>Im Einzelfall kann eine Bestimmung des Orexin-Spiegels im Hirnwasser oder eine HLA-Typisierung erfolgen, was insbesondere bei differenzialdiagnostischen Unklarheiten empfohlen wird.
@@ -126,6 +128,8 @@ Beim MSLT wird eine verk&uuml;rzte Einschlaflatenz unter 8 Minuten und verfr&uum
 
 Bei der Auswertung des MSLT hinsichtlich Einschlaflatenz und SOREMP zeigen ungef&auml;hr 15 % der Narkoleptiker mit Kataplexie ein normales oder grenzwertiges Ergebnis, bei &auml;lteren Patienten (ab 36 Jahre) sind es sogar etwa 25 %.
 
+&nbsp;
+
 **6.) Therapie der Narkolepsie**
 <br>Die Narkolepsie ist nach dem heutigen Kenntnisstand eine lebenslang andauernde Erkrankung ohne erh&ouml;hte Mortalit&auml;t.
 
@@ -133,13 +137,11 @@ Die einzelnen Symptome treten pro Patient und im Verlauf mit variabler Intensit&
 
 Nach der „Leitlinie S 2 – Nicht erholsamer Schlaf“ der Deutschen Gesellschaft f&uuml;r Schlafforschung und Schlafmedizin (DGSM) reichen nichtmedikament&ouml;se Copingstrategien zur angemessenen Unterdr&uuml;ckung der Symptome in den wenigsten F&auml;llen aus. Zus&auml;tzlich muss eine medikament&ouml;se Behandlung erfolgen. Mit Stimulanzien wird die Schl&auml;frigkeit, mit Antidepressiva werden die Kataplexien, Halluzinationen und Schlafl&auml;hmungen behandelt.
 <br>
-<br>&nbsp;
+<br>**6.1) Nichtmedikament&ouml;se Ma&szlig;nahmen**
 
-**6.1) Nichtmedikament&ouml;se Ma&szlig;nahmen**
+Nach den Leitlinien der deutschen Gesellschaft f&uuml;r Neurologie (DGN) kommen als nichtmedikament&ouml;se Ma&szlig;nahmen folgende verhaltensmodifizierende Ma&szlig;nahmen in Betracht:
 
-Nach den Leitlinien der deutschen Gesellschaft f&uuml;r Neurologie (DGN) kommen als nichtmedikament&ouml;se Ma&szlig;nahmen folgende verhaltensmodifizierende Ma&szlig;nahmen in Betracht:[1]
-
-Bew&auml;ltigungsstrategien, also Einrichtung von Lebensabl&auml;ufen entsprechend den spezifischen Symptomauspr&auml;gungen (z. B. Vermeidung von Triggersituationen f&uuml;r Kataplexien oder Zwangsschlaf)
+- Bew&auml;ltigungsstrategien, also Einrichtung von Lebensabl&auml;ufen entsprechend den spezifischen Symptomauspr&auml;gungen (z. B. Vermeidung von Triggersituationen f&uuml;r Kataplexien oder Zwangsschlaf)
 
 - Schlafhygiene
 
@@ -151,11 +153,6 @@ Die Tagesm&uuml;digkeit kann durch Wirkstoffe wie **Modafinil** und **Methylphen
 
 Im Jahre 2005 wurde der Wirkstoff **Natriumoxybat** f&uuml;r die Behandlung der Kataplexie bei erwachsenen Patienten mit Narkolepsie in der gesamten Europ&auml;ischen Union zugelassen. Natriumoxybat ist ein Schlafmittel, das nach mindestens zweiw&ouml;chiger Anwendung im Symptombereich der Narkolepsie, insbesondere bei den Kataplexien, nachweisbare Wirkungen zu zeigen beginnt.
 
-Seit Marz 2016 ist der Wirkstoff **Pitolisant** f&uuml;r die Narkolepsie mit oder ohne Kataplexie bei Erwachsenen zugelassen.
-
-Pitolisant blockiert Histamin-H3-Rezeptoren im Gehirn und verst&auml;rkt die Aktivit&auml;t der Histamin-Neuronen, die eines&nbsp; der wesentlichen Systeme zur Erhaltung des Wachzustands sind.
-<br>Pitolisant bewirkt eine Abnahme der Tagesschl&auml;frigkeit und verringert signifikant die Kataplexiefrequenz.
+Seit Marz 2016 ist der Wirkstoff **Pitolisant** f&uuml;r die Narkolepsie mit oder ohne Kataplexie bei Erwachsenen zugelassen. Pitolisant blockiert Histamin-H3-Rezeptoren im Gehirn und verst&auml;rkt die Aktivit&auml;t der Histamin-Neuronen, die eines&nbsp; der wesentlichen Systeme zur Erhaltung des Wachzustands sind. Pitolisant bewirkt eine Abnahme der Tagesschl&auml;frigkeit und verringert signifikant die Kataplexiefrequenz.
 <br>Klinische Studien bei &uuml;ber 1.000 Patienten haben gezeigt, dass es besser vertr&auml;glich ist als fr&uuml;here Behandlungsoptionen.
-<br>Pitolisant wirkt auch auf andere Narkolepsiesymptome wie etwa die H&auml;ufigkeit von Halluzinationen und&nbsp; verbessert die gef&uuml;hlte Lebensqualit&auml;t der Patienten.
-
-Im Gegensatz zu Psychostimulanzien wirkt es nicht zentral erregend und hat keinen Einfluss auf das bei Abh&auml;ngigkeitsph&auml;nomenen beteiligte Belohnungssystem (Nucleus Accumbens).
+<br>Pitolisant wirkt auch auf andere Narkolepsiesymptome wie etwa die H&auml;ufigkeit von Halluzinationen und&nbsp; verbessert die gef&uuml;hlte Lebensqualit&auml;t der Patienten. Im Gegensatz zu Psychostimulanzien wirkt es nicht zentral erregend und hat keinen Einfluss auf das bei Abh&auml;ngigkeitsph&auml;nomenen beteiligte Belohnungssystem (Nucleus Accumbens).
