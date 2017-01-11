@@ -118,6 +118,8 @@ Beim gesunden Menschen persistiert der ca. 90-min&uuml;tige Aktivit&auml;tsrhyth
 **4.6) Automatisches Verhalten**
 <br>Das automatische Verhalten geh&ouml;rt zu den NREM-assoziierten und unspezifischen Symptomen, wird jedoch bei den Diagnose-Kriterien der ICSD mit aufgef&uuml;hrt. Beim automatischen Verhalten wird eine Handlung (wie Schreiben, Autofahren, Kochen) in schlaf&auml;hnlichem Zustand stereotyp fortgef&uuml;hrt. Die Reaktion auf &auml;u&szlig;ere Reize ist verz&ouml;gert, Wahrnehmung, Erinnerung und Dauerleistung sind beeintr&auml;chtigt und das Ergebnis ist oft fehlerhaft. W&auml;hrend dieser Zeit besteht ein stark erh&ouml;htes Unfallrisiko. Starke Schl&auml;frigkeit und fehlende Gelegenheit zum Schlaf f&ouml;rdern das Auftreten des automatischen Verhaltens. Automatisches Verhalten wird bei etwa 20 % der Narkolepsie-Patienten beobachtet.
 
+&nbsp;
+
 **5.) Diagnostik**
 <br>Als diagnostische Ma&szlig;nahmen werden eine gezielte Erfassung der Krankengeschichte (Anamnese) durch den Arzt, die Dokumentation durch verschiedene Schlaffrageb&ouml;gen wie der Epworth Sleepiness Scale (ESS) und -tageb&uuml;cher sowie Untersuchungen mittels Polysomnographie und Multiplem Schlaflatenztest (MSLT) durchgef&uuml;hrt.
 <br>Im Einzelfall kann eine Bestimmung des Orexin-Spiegels im Hirnwasser oder eine HLA-Typisierung erfolgen, was insbesondere bei differenzialdiagnostischen Unklarheiten empfohlen wird.
