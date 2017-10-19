@@ -1,0 +1,16 @@
+- text: Hier ist eine Beispiel-Neuigkeit, deren Text nicht so lang ist.
+  link: /
+  image_path: uploads/Narkolepsie.jpg
+  date: 2015-01-09 00:00:00
+- text: Noch eine Beispiel-Neuigkeit.
+  link: /
+  image_path:
+  date: 2015-11-09 00:00:00
+- text: Etwas Längerer Text zu Demonstrationszwecken von langen Neuigkeiten und wie sie aussehen würden.
+  link:
+  image_path:
+  date: 2015-01-09 00:00:00
+- text: Etwas Längerer Text zu Demonstrationszwecken von langen Neuigkeiten und wie sie aussehen würden.
+  link:
+  image_path:
+  date: 2015-01-09 00:00:00
