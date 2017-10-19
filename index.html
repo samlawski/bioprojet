@@ -11,19 +11,25 @@ bild_path: ./uploads/hero-light-min.jpg
     <div class="row">
       <div class="editable col-lg-7 col-lg-offset-1 col-md-8 col-md-offset-2">
         <p><strong>Bioprojet</strong> entwickelt auf der Basis eigener Grundlagenforschung neue Therapieoptionen mit dem Ziel, Krankheiten zu lindern und die Lebensqualit&auml;t von Patienten zu steigern.</p><p>Unsere <strong>Vision</strong> ist es, die Lebensperspektiven von Menschen mit schwerwiegenden Erkrankungen nachhaltig zu verbessern.</p><p>Um dieses zu <strong>verwirklichen</strong>, arbeitet Bioprojet weltweit mit Forschern, &Auml;rzten und anderen Spezialisten im Gesundheitswesen zusammen.</p>
-      </div>
+      </div><div class="visible-md col-md-2"><!-- SPACER --></div>
 
-        <div class="visible-md col-md-2"><!-- SPACER --></div>
-        <aside class="col-md-8 col-md-offset-2 col-lg-offset-0 col-lg-3">
-          <h3 class="editable">Neuigkeiten</h3>
+      <aside class="col-md-8 col-md-offset-2 col-lg-offset-0 col-lg-3">
+        <h3 class="editable">Neuigkeiten</h3>
 
-          {% for new in site.data.news limit: 3 %}
-            {% if new.link.size > 0 %}<a class="home__news" href="{{ new.link }}" target="_blank">{% else %}<div class="home__news">{% endif %}
+        {% for new in site.data.news limit: 3 %}
+          {% if new.link.size > 1 %}
+            <a class="home__news" href="{{ new.link }}" target="_blank">
               <div class="home__news__img visible-lg" style="background-image:url('{{ new.image_path }}');{% if new.image_path %}height: 100px;{% endif %}"></div>
-              <article><strong class="home__news__date">{{new.date | date: "%e.%-m.%y"}}: </strong>{{new.text}}</article>
-            {% if new.link.size > 0 %}</a>{% else %}</div>{% endif %}
-          {% endfor %}
-        </aside>
+              <p><strong class="home__news__date">{{new.date | date: "%e.%-m.%y"}}: </strong>{{new.text}}</p>
+            </a>
+          {% else %}
+            <div class="home__news">
+              <div class="home__news__img visible-lg" style="background-image:url('{{ new.image_path }}');{% if new.image_path %}height: 100px;{% endif %}"></div>
+              <p><strong class="home__news__date">{{new.date | date: "%e.%-m.%y"}}: </strong>{{new.text}}</p>
+            </div>
+          {% endif %}
+        {% endfor %}
+      </aside>
     </div>
   </section>
 
