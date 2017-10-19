@@ -1,14 +1,13 @@
 .website-wrapper {
-  padding-top: 147px;
+  padding-top: 117px;
 }
 .website-wrapper>nav{
   max-width: $max-width;
   margin: auto;
-  padding-top: 25px;
+  padding-top: 60px;
   background-color: white;
 
   .container {
-    padding-bottom: 38px;
     border-bottom: 1px solid $grey-color-light;
   }
 
@@ -29,7 +28,7 @@
   .logo {
     width: 180px;
     position: absolute;
-    top: -103px;
+    top: -141px;
     left: 40px;
   }
   // Mobile dropdown
@@ -41,9 +40,16 @@
   margin-left: 220px;
 }
 @media (max-width: 1200px) { // Medium Screen view
+  .website-wrapper {
+    padding-top: 115px;
+  }
   .website-wrapper>nav{
+    padding-top: 63px;
     .container {
       width: auto;
+    }
+    .logo {
+      top: -145px;
     }
     a, a:link, a:visited {
       padding: 10px 10px 15px;
