@@ -1,0 +1,34 @@
+---
+title: Neuigkeiten
+permalink: /neuigkeiten/
+---
+
+<section id="neuigkeiten" class="container">
+  <h1 class="editable">Neuigkeiten</h1>
+  <div class="row">
+    <div class="col-md-offset-1 col-md-10">
+      {% assign news_size = site.data.news | size %}
+      {% if news_size > 0 %}
+        {% assign news = site.data.news | sort: "date" | reverse %}
+        {% for new in news limit: 60 %}
+
+            {% assign link_size = new.link | size %}
+            {% if link_size > 0 %}
+              <a class="home__news" href="{{ new.link }}" target="_blank">
+                <div class="home__news__img hidden-xs" style="background-image:url('{{ new.image_path }}');{% if new.image_path %}height: 300px;{% endif %}"></div>
+                <p><strong class="home__news__date">{{new.date | date: "%e.%-m.%y"}}: </strong>{{new.text}}</p>
+              </a>
+            {% else %}
+              <div class="home__news">
+                <div class="home__news__img hidden-xs" style="background-image:url('{{ new.image_path }}');{% if new.image_path %}height: 300px;{% endif %}"></div>
+                <p><strong class="home__news__date">{{new.date | date: "%e.%-m.%y"}}: </strong>{{new.text}}</p>
+              </div>
+            {% endif %}
+
+        {% endfor %}
+      {% else %}
+        Noch gibt es keine Neuigkeiten.
+      {% endif %}
+    </div><!-- // col -->
+  </div><!-- // row -->
+</section>

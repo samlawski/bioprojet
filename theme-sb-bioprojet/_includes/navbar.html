@@ -16,6 +16,10 @@
     <div class="collapse navbar-collapse" id="navbar">
       <ul class="nav navbar-nav">
         <li><a class="thin" href="/">Home</a></li>
+        {% assign news_size = site.data.news | size %}
+        {% if news_size > 0 %}
+          <li><a class="thin" href="/neuigkeiten">Neuigkeiten</a></li>
+        {% endif %}
         <li><a class="thin" href="/infocenter">Infocenter</a></li>
         <li><a class="thin" href="/produkte">Produkte</a></li>
         <!-- <li><a class="thin" href="/patienten-service">Patienten Service</a></li> -->

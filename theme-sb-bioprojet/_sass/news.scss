@@ -1,0 +1,29 @@
+.home__news {
+  display: block;
+  padding: 20px 0;
+  border-bottom: 1px solid $grey-color-light;
+
+  &:hover {
+    text-decoration: none;
+    background-color: lighten($grey-color, 47%);
+  }
+}
+
+.home__news__img {
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  margin-bottom: 5px;
+}
+
+.home__news__date {
+  font-family: $title-font-family;
+  font-size: .8em;
+  color: $grey-color-med;
+  margin-right: 5px;
+}
+
+#neuigkeiten {
+  margin-top: 60px;
+  margin-bottom: 60px;
+}

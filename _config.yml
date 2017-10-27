@@ -39,6 +39,10 @@ defaults:
     values:
       layout: default
   - scope:
+      path: neuigkeiten.html
+    values:
+      layout: page
+  - scope:
       path: infocenter.html
     values:
       layout: page
