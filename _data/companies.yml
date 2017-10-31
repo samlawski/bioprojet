@@ -1,6 +1,6 @@
 - name: Bioprojet
   logo_path: /uploads/logobioprojet-2017-pharma.jpg
-  link: 'http://www.bioprojet.fr'
+  link: 'http://www.bioprojet.fr/en'
 - name: DNG
   logo_path: /uploads/DNG.png
   link: 'http://www.dng-ev.de'
@@ -9,4 +9,4 @@
   link: 'https://www.harmonybiosciences.com/'
 - name: Neurologienetz
   logo_path: /uploads/Neurologienetz.de.jpg
-  link: 'https://www.neurologienetz.de/'
+  link: 'http://www.neurologienetz.de/'
