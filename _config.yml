@@ -39,7 +39,7 @@ defaults:
     values:
       layout: default
   - scope:
-      path: neuigkeiten.html
+      path: news.html
     values:
       layout: page
   - scope:
