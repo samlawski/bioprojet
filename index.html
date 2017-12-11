@@ -33,6 +33,12 @@ bild_path: ./uploads/hero-light-min.jpg
               </div>
             {% endif %}
           {% endfor %}
+
+          {% assign news_size = site.data.news | size %}
+          <div class="">
+            <br />
+            <small><a class="" href="/news">News Archiv</a></small>
+          </div>
         </aside>
       {% endif %}
     </div>
