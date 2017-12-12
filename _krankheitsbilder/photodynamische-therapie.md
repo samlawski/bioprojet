@@ -37,9 +37,9 @@ Gegen&uuml;ber einer chirurgischen Behandlung bietet die photodynamische Therapi
 
 Der **Nachteil** der photodynamischen Therapie ist im Wesentlichen **die geringe Eindringtiefe von lokal aufgetragenem Photosensitizer**(oder seiner Stoffwechselvorstufen) von nur einigen Millimetern sowie **die begrenzte Eindringtiefe von Licht**, so dass in der Regel nur nicht zu fortgeschrittene oder fl&auml;chig wachsende Tumoren erfolgreich therapiert werden. Daher bieten sich vor allem z. B. Hauttumoren, wie aktinische Keratosen, das superfizielle (oberfl&auml;chliche) Basaliom, aber auch Warzen als Einsatzgebiet f&uuml;r die photodynamische Therapie an. Durch den Einsatz von Lasern in Kombination mit Lichtleitfasern lassen sich auch Tumoren an endoskopisch zug&auml;nglichen k&ouml;rperinneren Oberfl&auml;chen behandeln. Au&szlig;erdem k&ouml;nnen durch das Einstechen solcher Fasern in das Gewebe auch gr&ouml;&szlig;ere Tumoren therapiert werden.
 
-Die **photodynamische** **Behandlung von inneren Tumoren ist bislang wenig verbreitet**und wird meist nur palliativ eingesetzt wie beispielsweise in der Speiser&ouml;hre, bei Gallengangs- und Gallenblasenkarzinom oder bei Gehirntumoren.
+Die **photodynamische** **Behandlung von inneren Tumoren ist bislang wenig verbreitet** und wird meist nur palliativ eingesetzt wie beispielsweise in der Speiser&ouml;hre, bei Gallengangs- und Gallenblasenkarzinom oder bei Gehirntumoren.
 
-Wird der Photosensitizer nicht nur lokal angewandt, sondern systemisch, ist als **Nebenwirkung mit einer vor&uuml;bergehenden erheblichen Lichtempfindlichkeit**zu rechnen, die in Einzelf&auml;llen &uuml;ber mehrere Wochen anhalten kann. Die Gefahr der damit verbundenen Reduzierung der Lebensqualit&auml;t kann bei palliativer Anwendung mit geringer Lebenserwartung als Argument gegen eine Therapie gewertet werden.
+Wird der Photosensitizer nicht nur lokal angewandt, sondern systemisch, ist als **Nebenwirkung mit einer vor&uuml;bergehenden erheblichen Lichtempfindlichkeit** zu rechnen, die in Einzelf&auml;llen &uuml;ber mehrere Wochen anhalten kann. Die Gefahr der damit verbundenen Reduzierung der Lebensqualit&auml;t kann bei palliativer Anwendung mit geringer Lebenserwartung als Argument gegen eine Therapie gewertet werden.
 
 **3.2) Dermatologie**
 
