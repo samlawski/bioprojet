@@ -19,5 +19,8 @@
 
 .home__news__archive {
   padding: 12px 0;
-  background-color: $grey-color-med;
+  border-bottom: 4px solid $grey-color-light;
+  border-top: 4px solid $grey-color-light;
+  
+  a:link { font-weight: 600; }
 }
