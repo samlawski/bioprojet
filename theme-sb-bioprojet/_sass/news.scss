@@ -1,5 +1,7 @@
 .home__news {
-  display: block;
+  display: flex;
+  align-items: center;
+
   padding: 20px 0;
   border-bottom: 1px solid $grey-color-light;
 
@@ -10,10 +12,15 @@
 }
 
 .home__news__img {
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
-  margin-bottom: 5px;
+  flex-basis: 200px;
+  flex-grow: 0;
+  flex-shrink: 0;
+
+  margin-right: 30px;
+
+  img {
+    max-width: 100%;
+  }
 }
 
 .home__news__date {

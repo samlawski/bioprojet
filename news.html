@@ -15,12 +15,12 @@ permalink: /news/
             {% assign link_size = new.link_path | size %}
             {% if link_size > 0 %}
               <a class="home__news" href="{{ new.link_path }}" target="_blank">
-                <div class="home__news__img hidden-xs" style="background-image:url('{{ new.image_path }}');{% if new.image_path %}height: 300px;{% endif %}"></div>
+                <div class="home__news__img hidden-xs"><img src="{{ new.image_path }}" alt="{{ new.image_path }}" /></div>
                 <p><strong class="home__news__date">{{new.date | date: "%e.%-m.%y"}}: </strong>{{new.text}}</p>
               </a>
             {% else %}
               <div class="home__news">
-                <div class="home__news__img hidden-xs" style="background-image:url('{{ new.image_path }}');{% if new.image_path %}height: 300px;{% endif %}"></div>
+                <div class="home__news__img hidden-xs"><img src="{{ new.image_path }}" alt="{{ new.image_path }}" /></div>
                 <p><strong class="home__news__date">{{new.date | date: "%e.%-m.%y"}}: </strong>{{new.text}}</p>
               </div>
             {% endif %}
