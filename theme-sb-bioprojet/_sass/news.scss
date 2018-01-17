@@ -1,6 +1,5 @@
 .home__news {
-  display: flex;
-  align-items: center;
+  display: block;
 
   padding: 20px 0;
   border-bottom: 1px solid $grey-color-light;
@@ -11,16 +10,8 @@
   }
 }
 
-.home__news__img {
-  flex-basis: 200px;
-  flex-grow: 0;
-  flex-shrink: 0;
-
-  margin-right: 30px;
-
-  img {
-    max-width: 100%;
-  }
+.home__news__img img {
+  max-width: 100%;
 }
 
 .home__news__date {
@@ -33,4 +24,21 @@
 #neuigkeiten {
   margin-top: 60px;
   margin-bottom: 60px;
+
+  .home__news {
+    display: flex;
+    align-items: center;
+  }
+
+  .home__news__img {
+    flex-basis: 200px;
+    flex-grow: 0;
+    flex-shrink: 0;
+
+    margin-right: 30px;
+
+    img {
+      max-width: 100%;
+    }
+  }
 }
