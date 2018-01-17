@@ -10,13 +10,13 @@
   link_path: >-
     /uploads/Neuer Erstattungspreis und Praxisbesonderheit für das
     Narkolepsiepräparat WAKIX.pdf
-  image_path: /uploads/GKV-SV_logo.jpg
+  image_path:
   date: 2017-10-01 00:00:00
 - text: >-
     Bioprojet schließt Lizenzvertrag mit Harmony Biosciences über die
     Entwicklung und Vermarktung von Pitolisant in den USA
   link_path: /uploads/Lizenzvereinbarung zwischen Harmony Biosciences und Bioprojet.pdf
-  image_path: /uploads/Logo_Harmony.jpe
+  image_path:
   date: 2017-10-06 00:00:00
 - text: >-
     Kataplexie-Symposium anlässlich der 25. Jahrestagung der DGSM in Münster,
@@ -41,5 +41,5 @@
     Besuchen Sie uns auf der Endoskopie Live!-Veranstaltung im Maritim proArte
     Hotel, Berlin, 27./28.04.2018
   link_path: /uploads/endoskopielive_2018_tp_web_neu.pdf
-  image_path:
+  image_path: /uploads/Endoskopie 2018 Berlin.jpg
   date: 2018-04-27 00:00:00
