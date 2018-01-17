@@ -14,7 +14,7 @@ kurzbeschreibung: >-
 
 **Was hei&szlig;t „Photodynamische Therapie“ oder kurz „PDT“?**
 
-PDT ist ein zweistufiges therapeutisches Verfahren. Zuerst wird ein Arzneimittel (Photosensitizer) intraven&ouml;s injiziert; mehrere Stunden bis Tage sp&auml;ter erfolgt die Bestrahlung des zu behandelnden Organs mittels Laserlicht.<br>Die Wellenl&auml;nge richtet sich nach der Aktivierungswellenl&auml;nge des injizierten Arzneimittels und liegt f&uuml;r **Photofrin<sup>&reg;</sup>** bei 630 nm.
+PDT ist ein zweistufiges therapeutisches Verfahren. Zuerst wird ein Arzneimittel (Photosensitizer) intraven&ouml;s injiziert; mehrere Stunden bis Tage sp&auml;ter erfolgt die Bestrahlung des zu behandelnden Organs mittels Laserlicht. Die Wellenl&auml;nge richtet sich nach der Aktivierungswellenl&auml;nge des injizierten Arzneimittels und liegt f&uuml;r **Photofrin<sup>&reg;</sup>** bei 630 nm.
 
 Durch die Beleuchtung wird eine photochemische Reaktion ausgel&ouml;st, welche die Freisetzung von zelltoxischen Stoffen verursacht, die den Tumor abt&ouml;ten.<br>Das Zusammenspiel von Photosensitizer und Laserlicht erm&ouml;glicht eine gezielte Lokaltherapie und damit die selektive Zerst&ouml;rung von Tumorzellen.<br>Als Lichtquelle wird ein Diodenlaser verwendet, der Laserlicht in einer spezifischen „monochromatischen“ Wellenl&auml;nge aussendet, dass auf die Absorptions-eigenschaften des Medikaments abgestimmt ist.
 
