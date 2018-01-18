@@ -26,8 +26,7 @@
   date: 2017-11-11 10:00:00
 - text: 'Bioprojet bei der 25. Jahrestagung der DGSM in Münster, 09.-11.11.2017'
   link_path: /uploads/DGSM2017_Hauptprogrammheft.pdf
-  image_path: >-
-    http://www.dgsm-kongress.de/fileadmin/congress/templates/dgsm2017/img/header.png
+  image_path: /uploads/header.jpg
   date: 2017-11-09 00:00:00
 - text: >-
     Herzliche Einladung zum Photofrin®-Lunchsymposium anlässlich des 48.
