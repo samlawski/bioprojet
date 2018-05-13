@@ -13,8 +13,30 @@
 <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
 
 <!-- JavaScript -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+<script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
 <script src='https://www.google.com/recaptcha/api.js'></script>
 <script src="{{ "/theme-sb-bioprojet/assets/js/initialize.js" | prepend: site.baseurl }}"></script>
-<script src='https://www.google.com/recaptcha/api.js'></script>
+
+<script>
+  // Clear unwanted cookies
+  if(localStorage.cookiesReset != 'v1'){
+    (function () {
+      var cookies = document.cookie.split("; ");
+      for (var c = 0; c < cookies.length; c++) {
+        var d = window.location.hostname.split(".");
+        while (d.length > 0) {
+          var cookieBase = encodeURIComponent(cookies[c].split(";")[0].split("=")[0]) + '=; expires=Thu, 01-Jan-1970 00:00:01 GMT; domain=' + d.join('.') + ' ;path=';
+          var p = location.pathname.split('/');
+          document.cookie = cookieBase + '/';
+          while (p.length > 0) {
+            document.cookie = cookieBase + p.join('/');
+            p.pop();
+          };
+          d.shift();
+        }
+      }
+    })();
+    localStorage.cookiesReset = 'v1'
+  }
+</script>
