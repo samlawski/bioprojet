@@ -1,7 +1,7 @@
 ---
 titel: Narkolepsie
 position: 1
-bild_path: /uploads/depositphotos-narkolepsie-min.jpg
+bild_path: /uploads/depositphotos-narkolepsie1-min.jpg
 kurzbeschreibung: >-
   Narkolepsie, im Volksmund auch „Schlafkrankheit“ oder „Schlummersucht“
   genannt, gehört zur Gruppe der Schlafsüchte (Hypersomnien).
