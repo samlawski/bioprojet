@@ -74,6 +74,6 @@ defaults:
     values:
       layout: page
   - scope:
-      path: datenschutz.html
+      path: datenschutz.md
     values:
-      layout: page
+      layout: datenschutz
