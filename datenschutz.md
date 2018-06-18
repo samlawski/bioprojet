@@ -8,7 +8,7 @@ Unsere Website können Sie grundsätzlich ohne die Angabe von personenbezogenen 
 
 Wir nehmen den Schutz Ihrer personenbezogenen Daten sehr ernst und möchten Sie daher nachfolgend über Ihre Rechte sowie Art und Umfang der jeweiligen Datenerhebung informieren.
 
-1. **Verantwortliche Person**
+**1) Verantwortliche Person**
 
 **Kontaktdaten des Verantwortlichen**
 
@@ -28,7 +28,7 @@ Website: www.bioprojet.de
 
 E-Mail: info@bioprojet.de
 
-2. **Begriffsbestimmungen**
+**2) Begriffsbestimmungen**
 
 **Personenbezogene Daten**
 
@@ -78,7 +78,7 @@ Gesundheitsdaten sind personenbezogene Daten, die sich auf die körperliche oder
 
 Die Aufsichtsbehörde ist eine von einem Mitgliedstaat gemäß Art. 51 DS-GVO eingerichtete unabhängige staatliche Stelle, die für die Überwachung der Einhaltung der datenschutzrechtlichen Gesetze und Verordnungen zuständig ist.
 
-3. **Information über die Verarbeitung personenbezogener Daten**
+**3) Information über die Verarbeitung personenbezogener Daten**
 
 Wir verarbeiten Ihre personenbezogenen Daten durch verschiedene technische Möglichkeiten und ggf. auch unter der Zunahme weiterer Dienstleister. Über die konkreten Details der Verarbeitung möchten wir Sie in den nachfolgenden Punkten informieren.
 
@@ -163,7 +163,7 @@ Beim Besuch unserer Website, also wenn Sie sich nicht registrieren oder uns ande
 
 **(3)** Informationen des Anbieters: Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA. Weitere Informationen zu Zweck und Umfang der Datenerhebung und ihrer Verarbeitung durch den Plug-in-Anbieter erhalten Sie in den Datenschutzerklärungen des Anbieters. Dort erhalten Sie auch weitere Informationen zu Ihren diesbezüglichen Rechten und Einstellungsmöglichkeiten zum Schutze Ihrer Privatsphäre: [https://www.google.de/intl/de/policies/privacy](https://www.google.de/intl/de/policies/privacy). Google verarbeitet Ihre personenbezogenen Daten auch in den USA und hat sich dem EU-US Privacy Shield unterworfen, [https://www.privacyshield.gov/EU-US-Framework](https://www.privacyshield.gov/EU-US-Framework).
 
-4. **Ihre Rechte**
+**4) Ihre Rechte**
 
 Sie haben uns gegenüber folgende Rechte hinsichtlich der der Verarbeitung der Sie betreffenden personenbezogenen Daten, die Sie jederzeit formlos gegenüber dem oben in 2. aufgeführten Ansprechpartner geltend machen können.
 
