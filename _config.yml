@@ -46,7 +46,7 @@ defaults:
     values:
       layout: page
   - scope:
-      path: infocenter.html
+      path: indikationen.html
     values:
       layout: page
   - scope:
