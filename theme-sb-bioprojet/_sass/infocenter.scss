@@ -1,3 +1,19 @@
 #infocenter {
   margin-top: 60px;
 }
+
+.infocenter__downloads {
+  a {
+    display: block;
+    padding: 10px;
+    border-bottom: 1px solid $grey-color-light;
+
+    &:last-of-type {
+      border-bottom: 0;
+    }
+    &:hover {
+      background-color: lighten($grey-color, 47%);
+      text-decoration: none;
+    }
+  }
+}
