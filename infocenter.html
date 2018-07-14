@@ -27,11 +27,16 @@ downloads:
 
       <h2 class="editable">Gesammelte Downloads</h2>
 
-      <div class="infocenter__downloads">
-        {% for datei in page.downloads %}
-          <a href="{{datei.datei_path}}" download>{{datei.titel}}</a>
-        {% endfor %}
+      <div class="row">
+        <div class="col-md-offset-1 col-md-10 col-lg-offset-2 col-lg-8">
+          <div class="infocenter__downloads">
+            {% for datei in page.downloads %}
+              <a href="{{datei.datei_path}}" download><span>{{datei.titel}}</span> <span class="glyphicon glyphicon-download" aria-hidden="true"></span></a>
+            {% endfor %}
+          </div>
+        </div>
       </div>
+
     </div><!-- / col -->
   </div><!-- / row -->
 </section>
