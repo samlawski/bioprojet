@@ -1,0 +1,27 @@
+#indikationen {
+  margin-top: 60px;
+  margin-bottom: 60px;
+  .krankheitsbox {
+    h2 {
+      text-align: center;
+      border-bottom: 1px solid #ccc;
+      margin-left: 20px;
+      margin-right: 20px;
+      padding-bottom: 10px;
+      margin-bottom: 20px;
+    }
+  }
+
+  .krankheitsbeschreibung {
+    a {
+      color: $brand-color;
+      text-decoration: underline;
+    }
+    img {
+      max-width: 100%;
+      max-height: 400px;
+      display: block;
+      margin: 10px auto;
+    }
+  }
+}
