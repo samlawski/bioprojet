@@ -1,0 +1,47 @@
+---
+title: Patienteninfo
+permalink: /patienteninfo/
+downloads:
+  - titel: >-
+      Seit 01. Mai 2018: Wakix® 18 mg in neuer Bündelpackung (3 x 30
+      Filmtabletten) zur Dauertherapie der Narkolepsie verfügbar.
+    datei_path: /uploads/pressemitteilung---wakix-18-mg-bündelpackung---mai-2018-3.pdf
+  - titel: >-
+      Neuer Erstattungspreis und Praxisbesonderheit für Wakix® (Pitolisant) ab
+      01.10.2017
+    datei_path: /uploads/praxisbesonderheit-wakix-pitolisant-news.pdf
+  - titel: >-
+      Gebrauchsinfo zu Wakix®
+    datei_path: /uploads/gebrauchsinfo-wakix.pdf
+---
+
+<section id="patienteninfo" class="container">
+  <h1 class="editable">Patienteninfo</h1>
+
+  <div class="row">
+    <div class="col-md-offset-1 col-md-10 col-lg-offset-2 col-lg-8">
+      <div class="editable">
+        <p>Im Folgenden finden Sie wichtige Informationen rund um die Narkolepsie und unser Produkt Wakix®</p>
+      </div>
+
+      <script src="https://fast.wistia.com/embed/medias/2ltnoqcq7n.jsonp" async></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async></script><div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><div class="wistia_embed wistia_async_2ltnoqcq7n seo=false videoFoam=true" style="height:100%;position:relative;width:100%"><div class="wistia_swatch" style="height:100%;left:0;opacity:0;overflow:hidden;position:absolute;top:0;transition:opacity 200ms;width:100%;"><img src="https://fast.wistia.com/embed/medias/2ltnoqcq7n/swatch" style="filter:blur(5px);height:100%;object-fit:contain;width:100%;" alt="" onload="this.parentNode.style.opacity=1;" /></div></div></div></div>
+
+      <div class="editable"></div>
+
+      <hr />
+
+      <h2 class="editable">Weitere Info zum Download</h2>
+
+      <div class="row">
+        <div class="col-md-offset-1 col-md-10 col-lg-offset-2 col-lg-8">
+          <div class="patienteninfo__downloads">
+            {% for datei in page.downloads %}
+              <a href="{{datei.datei_path}}" download><span>{{datei.titel}}</span> <span class="glyphicon glyphicon-download" aria-hidden="true"></span></a>
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+
+    </div><!-- / col -->
+  </div><!-- / row -->
+</section>

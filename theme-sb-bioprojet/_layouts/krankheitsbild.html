@@ -2,13 +2,18 @@
 layout: page
 ---
 
-<section id="infocenter" class="container">
-  <a href="/infocenter">
+<section id="indikationen" class="container">
+  <a href="/indikationen">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-    <span class="editable">Zurück zum Infocenter</span>
+    <span class="editable">Zurück zu Indikationen</span>
   </a>
 
   <h1>{{page.titel}}</h1>
+  
+  <div class="row">
+    <div class="col-md-offset-1 col-md-10 col-lg-offset-2 col-lg-8">
+      <div class="krankheitsbeschreibung">{{ content }}</div>
+    </div>
+  </div>
 
-  <div class="krankheitsbeschreibung">{{ content }}</div>
 </section>

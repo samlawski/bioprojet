@@ -31,7 +31,7 @@ theme: theme-sb-bioprojet
 collections:
   krankheitsbilder:
     output: true
-    permalink: /infocenter/:path/
+    permalink: /indikationen/:path/
 defaults:
   - scope:
       type: krankheitsbilder
@@ -46,7 +46,7 @@ defaults:
     values:
       layout: page
   - scope:
-      path: infocenter.html
+      path: indikationen.html
     values:
       layout: page
   - scope:
@@ -54,7 +54,7 @@ defaults:
     values:
       layout: page
   - scope:
-      path: patienten-service.html
+      path: patienteninfo.html
     values:
       layout: page
   - scope:

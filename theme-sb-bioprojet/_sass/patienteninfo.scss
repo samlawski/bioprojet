@@ -1,0 +1,35 @@
+#patienteninfo {
+  margin-top: 60px;
+
+  hr {
+    border: 4px solid $grey-color-light;
+  }
+}
+
+.patienteninfo__downloads {
+  a {
+    display: flex;
+    align-items: center;
+    padding: 10px 3px;
+    border-bottom: 1px solid $grey-color-light;
+    transition: .2s;
+
+    .glyphicon {
+      opacity: 0;
+      transition: .2s;
+      margin-left: 5px;
+    }
+
+    &:last-of-type {
+      border-bottom: 0;
+    }
+    &:hover {
+      background-color: lighten($grey-color, 47%);
+      text-decoration: none;
+
+      .glyphicon {
+        opacity: 1;
+      }
+    }
+  }
+}
