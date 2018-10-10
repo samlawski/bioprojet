@@ -54,7 +54,7 @@ defaults:
     values:
       layout: page
   - scope:
-      path: infocenter.html
+      path: patienteninfo.html
     values:
       layout: page
   - scope:
