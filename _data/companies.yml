@@ -1,9 +1,6 @@
 - name: Bioprojet
   logo_path: /uploads/logobioprojet-2017-pharma.jpg
   link: 'http://www.bioprojet.com/en/homepage/'
-- name: DNG
-  logo_path: /uploads/DNG.png
-  link: 'http://www.dng-ev.de'
 - name: Harmony Biosciences
   logo_path: /uploads/Logo_Harmony.jpe
   link: 'https://www.harmonybiosciences.com/'
