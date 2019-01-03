@@ -22,7 +22,6 @@ Das Symptom der Diarrhoe kann nach verschiedenen Kriterien klassifiziert werden.
 **2.1) Einteilung nach Verlauf**
 
 * akute Diarrhoe
-
 * chronische Diarrhoe
 
 **2.2) Einteilung nach Pathogenese**
@@ -42,19 +41,14 @@ Eine meist durch psychische Ausl&ouml;ser hervorgerufene Fehlsteuerung und Fehlf
 **2.3) Einteilung nach ausl&ouml;sendem Erreger**
 
 * Clostridium-difficile-assoziierte Diarrhoe (CDAD)
-
 * Campylobacter-Diarrhoe
-
 * Salmonellen-Gastroenteritis
-
 * Norovirus-Gastroenteritis
-
 * Rotavirus-Gastroenteritis
 
 **2.4) Sonderformen**
 
 * Paradoxe Diarrhoe
-
 * Antibiotika-assoziierte Diarrhoe
 
 &nbsp;
