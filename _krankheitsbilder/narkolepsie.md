@@ -56,7 +56,7 @@ Einige F&auml;lle von Narkolepsie wurden offenbar durch die **Schweinegrippe-Imp
 
 **4) Symptome**<br>Entsprechend der klinischen Symptome wurde durch die Arbeiten der Forscher **Yoss und Daily** der Begriff der **"n****arkoleptischen Tetrade"**gepr&auml;gt.<br>Dieser steht f&uuml;r die Kombination aus
 
-**4.1)&nbsp; exzessiver Tagesschl&auml;frigkeit**,
+**4.1) exzessiver Tagesschl&auml;frigkeit**,
 
 **4.2)** **Kataplexien**,
 
