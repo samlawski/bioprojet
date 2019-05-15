@@ -104,3 +104,7 @@
   link_path: 'http://eu-nn.com/eventi/eu-nn-masterclass-narcolepsy-day/'
   image_path: /uploads/logo-eunn-1a.jpg
   date: 2019-05-17 00:00:00
+- text: 'Bioprojet auf dem 92. Kongress der DGN in Stuttgart, 25.-28.09.2019'
+  link_path: 'https://www.dgnkongress.org/'
+  image_path: /uploads/dgn-kongress-2019.jpg
+  date: 2019-09-25 00:00:00
