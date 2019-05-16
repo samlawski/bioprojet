@@ -108,10 +108,14 @@
   link_path: 'https://www.dgnkongress.org/'
   image_path: /uploads/dgn-kongress-2019-1.png
   date: 2019-09-25 00:00:00
+- text:
+  link_path:
+  image_path:
+  date: 2019-09-27 00:00:00
 - text: >-
     SAVE THE DATE!!! Besuchen Sie unser Industriesymposium anlässlich des 92.
     Kongress der DGN in Stuttgart am 27.09.2019, 15:00-16:30 Uhr, im Raum
     C5.2+C5.3!
-  link_path: /uploads/dgn2019-einladungsflyer-symposium.pdf
+  link_path: /uploads/dgn-kongress-2019-einladungsflyer-symposium.pdf
   image_path: /uploads/dgn-kongress-2019.png
   date: 2019-09-27 00:00:00
