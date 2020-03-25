@@ -1,0 +1,13 @@
+---
+---
+# www.robotstxt.org/
+# www.google.com/support/webmasters/bin/answer.py?hl=en&answer=156449
+
+User-agent: *
+Sitemap: {{ "sitemap.xml" | absolute_url }}
+
+Disallow: /danke
+Disallow: /danke-registrierung
+Disallow: /registrierung
+Disallow: /registrierung-fehlgeschlagen
+Disallow: /404

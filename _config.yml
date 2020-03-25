@@ -74,10 +74,18 @@ defaults:
     values:
       layout: page
   - scope:
+      path: danke-registrierung.html
+    values:
+      layout: page
+  - scope:
       path: datenschutz.md
     values:
       layout: datenschutz
   - scope:
       path: registrierung.html
+    values:
+      layout: page
+  - scope:
+      path: registrierung-fehlgeschlagen.html
     values:
       layout: page
