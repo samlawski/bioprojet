@@ -54,6 +54,7 @@ try {
   exit();
 } catch (Exception $e) {
   // echo "Message could not be sent. \n $titel  , $vorname , $nachname , $email \n Error: {$mail->ErrorInfo} \n\n $e";
+  // print_r($_SERVER);
   header('Location: https://bioprojet.de/registrierung-fehlgeschlagen/');
   exit();
 }
