@@ -8,8 +8,9 @@ $titel = $_POST['titel'];
 $vorname = $_POST['vorname'];
 $nachname = $_POST['nachname'];
 $email = $_POST['email'];
+$plz = $_POST['plz'];
 
-$body=" Name: $titel $vorname $nachname \n Email: $email";
+$body=" Name: $titel $vorname $nachname \n Email: $email".($plz ? "\n Postleitzahl: $plz" : "");
 $subject = "Neue Registrierung auf der Webseite von $vorname $nachname";
 
 // Load PHPMailer
