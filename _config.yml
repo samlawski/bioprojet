@@ -84,6 +84,10 @@ defaults:
     values:
       layout: datenschutz
   - scope:
+      path: anmeldung.html
+    values:
+      layout: page
+  - scope:
       path: registrierung.html
     values:
       layout: page
