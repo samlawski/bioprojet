@@ -38,6 +38,10 @@ try {
   $mail->Port       = 587; // TCP port. Use 465 for `PHPMailer::ENCRYPTION_SMTPS` above
   // $mail->isHTML(true); // Set email format to HTML
   
+  // Format Email text correctly
+  $mail->Encoding = 'base64';
+  $mail->CharSet = 'UTF-8';
+
   $mail->Host       = $secret_host; // SMTP server
   $mail->Username   = $secret_username; // SMTP username
   $mail->Password   = $secret_password; // SMTP password
