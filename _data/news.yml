@@ -1,3 +1,4 @@
+---
 - text: >-
     HARMONY CTP-Studie zeigt Wirksamkeit von Pitolisant bei
     Narkolepsie-Patienten mit Kataplexie
@@ -149,7 +150,7 @@
     ab dem 15.07.2020 ist ANAPEN® in folgenden Wirkstärken verfügbar:
     Anapen® Junior 150 µg Injektionslösung, PZN 15405010 //
     Anapen® 300 µg Injektionslösung, PZN 15211429
-  link_path: 'https://anapen2.de/'
+  link_path: /uploads/pressemitteilung---anapen---juli-2020.pdf
   image_path: /uploads/anapen-packshots-und-pen.jpg
   date: 2020-07-15 00:00:00
 - text: >-
@@ -173,3 +174,4 @@
   link_path: 'https://www.heiner-brunner-seminar.eu/'
   image_path: /uploads/gpge2020.jpg
   date: 2020-11-11 12:00:00
+---
