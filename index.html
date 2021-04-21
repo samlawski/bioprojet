@@ -9,9 +9,19 @@ bild_path: ./uploads/hero-light-min.jpg
 <main>
   <section id="mission-statement" class="container">
     <div class="row">
-      <div class="editable col-lg-7 col-lg-offset-1 col-md-8 col-md-offset-2">
-        <p><strong>Bioprojet</strong> entwickelt auf der Basis eigener Grundlagenforschung neue Therapieoptionen mit dem Ziel, Krankheiten zu lindern und die Lebensqualit&auml;t von Patienten zu steigern.</p><p>Unsere <strong>Vision</strong> ist es, die Lebensperspektiven von Menschen mit schwerwiegenden Erkrankungen nachhaltig zu verbessern.</p><p>Um dieses zu <strong>verwirklichen</strong>, arbeitet Bioprojet weltweit mit Forschern, &Auml;rzten und anderen Spezialisten im Gesundheitswesen zusammen.</p>
-      </div><div class="visible-md col-md-2"><!-- SPACER --></div>
+      <div class="col-lg-7 col-lg-offset-1 col-md-8 col-md-offset-2">
+        <div class="editable">
+          <p><strong>Bioprojet</strong> entwickelt auf der Basis eigener Grundlagenforschung neue Therapieoptionen mit dem Ziel, Krankheiten zu lindern und die Lebensqualit&auml;t von Patienten zu steigern.</p><p>Unsere <strong>Vision</strong> ist es, die Lebensperspektiven von Menschen mit schwerwiegenden Erkrankungen nachhaltig zu verbessern.</p><p>Um dieses zu <strong>verwirklichen</strong>, arbeitet Bioprojet weltweit mit Forschern, &Auml;rzten und anderen Spezialisten im Gesundheitswesen zusammen.</p>
+        </div>
+
+        <div class="home__prodkte_link panel panel-info">
+          <div class="panel-body">
+            <a class="editable" href="/produkte">Weitere Informationen für Ärzte & Apotheker</a>
+          </div>
+        </div>
+      </div>
+      <div class="visible-md col-md-2"><!-- SPACER --></div>
+      
 
       {% assign news_size = site.data.news | size %}
       {% if news_size > 0 %}

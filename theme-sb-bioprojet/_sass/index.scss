@@ -24,3 +24,14 @@
   
   a:link { font-weight: 600; }
 }
+
+.home__prodkte_link {
+  margin-top: 20px;
+  border-color: rgb(182, 39, 75);
+  background-color: rgba(182, 39, 75, 0.1);
+  text-align: center;
+
+  a {
+    color: rgb(182, 39, 75);
+  }
+}
